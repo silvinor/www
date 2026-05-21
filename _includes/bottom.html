@@ -1,0 +1,30 @@
+{%- include meta.liquid -%}
+{%- assign theUrl = meta.js.jquery.url | default: "" -%}
+{%- if theUrl != "" -%}
+  <!-- JQuery, https://jquery.com -->
+  <script src="{{ meta.js.jquery.url | add_query_str: '_d', debugTag | absolute_url }}" integrity="{{ meta.js.jquery.hash }}" crossorigin="anonymous"></script>
+{%- endif -%}
+{%- assign theUrl = meta.js.popper.url | default: "" -%}
+{%- if theUrl != "" -%}
+  <!-- Popper, https://popper.js.org -->
+  <script src="{{ meta.js.popper.url | add_query_str: '_d', debugTag | absolute_url }}" integrity="{{ meta.js.popper.hash }}" crossorigin="anonymous"></script>
+{%- endif -%}
+{%- assign theUrl = meta.js.bootstrap.url | default: "" -%}
+{%- if theUrl != "" -%}
+  <!-- Bootstrap -->
+  <script src="{{ meta.js.bootstrap.url | add_query_str: '_d', debugTag | absolute_url }}" integrity="{{ meta.js.bootstrap.hash }}" crossorigin="anonymous"></script>
+{%- endif -%}
+<script src="{{ '/assets/js/ts-jekyll-bs.js' | add_query_str: '_d', debugTag | absolute_url }}"></script>
+<script src="{{ '/assets/js/app.js' | add_query_str: '_d', debugTag | absolute_url }}"></script>
+<script src="{{ '/assets/js/custom.js' | add_query_str: '_d', debugTag | absolute_url }}"></script>
+
+{%- if page.js -%}
+  {%- for jsFile in page.js -%}
+    <script src="{{ '/assets/js/' | append: jsFile | add_query_str: '_d', debugTag | absolute_url }}"></script>
+  {%- endfor -%}
+{%- endif -%}
+{%- if page.script -%}
+  <script>
+    {{ page.script }}
+  </script>
+{%- endif -%}

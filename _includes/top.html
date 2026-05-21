@@ -1,0 +1,39 @@
+{%- comment -%}<!--
+  =======================================
+  Generate SVG Sprites from `sprites.yml`
+  =======================================
+-->{%- endcomment -%}
+
+{%- assign inlineSvg = site.data.sprites | default: false -%}
+{%- if inlineSvg == false  -%}
+  {%- assign inlineSvg = site.data.sample-sprites | default: false -%}
+{%- endif -%}
+
+{%- if inlineSvg != false -%}
+
+  {%- assign spriteList = inlineSvg.meta | default: "" -%}
+  {%- if spriteList != "" -%}
+    {%- raw %}
+    {% endraw -%}
+    <!-- ===== SPRITES ===== -->
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none; visibility: hidden; max-height: 0;" aria-hidden="true">
+      {%- for icon in spriteList -%}
+        {%- raw %}
+        {% endraw -%}
+        {%- assign commentStr = icon.comment | default: ""  -%}
+        {%- if commentStr != "" -%}
+          <!-- {{ commentStr }} -->
+        {%- else -%}
+          {%- if inlineSvg.always contains icon.id  or  page.sprites contains icon.id -%}
+            <symbol id="{{ icon.id }}" viewBox="0 0 {{ icon.box }}">{{- " " -}}
+              <path fill="currentColor" d="{{ icon.data }}" />{{- " " -}}
+            </symbol>
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- raw %}
+    {% endraw -%}</svg>
+    <!-- ===== /SPRITES ===== -->
+  {%- endif -%}
+
+{%- endif -%}

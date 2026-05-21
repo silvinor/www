@@ -1,0 +1,29 @@
+## _config-dev.yml - Dev environment configs and overrides
+## @see: https://jekyllrb.com/docs/configuration/options/
+## @see: https://jekyllrb.com/docs/configuration/default/
+
+## Accepts connections on port 4000 from any source
+port: 4000
+host: 127.0.0.1
+livereload: true
+livereload_port: 4001
+open_url: true
+
+## Don't compress SASS output
+sass:
+  style: expanded
+  sourcemap: always
+  quiet_deps: true
+
+## Building
+incremental: false
+show_drafts: true
+future: true
+unpublished: true
+
+liquid:
+  error_mode: warn
+
+debug: true
+include:
+  - .well-known/appspecific/com.chrome.devtools.json

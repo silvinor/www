@@ -1,0 +1,40 @@
+{%- comment -%}
+  <!-- DATA LOAD -->
+{%- endcomment -%}
+
+{%- assign meta = site.data.meta | default: false -%}
+{%- if meta == false  -%}
+  {%- assign meta = site.data.sample-meta -%}
+{%- endif -%}
+
+{%- comment -%}
+  <!-- DEBUG -->
+{%- endcomment -%}
+
+{%- assign debugQuery = include.debug | default: site.debug | default: '' | downcase -%}
+
+{%- if debugQuery == 'false' or debugQuery == '0' or debugQuery == 'no' -%}
+  {%- assign debug = false -%}
+{%- elsif debugQuery != '' -%}
+  {%- assign debug = true -%}
+{%- elsif jekyll.environment == "development" -%}
+  {%- assign debug = true -%}
+{%- else -%}
+  {%- assign debug = false -%}
+{%- endif -%}
+
+{%- assign hasSplash = include.splash | default: false -%}
+{%- if hasSplash -%}
+  {%- raw %}
+{% endraw -%}
+  {%- if debug -%}
+    {%- assign debugTag = "now" | date: "%d%m%Y%H%M%S" -%}
+<!-- --------------------------------------------------------------------- -->
+<!-- DEBUG MODE ON | {{ "now" | date: "%d %b %Y, %H:%M:%S"}} | Tag: _d={{ debugTag }} -->
+<!-- --------------------------------------------------------------------- -->
+  {%- else -%}
+<!-- Made with <3 by Silvino R. [@silvinor](https://github.com/silvinor) -->
+  {%- endif -%}
+  {%- raw %}
+{% endraw -%}
+{%- endif -%}

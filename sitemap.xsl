@@ -1,0 +1,64 @@
+---
+# Front matter needed to trigger Jekyll conversion
+---
+
+{%- include meta.liquid -%}
+{%- assign title = site.title | default: site.github.repository_name | escape -%}
+
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="3.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:sitemap="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <xsl:template match="/">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <title>{{ title }} - Sitemap</title>
+      <meta name="color-scheme" content="{{ meta.color_scheme | default: 'light dark' }}" />
+      <link rel="stylesheet" media="all" href="{{ meta.css.bootstrap.url | absolute_url }}" integrity="{{ meta.css.bootstrap.hash | default: '' }}" crossorigin="anonymous" />
+      <style>a,a:hover{text-decoration:none;}.table{margin-top:0.5rem}.table thead td,.table thead th{border-top:none}</style>
+    </head>
+    <body>
+      <div class="container my-3">
+        <header class="row">
+          <h1 class="col h3 mt-5"><a href="{{ '/' | absolute_url }}"><img style="width:auto;height:1.5rem;margin-bottom:0.25rem" src="{{ '/assets/favicon/favicon.svg' | absolute_url }}" alt="{{ title }}" /><span> {{ site.title | default: site.github.repository_name | escape }}</span></a><small class="text-muted"> - Sitemap</small></h1>
+        </header>
+        <div class="row my-2 p-3">
+          <div class="col rounded rounded-lg border shadow">
+            <table class="table table-striped">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">URL</th>
+                <th scope="col">Last update</th>
+              </tr>
+            </thead>
+            <tbody>
+              <xsl:for-each select="sitemap:urlset/sitemap:url">
+                <tr>
+                  <td scope="row"><xsl:value-of select="position()" /></td>
+                  <td>
+                    <a>
+                      <xsl:attribute name="href">
+                        <xsl:value-of select="sitemap:loc"/>
+                      </xsl:attribute>
+                      <code><xsl:value-of select="sitemap:loc"/></code>
+                    </a>
+                  </td>
+                  <td><xsl:value-of select="sitemap:lastmod" /></td>
+                </tr>
+              </xsl:for-each>
+            </tbody>
+            </table>
+          </div>
+        </div>
+        <footer class="row">
+          <small class="col text-muted text-center">&#169; <span class="copyright">{{ "now" | date: "%Y" }}</span> | <a href="{{ '/' | absolute_url }}">{{ title }}</a></small>
+        </footer>
+      </div>
+    </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>

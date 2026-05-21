@@ -1,0 +1,50 @@
+theme:
+  scheme: light dark
+  # wrapper:
+  #   class: "one or-more wrapper-classes"
+  # header:
+  #   class: "one or-more header-classes"
+  #   inner:
+  #     class: "one or-more header-inner-classes"
+  navbar:
+    # link: /
+    # logo: /apple-touch-icon.png
+    # brand: "Silvino Rodrigues"
+    container: 2 # 1 = nav > div:.container; 2 = div:.container > nav; 0 = nav
+    class: "xxxx one or-more navbar-classes"
+    items:
+      class: "me-auto ms-auto"
+  # main:
+  #   class: "container one or-more main-classes"
+  #   inner:
+  #     class: "one or-more main-inner-classes"
+  footer:
+    class: "container"
+    # inner:
+    #   class: "one or-more footer-inner-classes mt-4"
+    copyright: 2026
+    brand: "Silvino Rodrigues"
+    # extra: "</small><span class=\"text-danger\">Extra info here!</span><small>"
+  color: "#375a7f"
+  features:
+    detect_os: 1       # 0 (default) = no, 1 = yes
+    external_links: 3  # 0 (default) = off, 1 = make target _blank, 2 = add icon, 3 = both
+    to_top_btn: 1      # 0 (default) = off, 1 = on
+    tool_tips: 1       # 0 (default) = off, 1 = on
+    disable_seo: 0     # 0 (default) SEO is ON, 1 = SEO is OFF / not generated
+css:
+  # Find latest from https://cdnjs.com/
+  # Generate SRI Hash from https://www.srihash.org/
+  bootstrap:
+    url: "https://cdn.jsdelivr.net/gh/silvinor/bootlace@HEAD/dist/css/bootlace.css"
+    hash: "sha256-3USUNudo0kS7Vez3+AQOmFT8sf7/H0iImNLha+QH9TU="
+  fontawesome:
+    url: "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css"
+    hash: "sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c="
+js:
+  popper:
+    url: "https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    hash: "sha256-whL0tQWoY1Ku1iskqPFvmZ+CHsvmRWx/PIoEvIeWh4I="
+  bootstrap:
+    url: "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js"
+    hash: "sha256-ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc="

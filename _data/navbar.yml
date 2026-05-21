@@ -1,0 +1,23 @@
+menu:
+  # - title: Home
+  #   url: /
+  #   fa: fas fa-home
+  #   active: home
+  # - title: Info
+  #   url: /
+  #   fa: fas fa-circle-info
+  #   active: info
+  #   items:
+  #     - title: Silvino R.
+  #       url: https://github.com/silvinor
+  #       svg: ray-gun
+  #       active: author
+  #     - title: ---
+  #     - title: Tecsmith
+  #       url: https://tecsmith.au
+  #       img: /assets/favicon/favicon.svg
+  #       active: tecsmith
+  #     - title: GitHub
+  #       url: https://github.com/tecsmith
+  #       fa: fab fa-github-alt
+  #       active: github

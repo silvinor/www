@@ -1,0 +1,20 @@
+# outer:
+#   class: one or-more custom-footer-outer-classes
+# inner:
+#   class: one or-more custom-footer-inner-classes
+menu:
+  # - title: Author
+  #   url: "https://github.com/silvinor"
+  #   items:
+  #     - title: Silvino R.
+  #       url: "https://github.com/silvinor"
+  #       img: "/assets/img/sample.svg"
+  # - title: Theme
+  #   items:
+  #   - title: Tecsmith
+  #     url: "https://github.com/tecsmith"
+  #     class: font-weight-bold
+  #     svg: tecsmith
+  #   - title: Source
+  #     fa: fab fa-github-alt
+  #     url: "https://github.com/tecsmith/ts-jekyll-bs"

@@ -1,0 +1,44 @@
+
+title: "Silvino Rodrigues"
+url: "https://design.tecsmith.co"
+description: >- # this means to ignore newlines until next back-indented value
+  Silvino Rodrigues
+# baseurl: ""
+timezone: Australia/Sydney
+encoding: utf-8
+
+sass:
+  load_paths:
+    - _sass
+  sass_dir: assets/css
+  # *** PROD: Nice and tight ***
+  sourcemap: never
+  style: compressed
+  quiet_deps: true
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '.sass-cache/'
+  - '.jekyll-cache/'
+  - 'gemfiles/'
+
+include:
+  ## --- from theme ---
+  - '404.html'
+  - 'site.webmanifest'
+  - 'sitemap.xsl'
+
+plugins:
+  ## ... More ...
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-avatar
+  - jekyll-last-modified-at
+#  - jekyll-toc
+#  - jekyll-email-protect
+
+## --- jekyll-seo-tag ---
+# See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+tagline: Silvino Rodrigues, Author, Neurodivergence educator

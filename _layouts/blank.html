@@ -1,0 +1,48 @@
+---
+# Front matter needed to trigger Jekyll conversion
+---
+
+<!DOCTYPE html>
+{%- include meta.liquid splash=true -%}
+{%- assign render_title = site.title -%}
+{%- if page.title and page.disable_title != true -%}
+  {%- assign full_title = page.title | append: " | " | append: site.title -%}
+{%- endif -%}
+
+{%- if page.is_post -%}
+  {%- assign render_description = page.excerpt | strip_html -%}
+{%- else -%}
+  {%- assign render_description = site.description -%}
+{%- endif -%}
+
+{%- assign header_class = site.data.globals.header_class  -%}
+{%- unless header_class -%}
+  {%- assign header_class = "" -%}
+{%- endunless -%}
+
+<html lang="{{ page.lang | default: site.lang | default: "en" }}"
+  class="{{ meta.theme.html.class }} {{ page.html.class | default: 'blank' }}"
+  data-bs-theme="auto">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ render_title }}</title>
+  <meta name="description" content="{{ render_description }}">
+  {%- if page.url != "" -%}
+    <link rel="canonical" href="{{ page.url | absolute_url | remove_trailing_slash }}">
+  {%- endif -%}
+
+  {%- include head.html -%}
+  {%- include custom-head.html -%}
+</head>
+<body class="{{ meta.theme.bodyclass }} {{ page.body.class }}">
+  {%- include top.html -%}
+  {%- include custom-top.html -%}
+
+  {{ content }}
+
+  {%- include bottom.html -%}
+  {%- include custom-bottom.html -%}
+</body>
+</html>

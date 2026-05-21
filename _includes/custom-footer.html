@@ -1,0 +1,93 @@
+{%- comment -%}
+  <!-- Sample Footer... build your own :) -->
+{%- endcomment -%}
+
+{%- include meta.liquid -%}
+{%- assign copyrightYear = meta.theme.footer.copyright | default: "2010" -%}
+{%- assign copyrightWho = meta.theme.footer.brand -%}
+{%- assign footerData = site.data.footer | default: false -%}
+{%- if footerData == false -%}
+  {%- assign footerData = site.data.sample-footer | default: false -%}
+{%- endif -%}
+{%- assign footerIcon = false -%}
+
+{% comment %}
+{%- for static_file in site.static_files -%}
+  {%- if static_file.path contains 'favicon.svg' -%}
+    {%- assign footerIcon = static_file.path -%}
+  {%- endif -%}
+{%- endfor -%}
+{% endcomment %}
+
+{%- if footerData != false -%}
+
+  {%- comment -%} <!-- collection.size is only set AFTER it's iterated --> {%- endcomment -%}
+  {%- for item in footerData.menu -%}{%- endfor -%}
+
+  {%- case footerData.menu.size -%}
+    {%- when 1 -%}
+      {%- assign f_class_lf = "col-12 col-md-8 col-md" -%}
+      {%- assign f_class_rt = "col-12 col-md-4 col-md" -%}
+    {%- when 2 -%}
+      {%- assign f_class_lf = "col-12 col-md-6" -%}
+      {%- assign f_class_rt = "col-12 col-md-3" -%}
+    {%- when 3 -%}
+      {%- assign f_class_lf = "col-12 col-md-3 col-md" -%}
+      {%- assign f_class_rt = "col-12 col-md-3 col-md" -%}
+    {%- else -%}
+      {%- assign f_class_lf = "col-12 text-center" -%}
+      {%- assign f_class_rt = "col-12 bg-danger text-warning" -%}
+  {%- endcase -%}
+
+  {%- assign outerClass = footerData.outer.class -%}
+  {%- if outerClass -%}
+    <div class="{{ footerData.outer.class }}">
+  {%- endif -%}
+
+  <div class="row {{ footerData.inner.class }}">
+    <div class="{{ f_class_lf }}">
+      {%- if footerIcon != false -%}
+        <a href="{{ '/' | absolute_url}}"><img class="footer-icon mb-2" src="{{ footerIcon | add_query_str: '_d', debugTag | ubsolute_url }}" width="48" height="48"></a>
+      {%- endif -%}
+      <small class="d-block text-muted mb-2">&copy; <span id="copyright">{{ copyrightYear }}</span><span> </span>{%- if copyrightWho != "" %}<span class="brand">{{ copyrightWho }}</span>{%- endif -%}
+      {%- if meta.theme.footer.extra -%}<br>{{ meta.theme.footer.extra }}{%- endif -%}
+      </small>
+      <button
+        type="button"
+        class="btn btn-info bg-brand-1 text-white border-brand-1 btn-to-top shadow"
+        id="btn-to-top"><i class="fas fa-arrow-up"></i></button>
+    </div>
+
+    {% for item in footerData.menu %}
+
+      <div class="{{ f_class_rt }}">
+        <h5>{% if item.url %}<a class="" href="{{ item.url | absolute_path }}" style="color:inherit">{% endif %}{{ item.title }}{% if item.url %}</a>{% endif %}</h5>
+        <ul class="list-unstyled text-small">
+          {% for sub_item in item.items %}
+            <li class="{% if forloop.first %} first{% endif%}{% if forloop.last %} last{% endif %}{% if forloop.length == 1 %} only{% endif %}">
+              {% if sub_item.url %}
+                <a class="text-muted {% if sub_item.class %}{{ sub_item.class }}{% endif %}" href="{{ sub_item.url | absolute_url | default: '#' }}">
+              {% else %}
+                <span class="text-muted {% if sub_item.class %}{{ sub_item.class }}{% endif %} nope">
+              {% endif %}
+                {% if sub_item.fa %}
+                  <i class="{{ sub_item.fa }} fa-fw"></i>
+                {% elsif sub_item.svg %}
+                  <svg class="fa fa-fw" style="max-height:1rem"><use xlink:href="#{{ sub_item.svg }}" /></svg>
+                {% elsif sub_item.img %}
+                  <img class="fa fa-fw" style="max-height:1rem" src="{{ sub_item.img | absolute_url }}" height="16">
+                {% endif %}
+                {{ sub_item.title }}
+              {% if sub_item.url %}</a>{% else %}</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
+  </div>
+
+  {%- if outerClass -%}
+    </div>
+  {%- endif -%}
+
+{%- endif -%}

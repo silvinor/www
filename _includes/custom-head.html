@@ -1,0 +1,17 @@
+{%- include meta.liquid -%}
+{%- assign disableSeo = meta.theme.features.disable_seo | downcase | strip | default: false -%}
+{%- case disableSeo -%}
+  {%- when true, "true", 1, "1", "yes", "on" -%}
+    {%- assign disableSeo = true -%}
+  {%- when false, "false", 0, "0", "no", "off" -%}
+    {%- assign disableSeo = false -%}
+  {%- else %}
+    <!-- Error in site.data.meta.theme.features.disable_seo -->
+    {%- assign disableSeo = false -%}
+{%- endcase -%}
+
+<!-- SEO -->
+{% if disableSeo == false -%}
+  {%- seo title=false -%}
+{%- endif -%}
+<!-- /SEO -->

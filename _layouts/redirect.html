@@ -1,0 +1,35 @@
+---
+# Front matter needed to trigger Jekyll conversion
+---
+
+<!DOCTYPE html>
+{%- include meta.liquid splash=true -%}
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% if page.target %}<meta http-equiv="refresh" content="0; url={{ page.target }}">{% endif %}
+  <title>{% if page.title %}{{ page.title }}{% else %}Redirecting...{% endif %}</title>
+  <meta name="color-scheme" content="light dark">
+  <style>
+    :root, html, body { font-family: monospace; }
+    * { color: #111; background-color: #eee; }
+    @media (prefers-color-scheme: dark) {
+      * { color: #ddd; background-color: #222; }
+    }
+    body {
+      margin: 1rem; height: 100vh; display: flex;
+      justify-content: center; align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <p>
+    {%- if page.target -%}
+    If you are not redirected automatically, <a href="{{ page.target | absolute_url }}">click here</a>.
+    {%- else -%}
+    ¿Not sure how you got here, but there is nothing to redirect to?
+    {%- endif -%}
+  </p>
+</body>
+</html>

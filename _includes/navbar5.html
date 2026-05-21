@@ -1,0 +1,176 @@
+{%- comment -%}
+  <!-- Bootstrap 5 Top Nav Menu -->
+{%- endcomment -%}
+
+{%- include meta.liquid -%}
+{%- assign navBar = site.data.navbar | default: false -%}
+{%- if navBar == false -%}
+  {%- assign navBar = site.data.sample-navbar | default: false -%}
+{%- endif -%}
+{%- if navBar != false -%}
+  {%- if navBar.menu -%}
+
+    {%- assign navbarContainer = meta.theme.navbar.container | default: '' | strip -%}
+    {%- assign navbarClass = page.navbar.class | default: meta.theme.navbar.class | default: '' -%}
+    {%- assign navbarItemsClass = page.navbar.items.class | default: meta.theme.navbar.items.class | default: 'me-auto' -%}
+
+    {%- case navbarContainer -%}
+      {%- when '1' -%}
+        <nav class="navbar navbar-expand-lg {{ navbarClass }}"><div class="container">
+      {%- when '2' -%}
+        <div class="container"><nav class="navbar navbar-expand-lg {{ navbarClass }}">
+      {%- else -%}
+        <nav class="navbar navbar-expand-lg {{ navbarClass }}">
+    {%- endcase -%}
+
+    {%- assign brandLink = meta.theme.navbar.link | default: "" -%}
+    {%- assign navLogo = meta.theme.navbar.logo | default: "" -%}
+    {%- assign navBrand = meta.theme.navbar.brand | default: "" -%}
+
+    {%- if brandLink != "" or navLogo != "" or navBrand != "" -%}
+      {%- if brandLink != "" -%}
+        <a class="navbar-brand" href="{{ brandLink | absolute_url }}">
+      {%- else -%}
+        <span class="navbar-brand">
+      {%- endif -%}
+      {%- if navLogo != "" -%}
+        <img class="navbar-brand-logo" src="{{ navLogo | absolute_url }}" alt="{{ site.title }}" style="height:1.5em" />
+      {%- endif -%}
+      {%- if navLogo != "" and navBrand != "" -%}<span class="navbar-brand-space"></span>{%- endif -%}
+      {%- if navBrand != "" -%}
+        <span class="navbar-brand-name">{{ navBrand }}</span>
+      {%- endif -%}
+      {%- if brandLink != "" -%}</a>{%- else %}</span>{%- endif -%}
+    {%- endif -%}
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <!-- Menu Items -->
+      <ul class="navbar-nav mb-2 mb-lg-0 {{ navbarItemsClass }}">
+
+        {%- for item in navBar.menu -%}
+          {%- if item.items[0] == null -%}
+            {%- comment -%}<!--
+              ****************************
+              Single item
+              ****************************
+            -->{%- endcomment -%}
+
+            <li class="nav-item
+              {%- if forloop.first %} first{% endif -%}
+              {%- if forloop.last %} last{% endif -%}
+              {%- if forloop.length == 1 %} only{% endif -%}
+              {%- if page.active == item.active %} active{% endif -%}
+              {{- ' item-' | append: forloop.index -}}">
+              <a class="nav-link
+                {%- if item.class %} {{ item.class }}{% endif -%}"
+                href="{{ item.url | absolute_url }}"
+                {%- if item.hint %} title="{{ item.hint }}" {% endif -%}
+                id="nav-link-{{ forloop.index }}">
+                {%- if item.fa -%}
+                  <i class="fa fa-fw {{ item.fa }}"></i>
+                {%- elsif item.img -%}
+                  <img class="fa fa-fw {{ item.img_class }}" style="max-height:1rem" src="{{ item.img | absolute_url }}" />
+                {%- elsif item.svg -%}
+                  <svg class="fa fa-fw {{ item.img_class }}" style="max-height:1rem"><use xlink:href="#{{ item.svg }}" /></svg>
+                {%- endif -%}
+                {{- ' ' -}}{{- item.title -}}
+              </a>
+            </li>
+
+          {%- else -%}
+            {%- comment -%}<!--
+              ****************************
+              Dropdown item
+              ****************************
+            -->{%- endcomment -%}
+
+            <li class="nav-item dropdown
+              {%- if forloop.first %} first{% endif -%}
+              {%- if forloop.last %} last{% endif -%}
+              {%- if forloop.length == 1 %} only{% endif -%}
+              {%- if page.active == item.active %} active{% endif -%}
+              {{- ' item-' | append: forloop.index -}}
+              ">
+              <a class="nav-link dropdown-toggle
+                {%- if item.class %}{{ ' ' | append: item.class }}{% endif -%}
+                "
+                href="{{ item.url | absolute_url | default: '#' }}"
+                id="nav-link-{{ forloop.index }}"
+                data-bs-toggle="dropdown"
+                role="button">
+                {%- if item.fa -%}
+                  <i class="fa fa-fw {{ item.fa }}"></i>
+                {%- elsif item.img -%}
+                  <img class="fa fa-fw {{ item.img_class }}" style="max-height:1rem" src="{{ item.img | absolute_url }}" />
+                {%- elsif item.svg -%}
+                  <svg class="fa fa-fw" style="max-height:1rem"><use xlink:href="#{{ item.svg }}" /></svg>
+                {%- endif -%}
+                {{- ' ' -}}{{- item.title -}}
+              </a>
+              <ul class="dropdown-menu">
+                {%- assign parent_index = forloop.index -%}
+                {%- for sub_item in item.items -%}
+                  {%- comment -%}<!--
+                    ********** Sub_items **********
+                  -->{%- endcomment -%}
+
+                  <li>
+                  {%- if sub_item.title != "---" -%}
+
+                    <a class="dropdown-item
+                      {%- if forloop.first %} first{% endif -%}
+                      {%- if forloop.last %} last{% endif -%}
+                      {%- if forloop.length == 1 %} only{% endif -%}
+                      {{- ' item-' | append: forloop.index -}}
+                      {%- if page.active_sub -%}
+                        {%- if page.active_sub == sub_item.active %} active{% endif -%}
+                      {%- endif -%}
+                      {%- if sub_item.class %}{{ ' ' | append: sub_item.class }}{% endif -%}
+                      "
+                      id="nav-link-{{ parent_index }}-{{ forloop.index }}"
+                      href="{{ sub_item.url | absolute_url }}">
+                      {% if sub_item.fa %}
+                        <i class="fa fa-fw {{ sub_item.fa }}"></i>
+                      {%- elsif sub_item.img -%}
+                        <img class="fa fa-fw {{ sub_item.img_class }}" src="{{ sub_item.img | absolute_url }}" />
+                      {% elsif sub_item.svg %}
+                        <svg class="fa fa-fw" style="max-height:1rem"><use xlink:href="#{{ sub_item.svg }}" /></svg>
+                      {% endif %}
+                      {{- ' ' -}}{{- sub_item.title -}}
+                    </a>
+
+                  {%- else -%}
+                    <hr class="dropdown-divider {{ 'item-' | append: forloop.index }}" />
+                  {%- endif -%}
+                  </li>
+
+                {% endfor %}
+              </ul>
+            </li>
+
+          {%- endif -%}
+        {%- endfor -%}
+
+      </ul>
+      {%- if navBar.action -%}
+        <form class="d-flex">
+          {%- for item in navBar.action -%}
+            <a class="btn btn-sm {{ item.class }}" href="{{ item.url | absolute_url }}">{{ item.button }}</a>
+          {%- endfor -%}
+        </form>
+      {%- endif -%}
+    </div>
+
+    {%- case navbarContainer -%}
+      {%- when '1' -%}
+        </div></div>
+      {%- when '2' -%}
+        </nav></>
+      {%- else -%}
+        </nav>
+    {%- endcase -%}
+  {%- endif -%}
+{%- endif -%}

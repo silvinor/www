@@ -1,0 +1,107 @@
+{%- include meta.liquid -%}
+
+<!-- favicon -->
+{%- assign favIco = false -%}
+{%- assign favGif = false -%}
+{%- assign favSVG = false -%}
+{%- assign fav180 = false -%}
+{%- assign fav32 = false -%}
+{%- assign fav16 = false -%}
+{%- assign favMnf = false -%}
+{%- for static_file in site.static_files -%}
+  {%- if static_file.path contains 'favicon.ico' -%}
+    {%- assign favIco = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
+  {%- endif -%}
+  {%- if static_file.path contains 'favicon.gif' -%}
+    {%- assign favGif = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
+  {%- endif -%}
+  {%- if static_file.path contains 'favicon.svg' -%}
+    {%- assign favSvg = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
+  {%- endif -%}
+  {%- if static_file.path contains 'apple-touch-icon.png' -%}
+    {%- assign fav180 = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
+  {%- endif -%}
+  {%- if static_file.path contains 'favicon-32x32.png' -%}
+    {%- assign fav32 = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
+  {%- endif -%}
+  {%- if static_file.path contains 'favicon-16x16.png' -%}
+    {%- assign fav16 = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
+  {%- endif -%}
+  {%- if static_file.path contains 'site.webmanifest' -%}
+    {%- assign favMnf = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{% if favGif != false %}
+  <link rel="icon" type="image/gif" href="{{ favGif }}">
+{% endif %}
+{%- if fav32 or fav16 -%}
+  {% if fav16 %}
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ fav16 }}">
+  {% endif %}
+  {% if fav32 %}
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ fav32 }}">
+  {% endif %}
+{%- else -%}
+  {%- if favIco != false -%}
+    <link rel="icon" href="{{ favIco }}">
+  {%- endif -%}
+{%- endif -%}
+{% if favSvg != false %}
+  <link rel="icon" type="image/svg+xml" href="{{ favSvg }}">
+{% endif %}
+{% if fav180 %}
+  <meta name="apple-mobile-web-app-title" content="{{ render_title | strip_html }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ fav180 }}">
+{% endif %}
+{% if favMnf %}
+  <link rel="manifest" href="{{ favMnf }}">
+{% endif %}
+
+{% if meta.theme.scheme %}
+  <meta name="color-scheme" content="{{ meta.theme.scheme }}">
+{% endif %}
+
+{%- assign theUrl = meta.css.bootstrap.url | default: "" -%}
+{% if theUrl != "" %}
+  <!-- Boostrap -->
+  <link rel="stylesheet" media="all" href="{{ theUrl | add_query_str: '_d', debugTag | absolute_url }}" integrity="{{ meta.css.bootstrap.hash }}" crossorigin="anonymous">
+{% endif %}
+
+{%- assign theUrl = meta.css.fontawesome.url | default: "" -%}
+{% if theUrl != "" %}
+  <!-- FontAwesome -->
+  <link rel="stylesheet" media="all" href="{{ theUrl | add_query_str: '_d', debugTag | absolute_url }}" integrity="{{ meta.css.fontawesome.hash }}" crossorigin="anonymous">
+{% endif %}
+
+<link rel="stylesheet" media="all" href="{{ '/assets/css/ts-jekyll-bs.css' | add_query_str: '_d', debugTag | absolute_url }}">
+<link rel="stylesheet" media="all" href="{{ '/assets/css/app.css' | add_query_str: '_d', debugTag | absolute_url }}">
+<link rel="stylesheet" media="all" href="{{ '/assets/css/custom.css' | add_query_str: '_d', debugTag | absolute_url }}">
+
+{%- if page.css -%}
+  {%- for href in page.css -%}
+    {% if href contains '://' %}
+      <link rel="stylesheet" href="{{ href | relative_url }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ 'assets/css/' | append: href | add_query_str: '_d', debugTag | absolute_url }}">
+    {% endif %}
+  {%- endfor -%}
+{%- endif -%}
+
+{% if page.style %}
+  <style type="text/css">
+    {{ page.style }}
+  </style>
+{% endif %}
+
+  <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="{{ '/feed.xml' | add_query_str: '_d', debugTag | absolute_url }}">
+
+{% if page.url == '/404.html' %}
+  <meta http-equiv="refresh" content="30; url={{ '/' | absolute_url}}" />
+{% endif %}
+
+{%- if page.head -%}
+  {%- for headItem in page.head -%}
+    {{ headItem }}
+  {%- endfor -%}
+{%- endif -%}

@@ -1,0 +1,65 @@
+---
+# Front matter needed to trigger Jekyll conversion
+---
+
+<!DOCTYPE html>
+{%- include meta.liquid splash=true -%}
+{%- assign render_title = site.title -%}
+{%- if page.title and page.disable_title != true -%}
+  {%- assign full_title = page.title | append: " | " | append: site.title -%}
+{%- endif -%}
+
+{%- if page.is_post -%}
+  {%- assign render_description = page.excerpt | strip_html -%}
+{%- else -%}
+  {%- assign render_description = site.description -%}
+{%- endif -%}
+
+{%- assign header_class = site.data.globals.header_class  -%}
+{%- unless header_class -%}
+  {%- assign header_class = "" -%}
+{%- endunless -%}
+
+<html lang="{{ page.lang | default: site.lang | default: "en" }}"
+  class="{{ meta.theme.html.class }} {{ page.html.class | default: 'default' }}"
+  data-bs-theme="auto">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ render_title }}</title>
+  <meta name="description" content="{{ render_description }}">
+  {% if page.url != "" %}
+    <link rel="canonical" href="{{ page.url | absolute_url | remove_trailing_slash }}">
+  {% endif %}
+
+  {%- include head.html -%}
+  {%- include custom-head.html -%}
+</head>
+<body class="{{ meta.theme.bodyclass }} {{ page.body.class }}">
+  {%- include top.html -%}
+  {%- include custom-top.html -%}
+  {%- if meta.theme.wrapper.class -%}<div class="meta.theme.wrapper.class">{%- endif -%}
+  <header id="header" class="{{ meta.theme.header.class | default: 'header' }} {{ page.header.class }}">
+    {%- if meta.theme.header.inner.class -%}<div class="{{ meta.theme.header.inner.class }}">{%- endif -%}
+    {%- include header.html -%}
+    {%- include custom-header.html -%}
+    {%- if meta.theme.header.inner.class -%}</div>{%- endif -%}
+  </header>
+  <main id="main" class="main {{ meta.theme.main.class | default: 'container' }} {{ page.main.class }}">
+    <div class="{{ meta.theme.main.inner.class }} {{ meta.theme.content.class | default: 'content' }} {{ page.content.class }}">
+      {{ content }}
+    </div>
+  </main>
+  <footer id="footer" class="site-footer {{ meta.theme.footer.class }} {{ page.footer.class }}">
+    {%- if meta.theme.footer.inner.class -%}<div class="{{ meta.theme.footer.inner.class }}">{%- endif -%}
+    {%- include custom-bottom.html -%}
+    {%- include footer.html -%}
+    {%- include custom-footer.html -%}
+    {%- if meta.theme.footer.inner.class -%}</div>{%- endif -%}
+  </footer>
+  {%- if meta.theme.wrapper.class -%}</div>{%- endif -%}
+  {%- include bottom.html -%}
+  {%- include custom-bottom.html -%}
+</body>
+</html>
