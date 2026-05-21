@@ -7,6 +7,15 @@ description: >- # this means to ignore newlines until next back-indented value
 timezone: Australia/Sydney
 encoding: utf-8
 
+## Building
+show_drafts: false
+future: false
+unpublished: false
+debug: false
+
+liquid:
+  error_mode: strict
+
 sass:
   load_paths:
     - _sass
@@ -33,11 +42,11 @@ plugins:
   ## ... More ...
   - jekyll-feed
   - jekyll-sitemap
-  - jemoji
-  - jekyll-avatar
+  # - jemoji
+  # - jekyll-avatar
   - jekyll-last-modified-at
-#  - jekyll-toc
-#  - jekyll-email-protect
+  # - jekyll-toc
+  # - jekyll-email-protect
 
 ## --- jekyll-seo-tag ---
 # See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md

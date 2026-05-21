@@ -8,7 +8,7 @@ figlet " Jekyll"
 echo ""
 
 bundle exec jekyll clean
-bundle exec jekyll build --config "_config.yml,_config-prod.yml"
+bundle exec jekyll build --config "_config.yml"
 
 # echo "Running..."
 # figlet " NPM"

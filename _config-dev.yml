@@ -20,10 +20,10 @@ incremental: false
 show_drafts: true
 future: true
 unpublished: true
+debug: true
 
 liquid:
   error_mode: warn
 
-debug: true
 include:
   - .well-known/appspecific/com.chrome.devtools.json
