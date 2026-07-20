@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{%- comment -%}
+  Category listing page: renders the page's own intro content, then the
+  same post list as the home page, filtered to page.category (all posts
+  when no category is set).
+{%- endcomment -%}
+
+{%- if page.category -%}
+  {%- assign list_posts = site.categories[page.category] -%}
+{%- else -%}
+  {%- assign list_posts = site.posts -%}
+{%- endif -%}
+
+<div class="row justify-content-center">
+  <div class="col-lg-9 col-xl-8">
+
+    {{ content }}
+
+    {%- include post-list.html posts=list_posts -%}
+
+  </div>
+</div>

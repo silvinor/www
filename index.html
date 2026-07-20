@@ -1,16 +1,19 @@
 ---
 layout: home
 title: Silvino Rodrigues
+active: home
 ---
 
-<div class="container min-vh-100 d-flex align-items-center justify-content-center py-5">
-  <div class="text-center">
-    <img
-      src="{{ '/assets/favicon/favicon.svg' | relative_url }}"
-      alt="Site logo"
-      class="img-fluid mb-4 rounded rounded-circle border border-1 shadow shadow-lg"
-      style="width: 256px; height: 256px;"
-    >
-    <p class="fs-4 mb-0"><span class="display-4">Nothing to see here</span> <br>... at least not yet</p>
+<div class="row justify-content-center">
+  <div class="col-lg-9 col-xl-8">
+
+    {%- if site.posts.size > 0 -%}
+    <div class="d-flex align-items-baseline justify-content-between mb-2">
+      <h2 class="h6 text-uppercase text-body-secondary mb-0" style="letter-spacing: .08em;">Latest writing</h2>
+    </div>
+    {%- endif -%}
+
+    {%- include post-list.html posts=site.posts -%}
+
   </div>
 </div>

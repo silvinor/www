@@ -1,23 +1,26 @@
 menu:
-  # - title: Home
-  #   url: /
-  #   fa: fas fa-home
-  #   active: home
-  # - title: Info
-  #   url: /
-  #   fa: fas fa-circle-info
-  #   active: info
-  #   items:
-  #     - title: Silvino R.
-  #       url: https://github.com/silvinor
-  #       svg: ray-gun
-  #       active: author
-  #     - title: ---
-  #     - title: Tecsmith
-  #       url: https://tecsmith.au
-  #       img: /assets/favicon/favicon.svg
-  #       active: tecsmith
-  #     - title: GitHub
-  #       url: https://github.com/tecsmith
-  #       fa: fab fa-github-alt
-  #       active: github
+  - title: Silvino Rodrigues
+    url: /
+    img: /apple-touch-icon.png
+    active: home
+  # - title: Essays
+  #   url: /essays/
+  #   fa: fas fa-newspaper
+  #   active: essays
+  - title: Proposals
+    url: /proposals/
+    fa: fas fa-lightbulb
+    active: proposals
+  # - title: Theses
+  #   url: /thesis/
+  #   fa: fas fa-graduation-cap
+  #   active: thesis
+  - title: Books
+    fa: fas fa-book
+    items:
+      - title: Loving Variant Minds
+        url: https://c1k.it/lvm
+        fa: fas fa-book-open
+      - title: Modernising HR for Variant Minds
+        url: https://c1k.it/mvm
+        fa: fas fa-book-open

@@ -4,8 +4,17 @@ url: "https://silvinorodrigues.com"
 description: >- # this means to ignore newlines until next back-indented value
   Silvino Rodrigues
 # baseurl: ""
-timezone: Australia/Sydney
+timezone: "Australia/Sydney"
 encoding: utf-8
+lang: en-AU
+date_format: "%-d %b %Y"
+
+# more Meta
+name: Variant Minds
+color:
+  theme: '#30939e'
+  background: transparent
+excerpt_separator: '<!--more-->'
 
 ## Building
 show_drafts: false
@@ -47,7 +56,12 @@ plugins:
   - jekyll-last-modified-at
   # - jekyll-toc
   # - jekyll-email-protect
+  - jekyll-seo-tag
+
+## --- jekyll-category-pages config ---
+# category_path: .
+# category_layout: my-category.html
 
 ## --- jekyll-seo-tag ---
 # See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-tagline: Silvino Rodrigues, Author, Neurodivergence educator
+tagline: Silvino Rodrigues, Author & Neurodivergent Advocate

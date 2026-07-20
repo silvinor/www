@@ -9,6 +9,8 @@ livereload: true
 livereload_port: 4001
 open_url: true
 
+url: ""
+
 ## Don't compress SASS output
 sass:
   style: expanded

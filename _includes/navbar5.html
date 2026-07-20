@@ -27,6 +27,13 @@
     {%- assign navLogo = meta.theme.navbar.logo | default: "" -%}
     {%- assign navBrand = meta.theme.navbar.brand | default: "" -%}
 
+    {%- comment -%} No brand on the home page — the hero already carries the identity {%- endcomment -%}
+    {%- if page.active == 'home' -%}
+      {%- assign brandLink = "" -%}
+      {%- assign navLogo = "" -%}
+      {%- assign navBrand = "" -%}
+    {%- endif -%}
+
     {%- if brandLink != "" or navLogo != "" or navBrand != "" -%}
       {%- if brandLink != "" -%}
         <a class="navbar-brand" href="{{ brandLink | absolute_url }}">
@@ -51,6 +58,8 @@
       <ul class="navbar-nav mb-2 mb-lg-0 {{ navbarItemsClass }}">
 
         {%- for item in navBar.menu -%}
+          {%- comment -%} Don't show the Home item when already on the home page {%- endcomment -%}
+          {%- unless item.active == 'home' and page.active == 'home' -%}
           {%- if item.items[0] == null -%}
             {%- comment -%}<!--
               ****************************
@@ -65,8 +74,10 @@
               {%- if page.active == item.active %} active{% endif -%}
               {{- ' item-' | append: forloop.index -}}">
               <a class="nav-link
+                {%- if page.active == item.active %} active{% endif -%}
                 {%- if item.class %} {{ item.class }}{% endif -%}"
                 href="{{ item.url | absolute_url }}"
+                {%- if page.active == item.active %} aria-current="page" {% endif -%}
                 {%- if item.hint %} title="{{ item.hint }}" {% endif -%}
                 id="nav-link-{{ forloop.index }}">
                 {%- if item.fa -%}
@@ -95,6 +106,7 @@
               {{- ' item-' | append: forloop.index -}}
               ">
               <a class="nav-link dropdown-toggle
+                {%- if page.active == item.active %} active{% endif -%}
                 {%- if item.class %}{{ ' ' | append: item.class }}{% endif -%}
                 "
                 href="{{ item.url | absolute_url | default: '#' }}"
@@ -152,6 +164,7 @@
             </li>
 
           {%- endif -%}
+          {%- endunless -%}
         {%- endfor -%}
 
       </ul>
@@ -168,7 +181,7 @@
       {%- when '1' -%}
         </div></div>
       {%- when '2' -%}
-        </nav></>
+        </nav></div>
       {%- else -%}
         </nav>
     {%- endcase -%}

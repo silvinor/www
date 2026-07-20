@@ -3,3 +3,22 @@
 ---
 
 @charset "utf-8";
+
+// On desktop, lift the navbar brand out of the flex flow so the centered
+// menu (.navbar-nav with mx-auto) aligns to the true page center-line
+// instead of the space left over beside the brand. Anchors to the nav
+// (sticky-top), giving a full-bleed brand at the band's left edge.
+// Below lg the brand stays in normal flow (left, toggler right).
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-brand {
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    transform: translateY(-50%);
+    margin-right: 0;
+  }
+}
+
+.footnotes {
+  font-size: 80%;
+}

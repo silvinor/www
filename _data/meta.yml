@@ -10,12 +10,12 @@ theme:
     # link: /
     # logo: /apple-touch-icon.png
     # brand: "Silvino Rodrigues"
-    container: 2 # 1 = nav > div:.container; 2 = div:.container > nav; 0 = nav
-    class: "xxxx one or-more navbar-classes"
+    container: 1 # 1 = nav > div:.container; 2 = div:.container > nav; 0 = nav
+    class: "sticky-top bg-body-tertiary border-bottom shadow-sm py-1"
     items:
       class: "me-auto ms-auto"
-  # main:
-  #   class: "container one or-more main-classes"
+  main:
+    class: "container py-4"
   #   inner:
   #     class: "one or-more main-inner-classes"
   footer:
