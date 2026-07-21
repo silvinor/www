@@ -5,6 +5,8 @@ permalink: /proposals/late-diagnosis-relationships.html
 author: Silvino Rodrigues
 category: Proposals
 tags: Autism, ADHD
+excerpt: >-
+  Autism and ADHD are now routinely diagnosed in adults in their thirties, forties and fifties. At those ages most people are partnered, and have been for some time. A late diagnosis therefore does not arrive into a life. It arrives into a relationship that was built, negotiated and defended for years without it. Does the relationship change? In what direction, over what period, and for which partner first?
 ---
 
 # The Second Person in the Room: Late Diagnosis and Relationship Outcomes
@@ -16,8 +18,6 @@ Autism and ADHD are now routinely diagnosed in adults in their thirties, forties
 Does the relationship change? In what direction, over what period, and for which partner first?
 
 As far as I can find, nobody has measured it.[^a]
-
-<!-- more -->
 
 ## Where the question came from
 

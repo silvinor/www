@@ -4,7 +4,11 @@
     posts : array of posts to render (required)
 {%- endcomment -%}
 
-{%- for post in include.posts -%}
+{%- assign sorted_posts = include.posts -%}
+{%- if include.posts.size > 0 -%}
+  {%- assign sorted_posts = include.posts | sort: 'date' | reverse -%}
+{%- endif -%}
+{%- for post in sorted_posts -%}
 {%- comment -%}
   Excerpt: prefer an explicit description; otherwise use the auto excerpt.
   Posts that open with an H1 repeating the title get it stripped off the
