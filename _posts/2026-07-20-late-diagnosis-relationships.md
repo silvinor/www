@@ -91,20 +91,6 @@ That group is the control that this question needs. People who present for asses
 
 The second structural gift is the waiting list. Median waits for adult neurodevelopmental assessment ran to 252 days in one Scottish audit, with wide variation and long tails.[^14] From a clinical standpoint that is a scandal. From a design standpoint it is an eight-month window in which a cohort can be recruited, baselined and observed *before* anyone knows the answer - which is the only way to get genuine pre-shock measurement rather than retrospective reconstruction through the lens of a diagnosis already received.
 
-## And then what happens when you stop?
-
-There is a part of this I did not think about until someone asked me, and it may be the most important part.
-
-These drugs are not usually a course of treatment with an end. When people stop taking them, the weight tends to return. In the extension of one of the major semaglutide trials, participants who came off the drug regained two-thirds of what they had lost within a year, and the improvements to blood pressure and blood sugar went with it.[^14] The authors drew the obvious conclusion: obesity behaves like a chronic condition, and stopping the treatment tends to undo the result.
-
-But people do stop. They stop because of cost, because of side effects, because of supply, because they moved, because they thought they were finished. And here is what I had assumed and was wrong about: I expected to find an established practice of psychological support for coming off these drugs, so that I could ask why autistic people were being left out of it. There is no such established practice. A 2025 review states plainly that behavioural support is not currently standard when these drugs are prescribed at all, and that what happens psychologically after people stop is poorly understood.[^15]
-
-Now think about what stopping actually involves, in terms of the sense this essay is about.
-
-For a year or two, the drug has been managing your hunger signal for you. Then it stops, and the signal is handed back. For anyone, that is a strange experience - hunger arriving with a force it had not had for a long time, and the mental noise around food returning after a period of quiet. For someone whose interoception was already unreliable before the drug, the handover is stranger still. You are being given back a signal you never read well, after a long period of not having to read it at all, and you are being asked to manage it without anyone having told you what to expect.
-
-I do not know whether that is harder for autistic people than for anyone else. I suspect it might be, and I can construct the argument either way, which is a sign that it needs measuring rather than assuming. What I am confident about is that nobody is currently studying it, and that a person coming off one of these drugs with no preparation and a returning hunger they cannot interpret is a person at risk of concluding that they have failed.
-
 ## What I would actually do
 
 - **Recruit at referral, not at diagnosis.** Enrol partnered adults at the point of joining an adult assessment waiting list, before the outcome is known. Neither the participant nor the researcher can know which arm they will fall into, which removes the selection problem at the root.
