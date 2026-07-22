@@ -197,6 +197,8 @@ An autistic adult who has spent thirty years being told they are a poor sport, a
 
 I keep arriving at the same place from different directions. Most of what a psychologist usefully does is tell somebody what is happening to them. You cannot do that for a pattern nobody has measured, and nobody has measured this one in anybody old enough to have been shaped by it.
 
+<p align="center">&#x2042;</p>
+
 ---
 
 [^1]: Thompson, C., Brook, M., Hick, S., Miotti, C., Toong, R. & McVeigh, J. A. (2022). Physical activity, sedentary behaviour and their correlates in adults with autism spectrum disorder: A systematic review. *Review Journal of Autism and Developmental Disorders*. [DOI: 10.1007/s40489-022-00305-x](https://doi.org/10.1007/s40489-022-00305-x)

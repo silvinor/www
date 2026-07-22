@@ -19,13 +19,15 @@ As far as I can find, nobody has asked.
 
 ## Where the question came from
 
-In Chapter 3 of _Loving Variant Minds_ I described interoception as the most important sense you have never heard of. It is the sense that reports on the inside of your body: hunger, thirst, temperature, needing the toilet, the racing heart that tells you that you are anxious. Many autistic people describe this sense as unreliable, and it fails in both directions. Some do not notice hunger until they are shaking and irritable. They forget to drink. They push through illness without registering how unwell they are. Partners end up asking "have you eaten today?" like a parent, and both people find it frustrating. Others have the opposite experience: hunger that never quite switches off, a meal that ends without the body registering that it has ended, food occupying far more mental space than it seems to for anyone else. The single autistic case report in this literature is a young man of exactly that second kind.
+In Chapter 3 of [_Loving Variant Minds_](https://c1k.it/lvm) I described interoception as the most important sense you have never heard of. It is the sense that reports on the inside of your body: hunger, thirst, temperature, needing the toilet, the racing heart that tells you that you are anxious. Many autistic people describe this sense as unreliable, and it fails in both directions. Some do not notice hunger until they are shaking and irritable. They forget to drink. They push through illness without registering how unwell they are. Partners end up asking "have you eaten today?" like a parent, and both people find it frustrating. Others have the opposite experience: hunger that never quite switches off, a meal that ends without the body registering that it has ended, food occupying far more mental space than it seems to for anyone else. The single autistic case report in this literature is a young man of exactly that second kind.
 
 Now consider what a GLP-1 drug actually does.
 
 GLP-1 is a hormone your gut releases when food arrives. It is one of the messengers that tells your brain the meal is over. Semaglutide - sold as Ozempic and Wegovy - is a manufactured copy of that messenger, engineered to last far longer in the body than the natural version. Liraglutide is an earlier drug of the same family. The advertised effect is weight loss. The actual mechanism is a change to the hunger signal itself.
 
 So we have a class of drug that acts directly on a body signal, and a population known for reading that signal differently. That is a question. It might even be a good one.
+
+One more thing, before the evidence. This is not a hypothetical population. Autistic people are more likely to be obese than non-autistic people - a meta-analysis of fifteen studies covering nearly fifty million people put the odds at roughly one and a half to two and a half times higher.[^17] A larger review of ninety-five studies found obesity in around a fifth of autistic people overall, rising to nearly a third in autistic adults.[^18] Notice what happens with age: the gap widens as autistic children become autistic adults. And notice what the same review found at the other end, because it matters for what follows - underweight was also more common, and also rose with age. We are not slightly heavier as a group. We are concentrated at both ends.
 
 ## What the evidence actually says
 
@@ -37,7 +39,7 @@ I want to be honest about how little there is.
 
 There is a detail in that case worth holding onto. His weight gain had been caused by the antipsychotic medication he was given for behavioural problems in the first place. That is not a footnote. It is a common autistic story, and it is one reason autistic people end up as candidates for weight-loss drugs at all.
 
-**Trials.** I have not been able to find a single registered trial of a GLP-1 drug in an autistic population.[^a] I would be glad to be corrected. There are active semaglutide trials for alcohol dependence, opioid dependence, Alzheimer's, asthma, arthritis and adolescent bone health. There is not one for autism. Not recruiting, not planned, not completed.
+**Trials.** I have not been able to find a single registered trial of a GLP-1 drug in an autistic population.[^a] There are active semaglutide trials for alcohol dependence, opioid dependence, Alzheimer's, asthma, arthritis and adolescent bone health.
 
 So the entire human evidence base for my question is a single case report from 2019.
 
@@ -73,9 +75,25 @@ If I had to justify this research on public health grounds rather than curiosity
 
 Avoidant/restrictive food intake disorder - ARFID - is not about body image. It is restriction driven by sensory aversion, by fear of choking or vomiting, or simply by a lack of interest in eating. It overlaps heavily with autism. A 2025 meta-analysis found autism in around sixteen percent of people with ARFID, and ARFID in around eleven percent of autistic people.[^13] A genetically informed study of a large autism cohort put the figure higher, estimating ARFID in around a fifth of autistic participants, and suggested it is routinely under-recognised.[^14]
 
+And recall where this proposal started: the same reviews that find elevated obesity in autistic adults also find elevated underweight, rising with age in step with it. Restriction is not the opposite of the problem here. It sits alongside it, in the same population.[^18]
+
 Now put a drug on top of that. A drug whose core action is to suppress interest in eating, which commonly causes nausea, and which changes how appealing food feels.
 
 I am not claiming this causes harm. I am claiming that nobody has looked, that the mechanism for harm is obvious once you say it out loud, and that autistic people are already being prescribed these drugs. The absence of a trial is not the absence of a risk. It is only the absence of information.
+
+## And then what happens when you stop?
+
+There is a part of this I did not think about until someone asked me, and it may be the most important part.
+
+These drugs are not usually a course of treatment with an end. When people stop taking them, the weight tends to return. In the extension of one of the major semaglutide trials, participants who came off the drug regained two-thirds of what they had lost within a year, and the improvements to blood pressure and blood sugar went with it.[^15] The authors drew the obvious conclusion: obesity behaves like a chronic condition, and stopping the treatment tends to undo the result.
+
+But people do stop. They stop because of cost, because of side effects, because of supply, because they moved, because they thought they were finished. And here is what I had assumed and was wrong about: I expected to find an established practice of psychological support for coming off these drugs, so that I could ask why autistic people were being left out of it. There is no such established practice. A 2025 review states plainly that behavioural support is not currently standard when these drugs are prescribed at all, and that what happens psychologically after people stop is poorly understood.[^16]
+
+Now think about what stopping actually involves, in terms of the sense this essay is about.
+
+For a year or two, the drug has been managing your hunger signal for you. Then it stops, and the signal is handed back. For anyone, that is a strange experience - hunger arriving with a force it had not had for a long time, and the mental noise around food returning after a period of quiet. For someone whose interoception was already unreliable before the drug, the handover is stranger still. You are being given back a signal you never read well, after a long period of not having to read it at all, and you are being asked to manage it without anyone having told you what to expect.
+
+I do not know whether that is harder for autistic people than for anyone else. I suspect it might be, and I can construct the argument either way, which is a sign that it needs measuring rather than assuming. What I am confident about is that nobody is currently studying it, and that a person coming off one of these drugs with no preparation and a returning hunger they cannot interpret is a person at risk of concluding that they have failed.
 
 ## What I would actually do
 
@@ -87,6 +105,7 @@ A study to answer this properly is not exotic. It is ordinary clinical research 
 - Screen for ARFID at baseline and track it throughout.
 - Record two outcomes, not one: the weight change, and the subjective experience. How does satiety feel? Is the nausea tolerable or intolerable? Does food become less interesting in a helpful way or a distressing way?
 - Design it with autistic people rather than about them.
+- Follow participants through discontinuation, not just treatment. The end of the drug is a distinct event with its own psychology, and it is where a study of interoception would learn the most.
 
 My honest prediction is that weight outcomes would look broadly similar between groups, because the drug probably acts below the level of conscious body awareness, but that the lived experience would differ sharply - and that a subgroup would do badly in a way that a weight-only trial would never detect.
 
@@ -97,11 +116,16 @@ I could be wrong. That is rather the point of doing the study.
 Because the drugs are already in autistic bodies. It is happening at scale, in every country where these medications are prescribed, and it will carry on happening. Asking whether we should allow it is not a serious question. The market has already answered it, and no dissertation is going to change that.
 
 What a study like this could change is smaller, and more achievable, and it comes in two parts.
+
 The first is clinical. If the direction of someone's interoceptive difference predicts how they respond, then prescribers have a reason to ask about autism before they write the prescription rather than after. They also have a reason to monitor for effects that would never appear in a neurotypical patient - because nobody looks for a side effect they have never been told to expect. A patient who quietly stops eating is not a mild outcome, and it is exactly the sort of thing that gets recorded as treatment success if the only number anyone is watching is the weight. Screening costs a conversation. Missing it could cost somebody their relationship with food.
 
 The second is psychological. Therapists and psychologists supporting autistic clients cannot prepare someone for an effect that nobody has documented. If we knew how these drugs tend to land on a particular kind of nervous system, that knowledge could be handed to the client in advance: you may find that food stops interesting you altogether, and given how you already relate to eating, that might not be a small thing - so let us agree now what we do if it happens. That is a very different conversation from having it six weeks later, after the fact, with someone who has concluded that something is wrong with them.
 
 Neither of those requires new law, or a change in what pharmaceutical companies do, or anyone's permission. Both require somebody to have done the study.
+
+And there is a reason to do it soon rather than eventually. Behavioural support is not standard practice for anyone taking these drugs, and what happens psychologically after people stop has barely been studied at all. So this is not a case of autistic people being left out of something that already exists. Nothing exists. That makes the gap larger, but it also makes it easier to fill, because there is no established practice to argue with - only an empty space where one should be. If the first proper guidance on coming off these drugs were written with autistic interoception in mind, rather than added to it later as an afterthought, that would be worth more than anything I could ask a single prescriber to do. And the window for that is now, because the first large cohort of people coming off these drugs is arriving now.
+
+<p align="center">&#x2042;</p>
 
 ---
 
@@ -133,4 +157,13 @@ Neither of those requires new law, or a change in what pharmaceutical companies 
 
 [^14]: Koomar, T., Thomas, T. R., Pottschmidt, N. R., Lutter, M., & Michaelson, J. J. (2021). Estimating the prevalence and genetic risk mechanisms of ARFID in a large autism cohort. _Frontiers in Psychiatry_, _12_, Article 668297. [DOI: 10.3389/fpsyt.2021.668297](https://doi.org/10.3389/fpsyt.2021.668297)
 
-[^a]: As of 20 July 2026, ClinicalTrials.gov → Condition: *"autism OR autism spectrum disorder OR Asperger"* / Intervention: *semaglutide*, *liraglutide*, *tirzepatide*, *exenatide*, *dulaglutide*, *GLP-1 receptor agonist* (as seperate searches)
+[^15]: Wilding J. P. H., Batterham R. L., Davies M., Van Gaal L. F., Kandler K., Konakli K., Lingvay I., McGowan B. M., Oral T. K., Rosenstock J., Wadden T. A., Wharton S., Yokote K., Kushner R. F., (2022) Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. _Diabetes, Obesity and Metabolism_. 24(8):1553-1564. [DOI: 10.1111/dom.14725](https://doi.org/10.1111/dom.14725)
+
+[^16]: Spreckley, M., Ruggiero, C. F., Brown, A.  (2025). Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss: lessons from bariatric surgery. _International Journal of Obesity_. [DOI: 10.1038/s41366-025-01952-w](https://doi.org/10.1038/s41366-025-01952-w)
+
+
+[^17]: Zheng, Z., Zhang, L., Li, S., Zhao, F., Wang, Y., Huang, L., Huang, J., Zou, R., Qu, Y., & Mu, D. (2017). Association among obesity, overweight and autism spectrum disorder: A systematic review and meta-analysis. _Scientific Reports_, _7_(1), Article 11697. [DOI: 10.1038/s41598-017-12003-4](https://doi.org/10.1038/s41598-017-12003-4)
+
+[^18]: Li, Y.-J., Xie, X.-N., Lei, X., Li, Y.-M., & Lei, X. (2020). Global prevalence of obesity, overweight and underweight in children, adolescents and adults with autism spectrum disorder, attention-deficit hyperactivity disorder: A systematic review and meta-analysis. _Obesity Reviews_, _21_(12), Article e13123. [DOI: 10.1111/obr.13123](https://doi.org/10.1111/obr.13123)
+
+[^a]: Searched 20 July 2026 on ClinicalTrials.gov. Condition: _"autism OR autism spectrum disorder OR Asperger"_. Intervention, as separate searches: _semaglutide_, _liraglutide_, _tirzepatide_, _exenatide_, _dulaglutide_, _GLP-1 receptor agonist_. This covers one registry. I have not searched the WHO ICTRP, ISRCTN or EU CTIS, so a trial registered outside ClinicalTrials.gov would not appear here.
