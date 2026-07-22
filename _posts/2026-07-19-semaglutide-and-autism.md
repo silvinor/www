@@ -89,7 +89,7 @@ These drugs are not usually a course of treatment with an end. When people stop 
 
 But people do stop. They stop because of cost, because of side effects, because of supply, because they moved, because they thought they were finished. And here is what I had assumed and was wrong about: I expected to find an established practice of psychological support for coming off these drugs, so that I could ask why autistic people were being left out of it. There is no such established practice. A 2025 review states plainly that behavioural support is not currently standard when these drugs are prescribed at all, and that what happens psychologically after people stop is poorly understood.[^16]
 
-Now think about what stopping actually involves, in terms of the sense this essay is about.
+Now think about what stopping actually involves, in terms of the sense this proposal is about.
 
 For a year or two, the drug has been managing your hunger signal for you. Then it stops, and the signal is handed back. For anyone, that is a strange experience - hunger arriving with a force it had not had for a long time, and the mental noise around food returning after a period of quiet. For someone whose interoception was already unreliable before the drug, the handover is stranger still. You are being given back a signal you never read well, after a long period of not having to read it at all, and you are being asked to manage it without anyone having told you what to expect.
 
