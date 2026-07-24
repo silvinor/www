@@ -13,6 +13,8 @@ excerpt: >-
 
 # The Second Person in the Room: Late Diagnosis and Relationship Outcomes
 
+{% include post-meta.html post=page %}
+
 ## The question
 
 Autism and ADHD are now routinely diagnosed in adults in their thirties, forties and fifties. At those ages most people are partnered, and have been for some time. A late diagnosis therefore does not arrive into a life. It arrives into a relationship that was built, negotiated and defended for years without it.

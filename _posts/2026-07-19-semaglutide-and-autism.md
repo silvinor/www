@@ -11,6 +11,8 @@ excerpt: >-
 
 # The Hunger Signal: GLP-1 Drugs and Autistic Interoception
 
+{% include post-meta.html post=page %}
+
 ## The question
 
 Weight-loss drugs like semaglutide (a.k.a., GLP-1's) work by changing how the body senses hunger and fullness. Many autistic people sense hunger and fullness differently. Does the drug therefore work differently for us - better, worse, or simply strangely?

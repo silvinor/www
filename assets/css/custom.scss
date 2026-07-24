@@ -21,6 +21,12 @@
 
 .content {
 
+  .meta-block {
+    padding: .22em;
+    border-radius: .5em;
+    background-color: var(--bs-gray-100);
+  }
+
   .footnote {
     padding-right: .15rem;
     padding-left: .15rem;
@@ -33,12 +39,27 @@
   h1 {
     padding-bottom: .25em;
     border-bottom: 1px solid #777;
-    margin-bottom: 1em;
+    margin-bottom: .5em;
   }
 
   h2 {
     margin-top: 1em;
     margin-bottom: .5em;
+  }
+
+  h3, h4 {
+    margin-bottom: .33em;
+  }
+
+}
+
+@media (prefers-color-scheme: dark) {
+  .content {
+
+    .meta-block {
+      background-color: var(--bs-gray-800);
+    }
+
   }
 
 }

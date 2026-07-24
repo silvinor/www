@@ -12,6 +12,8 @@ excerpt: >-
 
 # Not Worth It: Procedural Fairness and Autistic Withdrawal from Competition
 
+{% include post-meta.html post=page %}
+
 ## The question
 
 In the laboratory, competition suits autistic people rather well. Put an autistic child in a competitive game and their performance improves. Embed a false-belief task inside a contest with a prize and the proportion passing rises from thirteen per cent to seventy-four. Sit autistic adults down to a purely strategic numbers game against other players and, on the best-known test of it, they hold their own.
