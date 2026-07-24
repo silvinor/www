@@ -3,10 +3,10 @@ menu:
     url: /
     img: /apple-touch-icon.png
     active: home
-  # - title: Essays
-  #   url: /essays/
-  #   fa: fas fa-newspaper
-  #   active: essays
+  - title: Essays
+    url: /essays/
+    fa: fas fa-newspaper
+    active: essays
   - title: Proposals
     url: /proposals/
     fa: fas fa-lightbulb
