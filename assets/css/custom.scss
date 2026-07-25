@@ -21,6 +21,10 @@
 
 .content {
 
+  p, li {
+    line-height: 1.75;
+  }
+
   .meta-block {
     padding: .22em;
     border-radius: .5em;
@@ -34,6 +38,10 @@
 
   .footnotes {
     font-size: 80%;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: Cambria, var(--bs-font-serif);
   }
 
   h1 {
