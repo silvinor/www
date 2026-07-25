@@ -41,7 +41,7 @@ Even once autism was recognised, the picture clinicians carried in their heads w
 
 The earliest descriptions of autism were based almost entirely on boys, and the diagnostic markers that followed carried that bias forward. Simon Baron-Cohen's well-known "extreme male brain" theory pushed the idea even further into the culture, framing autism as an exaggeration of a supposedly male way of thinking. The effect on the clinic was real: professionals were, in a sense, trained to look for masculinity when they looked for autism.
 
-This is why the childhood diagnosis rate has long sat at roughly three boys to every girl. But when researchers look carefully, that ratio does not hold up as a fact about biology. A large review of the evidence found that the gap is inflated by who gets noticed and referred, not by who is actually autistic[^458]. Girls, women, and anyone skilled at hiding their differences were read as something else, or as nothing at all[^420][^45].
+This is why the childhood diagnosis rate has long sat at roughly four boys to every girl. But when researchers look carefully, that ratio does not hold up as a fact about biology. A large review of the evidence found that the gap is inflated by who gets noticed and referred, not by who is actually autistic[^458]. Girls, women, and anyone skilled at hiding their differences were read as something else, or as nothing at all[^420][^45].
 
 The result is a group of people, mostly - but not only - women, who reach middle age before anyone recognises them. When they are finally assessed, the experience is often described as exhausting and overdue[^431][^349][^143]. They were not late to become autistic. The world was late to look.
 
@@ -93,7 +93,7 @@ Hold on to that fact - *she already knew* - because it makes the next part harde
 
 ## <small class="text-body-tertiary">Part 4: </small><br>The discovery, and the grief
 
-I often point people I speak to to a video of the YouTuber known as Courtney, Literally. In her video about the assessment process she shares the moment she hears a psychologist confirm that she is autistic. In it, at that moment, she breaks down into deep, uncontrollable sobbing.
+I often point people I speak to to a video of the YouTuber known as Courtney, Literally. In [her video](https://youtu.be/RSZ-SnKSyl4?t=1120) about the assessment process she shares the moment she hears a psychologist confirm that she is autistic. In it, at that moment, she breaks down into deep, uncontrollable sobbing.
 
 Here is the question I ask the lister afterwards: *she already suspected she was autistic. So why that reaction?*
 
@@ -103,7 +103,7 @@ I did.
 
 The answer is grief.
 
-We expect a diagnosis to bring relief, but that's not what comes first. It's the: finally, a name for the nameless thing. Finally, an explanation that is not "you are lazy" or "you are difficult", told "you are broken", called "odd", "weird", "creepy" - all the bullies that teased you when you were a kid, all the times you were fired from your job because your "personality" did not "work" for the company, all the lost relations ships ... it all has a reason now. That unburdening is real, and it matters. But it can also be a kind of shield. If I embrace the label instantly and completely, I do not yet have to feel the weight of what it means[^160].
+We expect a diagnosis to bring relief, but that's not what comes first. It's the: finally, a name for the nameless thing. Finally, an explanation that is not "you are lazy" or "you are difficult", told "you are broken", called "odd", "weird", "creepy" - all the bullies that teased you when you were a kid, all the times you were fired from your job because your "personality" did not "work" for the company, all the lost relationships ... it all has a reason now. That unburdening is real, and it matters. But it can also be a kind of shield. If I embrace the label instantly and completely, I do not yet have to feel the weight of what it means[^160].
 
 And underneath the relief sits something that feels a great deal like bereavement. Because a late diagnosis is not simply new information added to your life. It re-writes the whole story. Every memory, every failure, every relationship now reads differently. What you mourn is a version of yourself that never got to exist - the person you might have been if someone had understood you at ten instead of fifty - and the life that might have been lived with that understanding. As I put it in my book, and as I say on stage: someone died. You did.
 
