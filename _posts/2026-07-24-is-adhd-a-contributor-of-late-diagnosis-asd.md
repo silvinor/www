@@ -142,7 +142,7 @@ If a genuinely distinct developmental phenotype is the main driver - the Zhang e
 
 Each of those is actionable. None of them requires new legislation, and none of them requires anyone's permission to start. What they require is knowing which one is actually operating, in which people, and that is exactly the thing nobody has measured. An autistic adult who spent thirty years with an ADHD diagnosis and no autism diagnosis has usually been told, in one way or another, that the ADHD was the whole story. If a clinician stopped looking, that is worth knowing and worth fixing. If the presentation itself was different, that is worth knowing too - because it is not a story about being missed. It is a story about being a different shape than the one anyone was checking for, and nobody can explain that difference to somebody until the research says which one it actually was.
 
-<p align="center">&#x2042;</p>
+<p align="center" class="asterism">&#x2042;</p>
 
 ---
 

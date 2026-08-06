@@ -163,7 +163,7 @@ The title of this writing is *Unmasked at Midlife*, and I chose it carefully. Th
 
 If you are somewhere in this process - quietly wondering, freshly diagnosed, or grieving a self you are only now getting to know - you are not broken, you are not too late, and you are not alone. The lens finally exists. The mirror has been held up. What you build next is yours to build, and it can be built on the truth.
 
-<p align="center">&#x2042;</p>
+<p align="center" class="asterism">&#x2042;</p>
 
 ---
 

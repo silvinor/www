@@ -199,7 +199,7 @@ An autistic adult who has spent thirty years being told they are a poor sport, a
 
 I keep arriving at the same place from different directions. Most of what a psychologist usefully does is tell somebody what is happening to them. You cannot do that for a pattern nobody has measured, and nobody has measured this one in anybody old enough to have been shaped by it.
 
-<p align="center">&#x2042;</p>
+<p align="center" class="asterism">&#x2042;</p>
 
 ---
 

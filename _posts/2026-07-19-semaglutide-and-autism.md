@@ -127,7 +127,7 @@ Neither of those requires new law, or a change in what pharmaceutical companies 
 
 And there is a reason to do it soon rather than eventually. Behavioural support is not standard practice for anyone taking these drugs, and what happens psychologically after people stop has barely been studied at all. So this is not a case of autistic people being left out of something that already exists. Nothing exists. That makes the gap larger, but it also makes it easier to fill, because there is no established practice to argue with - only an empty space where one should be. If the first proper guidance on coming off these drugs were written with autistic interoception in mind, rather than added to it later as an afterthought, that would be worth more than anything I could ask a single prescriber to do. And the window for that is now, because the first large cohort of people coming off these drugs is arriving now.
 
-<p align="center">&#x2042;</p>
+<p align="center" class="asterism">&#x2042;</p>
 
 ---
 

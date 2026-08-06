@@ -123,7 +123,7 @@ The alternative finding is just as useful. If late diagnosis makes no measurable
 
 Either way, the cohort exists, it is large, it is growing, and it is sitting on waiting lists right now.
 
-<p align="center">&#x2042;</p>
+<p align="center" class="asterism">&#x2042;</p>
 
 ---
 

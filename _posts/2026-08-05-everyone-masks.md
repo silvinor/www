@@ -325,7 +325,7 @@ The instruction that follows from the evidence is not aimed at autistic people a
 
 *But everyone masks* is a true sentence and half an argument. The half it leaves out is that for most people the mask becomes the persona, buys the acceptance it was meant to buy, works most of the time, and - importantly - has a stop: at the door, with the few who already know, or by becoming cheap enough that it stops registering as masking at all. The autistic version is perpetual; it is concentrated effort, spending the capacity that the work and the feelings needed on the performance wrapped around them; it is often so wrong that it creates the very ostracism it was built to prevent; and it has no reliable stopping point. Some of us find it at home, where autism is known and accepted. Some of us have looked everywhere and never found it.
 
-<p align="center">&#x2042;</p>
+<p align="center" class="asterism">&#x2042;</p>
 
 ---
 
