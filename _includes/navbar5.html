@@ -81,11 +81,11 @@
                 {%- if item.hint %} title="{{ item.hint }}" {% endif -%}
                 id="nav-link-{{ forloop.index }}">
                 {%- if item.fa -%}
-                  <i class="fa fa-fw {{ item.fa }}"></i>
+                  <i class="fa fa-fw {{ item.fa }} logo"></i>
                 {%- elsif item.img -%}
-                  <img class="fa fa-fw {{ item.img_class }}" style="max-height:1rem" src="{{ item.img | absolute_url }}" />
+                  <img class="fa fa-fw {{ item.img_class }} logo" style="max-height:1rem" src="{{ item.img | absolute_url }}" />
                 {%- elsif item.svg -%}
-                  <svg class="fa fa-fw {{ item.img_class }}" style="max-height:1rem"><use xlink:href="#{{ item.svg }}" /></svg>
+                  <svg class="fa fa-fw {{ item.img_class }} logo" style="max-height:1rem"><use xlink:href="#{{ item.svg }}" /></svg>
                 {%- endif -%}
                 {{- ' ' -}}{{- item.title -}}
               </a>
