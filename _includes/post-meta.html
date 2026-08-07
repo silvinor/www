@@ -6,7 +6,20 @@
 
 {%- assign post = include.post -%}
 {%- assign reading_time = post.content | number_of_words | divided_by: 200 | at_least: 1 -%}
-<div class="meta-block d-flex flex-wrap align-items-center column-gap-2 small text-body-secondary mb-2">
+<div class="
+  meta-block
+  d-flex
+  flex-wrap
+  align-items-center
+  column-gap-2
+  small
+  text-body-secondary
+  {% if post.author and page.author != false %}
+  mb-4
+  {% else %}
+  mb-2
+  {% endif %}
+  ">
   <time datetime="{{ post.date | date_to_xmlschema }}">
     <i class="fa-regular fa-calendar me-1" aria-hidden="true"></i>{{ post.date | date: site.date_format }}
   </time>

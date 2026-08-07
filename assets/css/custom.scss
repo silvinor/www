@@ -27,6 +27,28 @@ img.logo {
   margin-bottom: .2rem;
 }
 
+@media (prefers-color-scheme: light) {
+  .iridescent {
+    background: linear-gradient(
+        90deg,
+        #006994,
+        #be5103,
+        #009475,
+        #006994
+      );
+      background-size: 300% 100%;
+      animation: rainbow 8s linear infinite;
+
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+  }
+
+  @keyframes rainbow {
+      from { background-position: 0% 50%; }
+      to { background-position: 300% 50%; }
+  }
+}
+
 .content {
 
   p, li {
