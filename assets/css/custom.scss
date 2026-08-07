@@ -4,29 +4,34 @@
 
 @charset "utf-8";
 
+@import "functions";
+@import "variables";
+@import "mixins/breakpoints";
+@import "mixins/color-scheme";
+
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
 
 @font-face {
     font-family: "Roobert";
-    font-weight: 400;
+    font-weight: normal;
     src: url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot");
     src: url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.svg#Roobert-Regular")format("svg");
+      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff2")format("woff2"),
+      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff")format("woff"),
+      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.ttf")format("truetype"),
+      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.svg#Roobert-Regular")format("svg");
 }
 
 @font-face {
     font-family: "Roobert";
-    font-weight: 700;
+    font-weight: bold;
     src: url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.eot");
     src: url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.svg#Roobert SemiBold")format("svg");
+      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff2")format("woff2"),
+      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff")format("woff"),
+      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.ttf")format("truetype"),
+      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.svg#Roobert SemiBold")format("svg");
 }
 
 body {
@@ -34,12 +39,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+@include media-breakpoint-up(xl) {
+  :root {
+    --bs-body-font-size: 1.25rem; /* 18px instead of 16px */
+  }
+}
+
 // On desktop, lift the navbar brand out of the flex flow so the centered
 // menu (.navbar-nav with mx-auto) aligns to the true page center-line
 // instead of the space left over beside the brand. Anchors to the nav
 // (sticky-top), giving a full-bleed brand at the band's left edge.
 // Below lg the brand stays in normal flow (left, toggler right).
-@media (min-width: 992px) {
+@include media-breakpoint-up(lg) {
   .navbar-expand-lg .navbar-brand {
     position: absolute;
     top: 50%;
@@ -54,7 +65,8 @@ img.logo {
   margin-bottom: .2rem;
 }
 
-@media (prefers-color-scheme: light) {
+@include color-scheme(light) {
+
   .iridescent {
     background: linear-gradient(
         90deg,
@@ -78,6 +90,20 @@ img.logo {
 
 .content {
 
+  article[class^="index-"],
+  article[class*=" index-"] {
+
+    padding: 0 !important;
+    margin-bottom: 2rem;
+
+  }
+
+  p {
+    text-align: justify;
+    text-justify: auto;
+    text-justify: newspaper;
+  }
+
   p, li {
     line-height: 1.75;
     font-family: Roobert, 'Libre Franklin', var(--bs-font-sans-serif);
@@ -91,13 +117,20 @@ img.logo {
   }
 
   .footnote {
-    padding-right: .15rem;
-    padding-left: .15rem;
+    font-family: var(--bs-font-monospace), monospace;
+    font-size: small;
+    padding-right: .125rem;
+    padding-left: .25rem;
   }
 
   .footnotes {
-    font-size: 75%;
+    font-size: small;
     opacity: .666;
+
+    li::marker {
+      font-family: var(--bs-font-monospace), monospace;
+      font-size: smaller;
+    }
 
     p {
       margin-bottom: .25rem;
@@ -143,10 +176,11 @@ img.logo {
 
 .asterism {
   display: block;
-  width: 33px;
-  height: 8px;
+  width: 3.09375rem;
+  height: .75rem;
   margin: 0 auto;
+  padding: 1.5rem 0;
   font-size: 0;
   background: url("{{ '/assets/img/theend.svg' | relative_url }}") no-repeat center center;
-  background-size: 33px 8px;
+  background-size: 3.09375rem .75rem;
 }

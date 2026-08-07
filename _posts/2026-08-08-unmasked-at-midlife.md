@@ -200,7 +200,7 @@ If you are somewhere in this process - quietly wondering, freshly diagnosed, or 
 
 [^160]: Corden, K., Brewer, R., & Cage, E. (2021). Personal identity after an autism diagnosis: Relationships with self-esteem, mental wellbeing, and diagnostic timing. *Frontiers in Psychology, 12*, 699335. https://doi.org/10.3389/fpsyg.2021.699335
 
-[^169]: Crompton, C. J., Hallett, S., Ropar, D., Flynn, E., & Fletcher-Watson, S. (2020). "I never realised everybody felt as happy as I do when I am around autistic people": A thematic analysis of autistic adults' relationships with autistic and neurotypical friends and family. *Autism, 24*(6), 1438–1448. https://doi.org/10.1177/1362361320908976
+[^169]: Crompton, C. J., Hallett, S., Ropar, D., Flynn, E., & Fletcher-Watson, S. (2020). "I never realised everybody felt as happy as I do when I am around autistic people": A thematic analysis of autistic adults' relationships with autistic and neurotypical friends and family. *Autism, 24* (6), 1438–1448. https://doi.org/10.1177/1362361320908976
 
 [^170]: Crompton, C. J., Ropar, D., Evans-Williams, C. V., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. *Autism, 24*(7), 1704–1712. https://doi.org/10.1177/1362361320919286
 
