@@ -7,6 +7,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
 
+@font-face {
+    font-family: "Roobert";
+    font-weight: 400;
+    src: url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot");
+    src: url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.svg#Roobert-Regular")format("svg");
+}
+
+@font-face {
+    font-family: "Roobert";
+    font-weight: 700;
+    src: url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.eot");
+    src: url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.svg#Roobert SemiBold")format("svg");
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 // On desktop, lift the navbar brand out of the flex flow so the centered
 // menu (.navbar-nav with mx-auto) aligns to the true page center-line
 // instead of the space left over beside the brand. Anchors to the nav
@@ -53,13 +80,14 @@ img.logo {
 
   p, li {
     line-height: 1.75;
-    font-family: 'Libre Franklin', var(--bs-font-sans-serif);
+    font-family: Roobert, 'Libre Franklin', var(--bs-font-sans-serif);
   }
 
   .meta-block {
-    padding: .22em;
+    padding: .333em;
     border-radius: .5em;
     background-color: var(--bs-gray-100);
+    border: 1px solid var(--bs-gray-200);
   }
 
   .footnote {
@@ -94,18 +122,23 @@ img.logo {
   h3, h4 {
     margin-bottom: .33em;
   }
+}
 
+#header {
+  background-color: var(--bs-gray-100);
 }
 
 @media (prefers-color-scheme: dark) {
   .content {
-
     .meta-block {
       background-color: var(--bs-gray-800);
+      border-color: var(--bs-gray-700);
     }
-
   }
 
+  #header {
+    background-color: var(--bs-gray-800);
+  }
 }
 
 .asterism {
