@@ -127,6 +127,10 @@ img.logo {
     font-size: small;
     opacity: .666;
 
+    li, li p {
+      text-align: left;
+    }
+
     li::marker {
       font-family: var(--bs-font-monospace), monospace;
       font-size: smaller;
