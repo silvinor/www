@@ -118,9 +118,8 @@ img.logo {
 
   .footnote {
     font-family: var(--bs-font-monospace), monospace;
-    font-size: small;
-    padding-right: .125rem;
-    padding-left: .25rem;
+    font-size: .666rem;
+    padding-right: .25rem;
   }
 
   .footnotes {
@@ -138,6 +137,10 @@ img.logo {
 
     p {
       margin-bottom: .25rem;
+    }
+
+    .footnote {
+      font-size: .5rem;
     }
   }
 
