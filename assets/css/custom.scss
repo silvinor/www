@@ -39,7 +39,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-@include media-breakpoint-up(xl) {
+@include media-breakpoint-up(md) {
   :root {
     --bs-body-font-size: 1.25rem; /* 18px instead of 16px */
   }
