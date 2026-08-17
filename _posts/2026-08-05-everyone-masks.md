@@ -4,7 +4,7 @@ title: "Everyone Masks: What Makes the Autistic Version Different"
 permalink: /essays/everyone-masks.html
 author: Silvino Rodrigues
 category: Essays
-tags: 
+tags:
   - Autism
   - Masking
 excerpt: >-
@@ -19,9 +19,9 @@ Say the word "masking" in a room of non-autistic people and someone will eventua
 
 They are right. That is the difficult part. The claim is not wrong, it is not usually said in bad faith, and dismissing it does the autistic case no favours. Impression management is one of the most thoroughly documented behaviours in social psychology, it is universal, and any argument that starts by denying it is going to lose.
 
-So this essay concedes the point in full, and then asks the question that actually matters: if everyone masks, what makes the autistic version different?
+So I concede the point in full, and then ask the question that actually matters: if everyone masks, what makes the autistic version different?
 
-There are three main differences often attributed. It costs more to run. It buys less belonging. And it fails more often than it works. There is also a fourth thing, which is not a difference in the masking but in what a person concludes from it, and it is the one that does the lasting damage.
+Three differences are usually attributed. It costs more to run. It buys less belonging. And it fails more often than it works. What those three produce between them - a separate mask for every room, a diagnostic record full of wrong answers, and an employment record to match - takes up the middle of what follows. Then there is a fourth thing, which is not a difference in the masking but in what a person concludes from it, and it is the one that does the lasting damage.
 
 ## <small class="text-body-tertiary">Part 1: </small><br>Yes, everyone masks
 
@@ -39,7 +39,7 @@ I have now used makeup twice, and I should say why rather than leave it sitting 
 
 The male version is the same behaviour with nothing to photograph. Wong and colleagues pooled 78 samples and 19,453 participants and found conformity to masculine norms unfavourably associated with mental health, and more strongly with willingness to seek psychological help - with self-reliance and emotional control among the norms most consistently implicated. [^5] A man holding a flat expression through a bad week, answering "fine" because within the rule no other answer is available, is performing to a code with the same force as any dress standard. He simply does not have to buy anything to do it.
 
-Which is the part worth extracting, because it runs through the whole essay. The masks we can see get noticed, discussed and argued over. The masks that leave no trace go unremarked, which makes them harder to name and correspondingly harder to question. The autistic mask is the second kind.
+Which is the part worth extracting, because it runs through everything below. The masks we can see get noticed, discussed and argued over. The masks that leave no trace go unremarked, which makes them harder to name and correspondingly harder to question. The autistic mask is the second kind.
 
 Underneath all of it sits normative social influence. Deutsch and Gerard separated two reasons people conform: because they believe the group is right, and because they want to be accepted by it. [^6] The second reason has nothing to do with truth. It is about not being excluded. Most of what we call "normal behaviour" is normative in exactly that sense - a set of conventions we perform to remain in the group.
 
@@ -53,7 +53,7 @@ This changes what the autistic difficulty actually is, so it is worth being exac
 
 The phrase people reach for here is *fake it till you make it*. I have not been able to trace it to a citable source, and I am not going to pretend otherwise. [^a] But the idea it points at is real enough: act the part long enough and the part stops being an act. That is the mechanism. It is also, precisely, where the autistic case diverges.
 
-Recent research has stopped treating masking as autism-specific. Pryke-Hobbes and colleagues compared 285 autistic, 88 non-autistic neurodivergent and 99 neurotypical adults on workplace masking, and found masking widespread in all three groups, for overlapping reasons: to fit in, to avoid judgement, to keep the job, to get promoted. [^8] Miller, Rees and Pearson found the same overlap comparing autistic and non-autistic adults directly. [^9] Van der Putten and colleagues found that adults with ADHD camouflage more than a non-autistic, non-ADHD comparison group - though still less than autistic adults. [^10]
+Recent research has stopped treating masking as autism-specific. Pryke-Hobbes and colleagues compared 285 autistic, 88 non-autistic neurodivergent and 99 neurotypical adults on workplace masking, and found masking widespread in all three groups, for overlapping reasons: to fit in, to avoid judgement, to keep the job, to get promoted. [^8] Miller, Rees and Pearson found the same overlap comparing autistic and non-autistic adults directly. [^9] Van der Putten and colleagues found that adults with ADHD camouflage more than a non-autistic, non-ADHD comparison group - though still less than autistic adults. [^10] [^b]
 
 Ai, Cunningham and Lai put the conceptual case plainly: autistic camouflaging sits inside the general human phenomenon of impression management, and the useful research question is which parts are shared and which are not. [^11]
 
@@ -69,7 +69,7 @@ Same outward behaviour. Opposite internal economics. What separates them is whet
 
 For most non-autistic people, most social presentation is absorbed. Bargh and Chartrand's review of automaticity argued that a great deal of social behaviour runs without conscious direction at all. [^13] Their companion work described what they called the chameleon effect: people unconsciously mimic the posture, mannerisms and expressions of whoever they are talking to, and that mimicry measurably increases how much the other person likes them. [^14]
 
-Read that twice. The literature's own word for unconscious neurotypical social mimicry is *chameleon*, and it is described as social glue. The same word gets used as an accusation against autistic people who do the identical thing on purpose.
+Read that twice. The literature's own word for unconscious neurotypical social mimicry is *chameleon*, and it is described as social glue.
 
 This is where the "I don't leave the house without putting my face on" example earns its place. What that phrase describes is a performance that has been absorbed into identity. The face is not experienced as a costume; it is experienced as the person. It has become deep acting. There is no running cost because there is nothing being held up.
 
@@ -109,7 +109,7 @@ That last point is the one most often missed. The outsider feeling is not solitu
 
 The workplace is where this is most visible, because the workplace supplies the contact and withholds the belonging.
 
-The Pryke-Hobbes participants explain the mechanism in their own words. Friendships formed behind the mask were described as friendships with the persona rather than the person. Participants reported that no one really knew them. One described working alongside the same people for seventeen years, watching others form lifelong friendships, and never becoming close to any of them. Another described feeling like a Russian doll and wondering whether anything of the real self was left when the layers came off. [^8]
+The Pryke-Hobbes participants explain the mechanism in their own words. Friendships formed behind the mask were described as friendships with the persona rather than the person. Participants reported that no one really knew them. One described feeling like a Russian doll and wondering whether anything of the real self was left when the layers came off. [^8]
 
 None of those people were isolated. They had colleagues, meetings, invitations, teams. What they lacked was not contact. It was recognition.
 
@@ -139,7 +139,7 @@ And the price is measurable at the top end. In the interpersonal theory of suici
 
 Botha and Frost make the wider point that this harm follows the shape of minority stress: it comes from social position, stigma and concealment rather than from the neurology itself. [^31] That is not a small distinction. It means the outsider feeling is not a symptom. It is a response.
 
-I want to keep one caution attached here. A neurotypical participant in the Pryke-Hobbes study also said masking made them feel like an outsider, and the seventeen-years-without-a-friendship quote came from a neurotypical participant too. [^8] The experience is not exclusive. What differs is dose, duration, and whether there is anywhere the mask comes off.
+I want to keep one caution attached here, and it is sharper than it looks. A neurotypical participant in the Pryke-Hobbes study also said masking made them feel like an outsider - and it was a neurotypical participant, not an autistic one, who described working alongside the same people for seventeen years, watching others form lifelong friendships, and never becoming close to any of them. [^8] The experience is not exclusive. What differs is dose, duration, and whether there is anywhere the mask comes off.
 
 And there is a further complication that cuts against the simple deficit reading. Milton's double empathy argument holds that the breakdown between autistic and non-autistic people is mutual - two groups failing to read each other, not one group failing to read the other. [^32] Crompton and colleagues gave that empirical support by showing that information transfer between autistic people is as effective as between non-autistic people, and degrades only in mixed pairs. [^33] The isolation is not a straightforward property of the autistic person. It is a property of the pairing.
 
@@ -165,7 +165,9 @@ Then Belcher and colleagues ran the study that tests the mask directly. Eighty a
 
 That is the finding to sit with. The effort does not buy the outcome. People who were actively trying to mask were not perceived any better than people who were not.
 
-Which produces the central irony of the whole business. Masking exists to make you unremarkable. Performed with imperfect access to the rules, it makes you *more* conspicuous, not less - because a convention performed slightly wrong reads worse than the convention simply absent. There is a specific quality of wrongness to an off-timed laugh or a held-too-long stretch of eye contact that plain difference does not have. The mask can push you further outside the group it was built to get you into.
+Which produces the central irony of the whole business. Masking exists to make you unremarkable, and on the measured evidence it does not deliver that: the effort buys nothing detectable. [^37]
+
+I want to go further and say it makes you *more* conspicuous - because there is a specific quality of wrongness to an off-timed laugh or a held-too-long stretch of eye contact that plain difference does not have, and a convention performed slightly wrong ought to read worse than the convention simply absent. But no study I have found compares masked autistic presentation against unmasked autistic presentation, which is the comparison that claim needs. So I am marking it as an inference and not a result. What is established is bad enough on its own: the mask does not get you into the group it was built to get you into.
 
 And the effort does not stop when the encounter does. The Pryke-Hobbes participants described sustained rumination afterwards - replaying the day, hunting for the moment it went wrong, unable to relax at home because the review was still running. [^8] The cost is not only the performance. It is the audit.
 
@@ -209,11 +211,11 @@ Two independent methods, two countries, one label at the top of the list.
 
 I want to be careful about what this does and does not show. It is not evidence that personality disorders are fictional, and it is not evidence that clinicians are careless. Dudas and colleagues compared 624 people with autism spectrum conditions, 23 with borderline personality disorder and 16 with both against 2,081 controls, and found that the borderline group had genuinely elevated autistic traits and an elevated drive to systemise. [^43] The overlap is real at the level of the traits themselves, not just at the level of the paperwork. A clinician looking at unstable self-presentation, identity disturbance and interpersonal difficulty is not hallucinating.
 
-Nor is masking the only reason autism gets missed. Diagnostic criteria built on children, clinicians trained on a young-boy prototype, and co-occurring conditions that absorb attention all contribute, and I have written about those elsewhere.
+Nor is masking the only reason autism gets missed. Diagnostic criteria built on children, clinicians trained on a young-boy prototype, and co-occurring conditions that absorb attention all contribute, and I have written about those [elsewhere](/essays/unmasked-at-midlife.html).
 
 But masking belongs on the list, and the shape of the misdiagnosis pattern is suggestive. Identity disturbance is a personality disorder criterion. A person running a different persona in every context, unable to say which one is real, describing themselves as a Russian doll with nothing at the centre, is presenting identity disturbance - correctly. What is wrong is not the observation. What is wrong is the inference about its cause.
 
-One gap I should name rather than paper over. Popular accounts often add dissociative identity disorder - "multiple personality" - to this list, and I could not find peer-reviewed prevalence data supporting it in autistic adults. [^b] I have left it out. Bipolar disorder, likewise, sits at 2.5% in the Fusar-Poli sample - present, but not a headline number, and I am not going to inflate it into one.
+One gap I should name rather than paper over. Popular accounts often add dissociative identity disorder - "multiple personality" - to this list, and I could not find peer-reviewed prevalence data supporting it in autistic adults. [^c] I have left it out. Bipolar disorder, likewise, sits at 2.5% in the Fusar-Poli sample - present, but not a headline number, and I am not going to inflate it into one.
 
 The consequence for the person is not only clinical. A decade of being told what is wrong with you, by people with training and authority, where each answer is confidently delivered and none of them work, does something to how much you trust your own account of your own life. By the time the right answer arrives, the habit of not being believed is well established - including by yourself.
 
@@ -221,7 +223,7 @@ The consequence for the person is not only clinical. A decade of being told what
 
 The second measurable outcome is employment, and it is the one where the arithmetic of surface acting becomes visible.
 
-Bury and colleagues followed 2,449 autistic adults across eight annual waves of the Netherlands Autism Register and identified four employment trajectories. The largest, at 1,189 people, was stable unemployment. Stable employment accounted for 801. A further 134 started with a high probability of employment that declined across the eight years. [^44] Just under half the sample was not working, and did not start.
+Bury and colleagues followed 2,449 autistic adults across eight annual waves of the Netherlands Autism Register and identified four employment trajectories. The largest, at 1,189 people, was stable unemployment. Stable employment accounted for 801. A further 183 began unemployed and grew more likely to be employed over time, and a fourth group started with a high probability of employment that declined across the eight years. [^44] Just under half the sample was not working, and did not start.
 
 The Pryke-Hobbes sample shows the same gap inside a single study: 37.6% of autistic participants in full-time employment against 80.3% of neurotypical participants, and 44.5% satisfied with their employment status against 85.2%. [^8]
 
@@ -235,7 +237,7 @@ That has a name. Higgins and colleagues, working with autistic adults as experts
 
 Surface acting predicts exhaustion, and exhaustion predicts leaving. The organisational literature established that link in populations who mask for eight hours and then stop. [^12] Autistic employment outcomes are what that relationship looks like when the shift never ends.
 
-I could not find a peer-reviewed figure for average job tenure in autistic adults, which is the statistic this section most obviously wants. [^c] The figures circulating online do not trace to a study I can check, so I have not used them.
+I could not find a peer-reviewed figure for average job tenure in autistic adults, which is the statistic this section most obviously wants. [^d] The figures circulating online do not trace to a study I can check, so I have not used them.
 
 ## <small class="text-body-tertiary">Part 8: </small><br>The verdict you reach without a diagnosis
 
@@ -257,7 +259,7 @@ The distinction matters more than it sounds.
 
 Tangney, Stuewig and Mashek summarise decades of work separating the two. Guilt is about behaviour - *I did a bad thing* - and it motivates repair, apology and change. Shame is about the self - *I am a bad thing* - and it motivates concealment, withdrawal and avoidance of the person you failed in front of. [^49]
 
-For an undiagnosed autistic masking failure produces shame rather than guilt, because there is no identifiable behaviour to attach the guilt to. You cannot apologise for a thing you cannot name. What remains is the self.
+For an undiagnosed autistic, masking failure produces shame rather than guilt, because there is no identifiable behaviour to attach the guilt to. You cannot apologise for a thing you cannot name. What remains is the self.
 
 And now the loop closes, because the behavioural response to shame is to hide. The response to being wrong, when you do not know what is wrong, is to conceal more of yourself and perform harder. Which is more masking, which produces more failure, which produces more shame.
 
@@ -279,7 +281,7 @@ Post-traumatic stress disorder (PTSD) follows a discrete threatening or horrific
 
 That third part is why this section exists. Negative self-concept - persistent beliefs about oneself as worthless, defeated or diminished - is a diagnostic criterion of CPTSD and is not a criterion of PTSD. It is, almost word for word, the verdict the attribution problem above produces.
 
-So the construct that fits the pattern this essay describes is the complex one, on both counts. The events are not discrete or extreme; they are ordinary, repeated, low-grade and inescapable. And the damage lands in self-concept rather than only in threat response. Which also means that PTSD evidence, however plentiful, is not evidence for this claim. It sits next to it.
+So the construct that fits the pattern described here is the complex one, on both counts. The events are not discrete or extreme; they are ordinary, repeated, low-grade and inescapable. And the damage lands in self-concept rather than only in threat response. Which also means that PTSD evidence, however plentiful, is not evidence for this claim. It sits next to it.
 
 Here is what the literature does support.
 
@@ -291,9 +293,9 @@ Here is what the literature does not support.
 
 A 2025 systematic review and meta-analysis pooled *diagnosed* PTSD prevalence in autistic people at 2.06% in adults - broadly the general population rate, and wildly at odds with the 32-45% that screening instruments produce. [^55] Both figures cannot be describing the same thing. Either PTSD is being systematically missed in autistic adults, or screening instruments are counting autistic traits as trauma symptoms. Note that this is a measurement failure in the *simpler* of the two constructs.
 
-For complex post-traumatic stress disorder in an autistic sample, I could not find a prevalence estimate at all. [^d]
+For complex post-traumatic stress disorder in an autistic sample, I could not find a prevalence estimate at all. [^e]
 
-And there is good reason to expect that gap to be hard to close, because it is the personality disorder problem one storey up. Take the three disturbances in self-organisation in turn. Affect dysregulation is describable as autistic emotional response, as post-masking depletion, or as complex trauma. Disturbances in relationships is describable as autistic social difference, as the wreckage of masked friendships, or as complex trauma. Negative self-concept is describable as internalised stigma, as the shame this essay has just traced, or as complex trauma. Every criterion has at least three plausible owners. Sarr and colleagues convened 106 international clinical experts in a three-round Delphi study specifically to establish how to distinguish autism from attachment disorders, CPTSD and emotionally unstable personality disorder. [^56] One do not run a study like that unless the distinction is failing in practice.
+And there is good reason to expect that gap to be hard to close, because it is the personality disorder problem one storey up. Take the three disturbances in self-organisation in turn. Affect dysregulation is describable as autistic emotional response, as post-masking depletion, or as complex trauma. Disturbances in relationships is describable as autistic social difference, as the wreckage of masked friendships, or as complex trauma. Negative self-concept is describable as internalised stigma, as the shame just traced above, or as complex trauma. Every criterion has at least three plausible owners. Sarr and colleagues convened 106 international clinical experts in a three-round Delphi study specifically to establish how to distinguish autism from attachment disorders, CPTSD and emotionally unstable personality disorder. [^56] You do not run a study like that unless the distinction is failing in practice.
 
 So the position I will defend is this and no more. The mechanism is well evidenced: chronic invalidation, an internal-stable-global attribution drawn from incomplete information, and shame as a measured mediator to depression. The exposure pattern matches the complex construct rather than the simple one, and autistic adults are documented as experiencing exactly that kind of sub-threshold, repeated adversity as traumatic. What is not established is any prevalence figure for CPTSD in this population, and I am not going to assert one because it matches my own experience. What I will say is that the profession has noticed the overlap and is actively working on it, and that anyone in this position is entitled to be assessed for both rather than sorted into whichever construct the clinician happens to specialise in.
 
@@ -315,11 +317,11 @@ Three things separate the autistic version.
 
 **It does not buy belonging.** The acceptance goes to the performance, and the person knows it while it is happening. Belonging is a need rather than a preference, and what the heaviest maskers report is not membership but thwarted belongingness - the specific loneliness of being surrounded and unrecognised. [^22][^23][^25][^30]
 
-**It fails more often than it works.** The mask is assembled from social information the disability restricts access to, so it comes out wrong in ways that make the wearer more conspicuous, not less. Camouflaging intent does not predict how people are actually received. [^37] What does improve reception is disclosure - being known rather than concealed. [^38]
+**It fails more often than it works.** The mask is assembled from social information the disability restricts access to, so it comes out wrong - and camouflaging intent does not predict how people are actually received. [^37] The effort buys nothing measurable.
 
 And then there is what those three produce together, in a person who has not been told any of it. Repeated unexplained failure, attributed inward because there is nowhere else to attribute it, hardening into shame, which prescribes more concealment, which produces more failure. [^48][^49][^50] That is the part that outlasts the diagnosis.
 
-None of that is an argument for unmasking on command. Pearson and Rose are right that the choice is largely an illusion when the alternative is being treated as lesser, and the participants who described being bullied almost to extinction when they masked less were not describing a hypothetical. [^27][^8] Telling someone to stop masking without changing what happens when they do is asking them to absorb a cost you are not paying.
+None of that is an argument for unmasking on command. Pearson and Rose are right that the choice was never really one, and the participants who described being bullied almost to extinction when they masked less were not describing a hypothetical. [^8][^27] Telling someone to stop masking without changing what happens when they do is asking them to absorb a cost you are not paying.
 
 The instruction that follows from the evidence is not aimed at autistic people at all. Autistic adults are already doing the expensive, unreliable, self-erasing version of a task everyone else does automatically and for free. The only intervention with measured evidence behind it moves the effort somewhere else: people who know something about autism form better impressions of autistic people, without the autistic person having to perform anything. [^38]
 
@@ -329,13 +331,15 @@ The instruction that follows from the evidence is not aimed at autistic people a
 
 ---
 
-[^a]: I looked for a primary source for the phrase "fake it till you make it" and could not establish one to the standard I have used elsewhere in this essay. Its nearest documented therapeutic ancestor is Alfred Adler's "acting as if" technique from the 1920s, and the phrase itself is commonly attributed to Alcoholics Anonymous slogan culture. The earliest written relative usually offered is Simon and Garfunkel's "Fakin' It" - released as a single in July 1967 and collected on *Bookends* in April 1968 - which pairs the same two words: "And I know I'm fakin' it, I'm not really makin' it." Worth noting that the lyric means the reverse of the slogan. It is a confession of not making it, not an instruction to carry on until you do. Other leads circulate, including a first attestation "before 1973" and John Frasca's 1969 book *Con Man or Saint?*, and I have not been able to verify either against a source I would cite. The underlying mechanism - that a rehearsed behaviour can be absorbed into the self - is well evidenced independently of the slogan; see the emotional labour and automaticity literature cited above.
+[^a]: I looked for a primary source for the phrase "fake it till you make it" and could not establish one to the standard I have used elsewhere here. Its nearest documented therapeutic ancestor is Alfred Adler's "acting as if" technique from the 1920s, and the phrase itself is commonly attributed to Alcoholics Anonymous slogan culture. The earliest written relative usually offered is Simon and Garfunkel's "Fakin' It" - released as a single in July 1967 and collected on *Bookends* in April 1968 - which pairs the same two words: "And I know I'm fakin' it, I'm not really makin' it." Worth noting that the lyric means the reverse of the slogan. It is a confession of not making it, not an instruction to carry on until you do. Other leads circulate, including a first attestation "before 1973" and John Frasca's 1969 book *Con Man or Saint?*, and I have not been able to verify either against a source I would cite. The underlying mechanism - that a rehearsed behaviour can be absorbed into the self - is well evidenced independently of the slogan; see the emotional labour and automaticity literature cited above.
 
-[^b]: Searched 5 August 2026 on PubMed and Google Scholar for combinations of *dissociative identity disorder*, *multiple personality disorder*, *misdiagnosis* and *autism* in adult samples. I found case reports and commentary but no prevalence estimate from a clinical cohort. Personality disorders in general, and borderline personality disorder in particular, are well documented in this role; dissociative identity disorder is not, and I have not claimed it.
+[^b]: I should flag how much of this piece rests on one study. Pryke-Hobbes and colleagues is cited throughout - for the shared reasons people mask, for the automaticity complication, for the workplace material, for the written-versus-unwritten distinction, for the work, home and collision masks, and for the employment percentages. It is the right study for the job: it is recent, it is large for qualitative work, and it is the only one I found that puts autistic, non-autistic neurodivergent and neurotypical adults side by side on the same questions, which is exactly the comparison this argument needs. But it is qualitative, and the weight it can bear should be read accordingly. Participant accounts establish that people describe masking this way and why; they do not establish how common any of it is, and I have not used them for that. Where a claim needs a rate rather than a description, I have gone to other sources. A reader who thinks one paper is carrying too much here is not being unreasonable, and the obvious remedy - more studies of this design - is not something I can supply.
 
-[^c]: As of 5 August 2026 I have not found a peer-reviewed study reporting mean or median job tenure in an autistic adult sample against a general population comparison. The frequently quoted figure of roughly 24 months against a general average of 49 months circulates widely online but I cannot trace it to a study, so it does not appear above. The longitudinal employment-status data cited here is the closest published equivalent I could find.
+[^c]: Searched 5 August 2026 on PubMed and Google Scholar for combinations of *dissociative identity disorder*, *multiple personality disorder*, *misdiagnosis* and *autism* in adult samples. I found case reports and commentary but no prevalence estimate from a clinical cohort. Personality disorders in general, and borderline personality disorder in particular, are well documented in this role; dissociative identity disorder is not, and I have not claimed it.
 
-[^d]: Searched 5 August 2026 for prevalence of ICD-11 complex post-traumatic stress disorder (CPTSD) in autistic samples, including studies administering the International Trauma Questionnaire. I found prevalence work on PTSD, extensive work on trauma exposure, clinical commentary on the overlap, and the Delphi study on differential diagnosis cited above - but no prevalence estimate for CPTSD specifically in an autistic adult cohort. Part of the difficulty is structural: CPTSD is an ICD-11 diagnosis with no DSM-5 equivalent, so studies drawing on DSM-based records cannot report it even in principle. This appears to be a genuine gap rather than a failure of searching.
+[^d]: As of 5 August 2026 I have not found a peer-reviewed study reporting mean or median job tenure in an autistic adult sample against a general population comparison. The frequently quoted figure of roughly 24 months against a general average of 49 months circulates widely online but I cannot trace it to a study, so it does not appear above. The longitudinal employment-status data cited here is the closest published equivalent I could find.
+
+[^e]: Searched 5 August 2026 for prevalence of ICD-11 complex post-traumatic stress disorder (CPTSD) in autistic samples, including studies administering the International Trauma Questionnaire. I found prevalence work on PTSD, extensive work on trauma exposure, clinical commentary on the overlap, and the Delphi study on differential diagnosis cited above - but no prevalence estimate for CPTSD specifically in an autistic adult cohort. Part of the difficulty is structural: CPTSD is an ICD-11 diagnosis with no DSM-5 equivalent, so studies drawing on DSM-based records cannot report it even in principle. This appears to be a genuine gap rather than a failure of searching.
 
 [^1]: Goffman, E. (1959). *The presentation of self in everyday life*. Anchor Books. [ISBN: 978-0385094023](https://openlibrary.org/isbn/9780385094023)
 
@@ -403,7 +407,7 @@ The instruction that follows from the evidence is not aimed at autistic people a
 
 [^33]: Crompton, C. J., Ropar, D., Evans-Williams, C. V., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. *Autism*, *24*(7), 1704–1712. [DOI: 10.1177/1362361320919286](https://doi.org/10.1177/1362361320919286)
 
-[^34]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing.
+[^34]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. [ISBN: 978-0890425558](https://openlibrary.org/isbn/9780890425558)
 
 [^35]: American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [ISBN: 978-0890425763](https://openlibrary.org/isbn/9780890425763) - the text revision restated Criterion A as "manifested by all of the following", clarifying that all three social-communication sub-criteria must be met.
 
