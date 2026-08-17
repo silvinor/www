@@ -4,12 +4,12 @@ title: "The Loneliness Snowball: How Autistic Isolation Feeds Itself"
 permalink: /essays/loneliness-snowball.html
 author: Silvino Rodrigues
 category: Essays
-tags: 
+tags:
   - Autism
   - ADHD
   - Relationships
 excerpt: >-
-  Autistic loneliness is usually explained as a preference, and it is rarely about the empty room. It is about the full one - being present and still outside. It is also a loop: you are excluded before you have done anything, you withdraw because withdrawing is the only way to survive it, the withdrawal is read as disinterest, the deprivation builds, and when somebody finally arrives you hold on so hard that they leave. Each turn makes the next one more likely. This essay follows the loop round, and ends with a warning about where this kind of argument can go wrong.
+  Autistic loneliness is usually explained as a preference, and it is rarely about the empty room. It is about the full one - being present and still outside. It is also a loop: you are excluded before you have done anything, you withdraw because withdrawing is the only way to survive it, the withdrawal is read as disinterest, the deprivation builds, and when somebody finally arrives you hold on so hard that they leave. Each turn makes the next one more likely. What follows traces the loop round, and ends with a warning about where this kind of argument can go wrong.
 ---
 
 # The Loneliness Snowball: How Autistic Isolation Feeds Itself
@@ -20,7 +20,7 @@ There is a sentence autistic people hear a lot: *but you like being on your own.
 
 It is not a stupid thing to say. It is often true. I do like being on my own; I need it, and I get less done and feel worse without it. The problem is what the sentence is being used for. It is used to close the question - to explain the empty calendar as a preference, and to move on.
 
-This essay is about what that explanation misses. Autistic loneliness is not a taste for solitude. It is a loop, and the loop has a direction. Each turn of it makes the next turn more likely, which is why it does not stay the size it started at.
+What follows is about what that explanation misses. Autistic loneliness is not a taste for solitude. It is a loop, and the loop has a direction. Each turn of it makes the next turn more likely, which is why it does not stay the size it started at.
 
 I have called it a snowball because that is what it does. It is small at the top of the hill and it is not small at the bottom.
 
@@ -30,7 +30,7 @@ First, the thing itself, because *loneliness* gets used for several different st
 
 Being alone is a fact about the room. Loneliness is a fact about the gap between the connection you have and the connection you want. You can be alone and not lonely. You can be surrounded and lonely. They are not the same variable and they do not have to move together.
 
-But there is a third state, and it is the one autistic people describe most often. Not alone. Not simply lonely. Present, but an outsider.  
+But there is a third state, and it is the one autistic people describe most often. Not alone. Not simply lonely. Present, but an outsider.
 
 I will describe it the way it actually runs, because I have never found a tidier way to say it. I am in a supermarket, or an office, or somebody's kitchen at a party, and I am observing. Not participating - observing, the way you would watch a species. I can follow what everybody is doing and why. I can explain the rules back to you afterwards, sometimes better than the people obeying them could. What I cannot do is be inside it. And underneath that sits something harder to admit, which is a low, persistent doubt about whether I am quite the same kind of thing as the people I am watching.
 
@@ -40,11 +40,11 @@ Milton and Sims analysed autistic adults' own accounts of wellbeing and belongin
 
 And the not-quite-human part is not purely a feeling, which is the detail that stopped me short when I found it. Cage, Di Monaco and Newell surveyed 361 non-autistic people and found evidence of dehumanisation towards autistic people - specifically, the denial of the traits regarded as uniquely human. [^2] So an autistic adult who reports not being certain they are fully human is not manufacturing a symptom. They are reporting something that is being done to them, and reporting it accurately.
 
-That distinction runs through the rest of this essay. Most of what looks like an autistic feeling about the world turns out, on inspection, to be an accurate reading of it.
+That distinction runs through everything below. Most of what looks like an autistic feeling about the world turns out, on inspection, to be an accurate reading of it.
 
 Umagami and colleagues reviewed 34 studies of loneliness in autistic adults and found it consistently elevated, alongside a set of factors that raise it: anxiety, depression, suicidal ideation, negative experiences and learned helplessness, a lack of autism understanding and acceptance, sensory avoidance, camouflaging, and unemployment. [^3] Read that list again. Almost none of those are properties of the autistic person in isolation. Most of them describe a relationship between a person and an environment.
 
-Muris and colleagues put a size on the gap. Reviewing the field, they report loneliness in autistic populations at roughly three to four times the rate found in non-autistic comparison groups - and, at the same time, a stronger stated preference for solitude. [^4] They call the combination the **solitude-loneliness paradox**, and I will come back to it, because it is the hinge this whole essay turns on.
+Muris and colleagues put a size on the gap. Reviewing the field, they report loneliness in autistic populations at roughly three to four times the rate found in non-autistic comparison groups - and, at the same time, a stronger stated preference for solitude. [^4] They call the combination the **solitude-loneliness paradox**, and I will come back to it, because it is the hinge the whole argument turns on.
 
 The reason any of this matters is that belonging is not a preference. Baumeister and Leary's review established the need to belong as a fundamental human motivation - a drive for frequent, non-aversive contact within a stable, continuing relationship, whose frustration produces measurable harm. [^5] It is a requirement, not a hobby. Which means that an autistic adult with an empty calendar is not having their needs met by the emptiness; they are running a deficit in something the nervous system treats as necessary.
 
@@ -82,11 +82,11 @@ In Australia, the Bureau of Statistics' 2022 disability survey found the unemplo
 
 That pattern is not an artefact of one survey. Bury and colleagues followed 2,449 autistic adults across eight annual waves and found stable unemployment the single largest trajectory, at 1,189 people. [^17] Baldwin, Costley and Warren surveyed 130 Australian adults and found people with the capacity and willingness to work facing significant labour market disadvantage and working below their qualifications. [^18]
 
-I want to be plain about why an employment statistic belongs in an essay about loneliness. Work is where most adults get most of their social contact. It supplies the repeated, low-effort, structurally guaranteed exposure to other people out of which ordinary friendship forms. Remove it and you have not only removed an income. You have removed the mechanism.
+I want to be plain about why an employment statistic belongs in an argument about loneliness. Work is where most adults get most of their social contact. It supplies the repeated, low-effort, structurally guaranteed exposure to other people out of which ordinary friendship forms. Remove it and you have not only removed an income. You have removed the mechanism.
 
-The exclusion also registers physically. Trimmer and colleagues ran an ostracism task with autistic and non-autistic adults and found autistic participants rating their mood more negatively overall, and showing increased physiological arousal when excluded, which the control group did not. [^19] Lin and colleagues found autistic traits associated with heightened sensitivity to rejection-induced social pain. [^20] Levi and colleagues, interviewing autistic adults about social pain, titled the paper with a participant's phrase: *feeling unwanted when nobody wants you around*. [^21]
+The exclusion also registers physically. Trimmer and colleagues ran an ostracism task with autistic and non-autistic adults and found autistic participants rating their mood more negatively overall, and showing increased physiological arousal when excluded, which the control group did not. [^19] Lin and colleagues found autistic traits associated with heightened sensitivity to rejection-induced social pain. [^20] Levi and colleagues interviewed autistic adults about social pain, and called it feeling unwanted when nobody wants you around. [^21]
 
-So: judged in seconds, mismatched in company, victimised at close to fifty per cent, locked out of the labour market at six times the general rate, and hurt more by all of it than the people doing it would guess.
+So: judged in seconds, mismatched in company, victimised at close to half, unemployed at nearly six times the rate of non-disabled adults, and hurt more by all of it than the people doing it would guess.
 
 That is the first push. Nothing in it required the autistic person to do anything at all.
 
@@ -108,7 +108,7 @@ The second is money, and it is the one nobody solves. The standard advice is to 
 
 There is also a positive reason to be alone, which gets less attention because it is harder to make sound like suffering. Murray, Lesser and Lawson's monotropism model describes autistic attention as concentrating processing resources on relatively few things at a time, relatively intensely. [^25] Presented as a difference rather than a deficit, which is how they framed it. Being alone is where that concentration is available. An interrupted monotropic mind is not merely inconvenienced; it has lost the thing it does best.
 
-Then there is the third reason, which is the one that starts turning the wheel.
+Then there is the third reason, which is the one that starts it rolling.
 
 You leave before you are left.
 
@@ -162,9 +162,9 @@ Then there is what you actually bought. Participants in Pryke-Hobbes and colleag
 
 The second route also has a shelf life. Nobody runs surface acting indefinitely in the place they live, and when it gives out it does not taper politely; it collapses into burnout, which is where Part 3 came in. At that point the withdrawal is not a preference or a strategy. It is a shutdown, and it arrives without warning, after years of apparent normality - which makes it look, from the other side, exactly like the coldness they suspected all along.
 
-That is the wheel turning again, and this time nobody did anything wrong at all. One person offered connection in the only currency they had. The other person did not recognise it as value. And the accommodation - paying in a currency you do not have enough of - buys time rather than a solution.
+That is another turn downhill, and this time nobody did anything wrong at all. One person offered connection in the only currency they had. The other person did not recognise it as value. And the accommodation - paying in a currency you do not have enough of - buys time rather than a solution.
 
-That is the hinge. What follows is what happens when the wheel keeps turning.
+That is where it stops being anybody's fault. What follows is what happens as it keeps going.
 
 ## <small class="text-body-tertiary">Part 5: </small><br>The wider circle, and how it thins
 
@@ -174,11 +174,11 @@ For them the retreat is not misread as coldness. It is not read at all. It is si
 
 You say no to an invitation because you are three days into recovering from the last one. The person who invited you does not see recovery. They see a no. Repeat that four or five times and they stop asking, and they are not being cruel in stopping - that is the ordinary rule everyone runs. A person who says no five times is telling you something.
 
-Except the message they received is not the message that was sent. Jaswal and Akhtar's point applies exactly here: the behaviour that reads as absence of social interest has a different cause, and the cause is invisible. [^7]
+Except the message they received is not the message that was sent, and the cause of the mismatch is invisible from where they are standing. [^7]
 
 The obvious remedy is to go anyway, and it is worth knowing what going anyway actually buys, because it is less than everyone assumes. Belcher and colleagues recorded eighty autistic and non-autistic adults in conversation and had ten-second clips rated by 127 non-autistic observers. Autistic participants were rated more poorly - and camouflaging intent did not predict first impressions at all. [^32] That is a finding about strangers rather than about the people who already know you, and it is the harsher setting of the two: with a stranger there is no accumulated goodwill to draw on, and the judgement is made before you have said anything worth judging. Attending costs you the evening and does not reliably improve the impression.
 
-I have written [in my masking essay](/essays/everyone-masks.html) about why. The task in a new room is not performing a social convention; it is *locating* the convention, in a room where nobody has written it down.
+I have written [elsewhere](/essays/everyone-masks.html) about why. The task in a new room is not performing a social convention; it is *locating* the convention, in a room where nobody has written it down.
 
 So the wider circle contracts either way, and it contracts quietly. Nobody announces that they have stopped inviting you.
 
@@ -194,7 +194,7 @@ This is the point at which the snowball has picked up its first real weight. The
 
 ## <small class="text-body-tertiary">Part 6: </small><br>The deprivation
 
-There is a Facebook post that has been going around, and it is what made me want to write this essay. [^a]
+There is a Facebook post that has been going around, and it is what made me want to write this. [^a]
 
 > People don't realize what emotional deprivation does to a person. When you've gone too long without love, affection, genuine care, or even a simple hug, loneliness starts changing the way you think. You become attached too quickly. You cling to people who were never meant to stay. You mistake the bare minimum for something extraordinary because you've been starving for kindness. You start giving endless effort just to receive a fraction of what you give back. You ignore red flags, overextend yourself, and slowly lose your self-respect trying to prove you're worth loving. Your pride fades, your boundaries disappear, and you begin accepting things you once promised yourself you never would. Loneliness doesn't just make you feel empty. Sometimes, it convinces you to settle for less than you deserve, simply because being treated poorly feels less painful than being alone.
 
@@ -204,7 +204,7 @@ It supports more of it than I expected.
 
 Start with the part about accepting things you promised yourself you would not. Griffiths and colleagues built the Vulnerability Experiences Quotient and administered it to autistic and non-autistic adults, finding elevated rates of adverse interpersonal experience in the autistic group and associations with mental health and life satisfaction. [^36] The vulnerability is measured, not asserted.
 
-Pearson, Rees and Forster went closer in, asking 43 autistic adults about being taken advantage of by people they knew. Two things came out of it. People described repeated victimisation across different relationships - cycles rather than incidents. And they described difficulty recognising it as victimisation at all, and difficulty holding a boundary once they had, because of problems with trust, with compliance, and with reading what the other person actually intended. [^37] The title of the paper is a participant's line: *this was just how this friendship worked.*
+Pearson, Rees and Forster went closer in, asking 43 autistic adults about being taken advantage of by people they knew. Two things came out of it. People described repeated victimisation across different relationships - cycles rather than incidents. And they described difficulty recognising it as victimisation at all, and difficulty holding a boundary once they had, because of problems with trust, with compliance, and with reading what the other person actually intended. One of them summed it up in the line that became the paper's title: *this was just how this friendship worked*. [^37]
 
 The companion paper is worse, and I am going to quote its title rather than paraphrase it, because paraphrasing softens it: *I felt like I deserved it because I was autistic.* [^38]
 
@@ -212,7 +212,7 @@ So a person who has been short of connection for a long time, and who has been t
 
 Then the part about clinging. Van Asselt and colleagues interviewed 19 autistic adults who described heightened rejection sensitivity, and the accounts are hard reading: responses described as profoundly overwhelming and exhausting, accompanied by physical tension and pain, and by reliving past rejections in the present moment. Participants attributed it to a combination of autistic traits and a lifetime of actual rejection. [^39] Not imagined rejection. Actual.
 
-The general model behind that is Downey and Feldman's, and it contains the sentence that matters most in this essay. People high in rejection sensitivity anxiously expect rejection, perceive it readily in ambiguous behaviour, and react to it in ways that *provoke the rejection they fear*. [^40] Gao and colleagues' meta-analysis confirms the association with poor mental health outcomes across studies. [^41]
+The general model behind that is Downey and Feldman's, and it contains the sentence that matters most here. People high in rejection sensitivity anxiously expect rejection, perceive it readily in ambiguous behaviour, and react to it in ways that *provoke the rejection they fear*. [^40] Gao and colleagues' meta-analysis confirms the association with poor mental health outcomes across studies. [^41]
 
 That is the snowball written out as a mechanism, by researchers who were not thinking about autism at all.
 
@@ -234,7 +234,7 @@ The hierarchy has taken a lot of deserved criticism since, mostly for the ladder
 
 Which leaves the problem that has actually been identified. Ryan and Deci's self-determination theory names three basic psychological needs: autonomy, competence and relatedness. [^47] Look at that list from the position of a capable, analytical adult in burnout. Autonomy you can arrange. Competence you can work at, and people in this position usually have. Relatedness is the only one on the list that another person has to agree to.
 
-That is why it sucks. Not because needing recognition is shameful, but because he has correctly worked out that the remaining deficit is in the one category he cannot close by effort, intelligence or discipline - the three things that have solved everything else. It is the difference between a hard problem and a problem that is not yours alone to solve.
+That is why it sucks. Not because needing recognition is shameful, but because you have correctly worked out that the remaining deficit is in the one category you cannot close by effort, intelligence or discipline - the three things that have solved everything else. It is the difference between a hard problem and a problem that is not yours alone to solve.
 
 And for an autistic adult that is not a general truth about the human condition. It is specific, because Part 2 was about how few people are available to agree to it.
 
@@ -266,7 +266,7 @@ I went looking for work on this and found something worth reporting in itself. [
 
 The literature on special interests is a literature about *topics*, and I could not find a peer-reviewed taxonomy that treats a specific living person as a category of interest. The one place where science has looked closely at autistic people directing sustained, intense attention at another person is the forensic literature - which means the only well-documented version of this is the version that ended badly enough to involve the police.
 
-I want to be exact about what that does and does not tell us, because the risk of being misread here is high. It is a statement about where the research lamp has been pointed, not about where the behaviour usually leads. Nothing about intense attachment predicts a criminal outcome, and I am not suggesting it does. The problem is that when the only available evidence comes from the cases that ended in court, the evidence itself is skewed - and you have to read it knowing that.
+I want to be exact about what that does and does not tell us, because the risk of being misread here is high. It is a statement about where the research lamp has been pointed, not about where the behaviour usually leads. Nothing about intense attachment predicts a criminal outcome, and I am not suggesting it does.
 
 Stokes, Newton and Kaur compared parental reports for 25 autistic and 38 non-autistic adolescents and adults. The autistic group were more likely to focus their attention on celebrities, strangers, colleagues and ex-partners, and to pursue the target for longer, and were more likely to engage in courting behaviour rated inappropriate. [^50] Murphy and colleagues note that stalking is among the behaviours that bring autistic people into contact with the criminal justice system, and that treatment models adapted for this population barely exist. [^51]
 
@@ -276,7 +276,7 @@ The first is the sample: 25 people, by parent report rather than self-report, in
 
 The second is the inference. Nothing in it says autistic people are dangerous. The great majority of what this section describes never goes anywhere near a criminal threshold; it ends in an unanswered message and a friendship that quietly stops.
 
-The third is the shape of the evidence base, which I have already flagged and will repeat because it is the one most easily forgotten. A literature that only studies a behaviour at its most harmful will make that behaviour look worse than it is, every time.
+The third is the shape of the evidence base, and it is the one most easily forgotten. A literature that only studies a behaviour at its most harmful will make that behaviour look worse than it is, every time.
 
 But the Stokes paper contains one finding that explains far more than the headline does, and it is not about pursuit at all. The autistic participants were reported as having learned romantic skills from essentially nowhere: not from parents, not siblings, not observation, not media, not sex education, not peers. [^50] Every channel the rest of the population uses to absorb the rules had failed to deliver.
 
@@ -288,7 +288,7 @@ The second thing stacked underneath it is Büttner's result, which is the one I 
 
 There is empirical shape to it too, though I have to be careful about what shape exactly. Sedgewick, Hill and Pellicano compared the friendships of autistic and non-autistic adolescents and found autistic girls' friendships more intense, with an individual best friend often becoming the sole focus of their social lives, alongside more conflict and more difficulty resolving it. [^53] Fewer connections, each carrying more load.
 
-Now the honest caveat, because I have just done something the reader is entitled to object to. That study measured the *structure of a social network* - how many friends, how exclusive, how much conflict, how well repaired. It did not measure attention, and it did not describe anybody's best friend as a special interest. Two paragraphs ago I said there is no research treating a person as the object of an autistic special interest, and that is still true; a finding about exclusive friendships is not the same claim in different clothes. What I am doing is putting a structural finding next to an attentional model and observing that they point the same way. That is an inference, it is mine, and it is not what Sedgewick measured. [^b]
+Now the honest caveat, because I have just done something the reader is entitled to object to. That study measured the *structure of a social network* - how many friends, how exclusive, how much conflict, how well repaired. It did not measure attention, and it did not describe anybody's best friend as a special interest. Earlier in this part I said there is no research treating a person as the object of an autistic special interest, and that is still true; a finding about exclusive friendships is not the same claim in different clothes. What I am doing is putting a structural finding next to an attentional model and observing that they point the same way. That is an inference, it is mine, and it is not what Sedgewick measured. [^b]
 
 I also have to retract the line I would rather have written here, which is that none of this stops at eighteen. Sedgewick and colleagues went on to study adult women and found some of the pattern persisting - no network of friends to supply relationship advice, a tendency to take sole blame for conflict or to write the friendship off and withdraw, and high rates of victimisation. But they also found the autistic women happier and more self-assured in their adult relationships than they remembered being as adolescents. [^54] So it does change. Whatever the adolescent picture is, it is not a life sentence, and I am not going to imply it is because the darker version reads better.
 
@@ -300,11 +300,11 @@ Here is where it breaks, and the reason is not the one people assume.
 
 The obvious explanation is that you gave too much and frightened them off. The evidence does not really support that as stated. Collins and Miller's meta-analysis of self-disclosure found that people who disclose intimately are generally liked *more*, not less. [^55] Openness is not the problem. Intensity is not, by itself, the problem.
 
-What their third finding points at is the actual variable: people come to like others as a result of having disclosed *to* them. The effect runs on reciprocity. A relationship is a two-way ratchet, and what governs it is the matching - each side moving at roughly the pace of the other.
+What their work also found points at the actual variable: people come to like others as a result of having disclosed *to* them. The effect runs on reciprocity. A relationship is a two-way ratchet, and what governs it is the matching - each side moving at roughly the pace of the other.
 
 Which is the part that does not get said plainly enough. Relationships are not willed into existence, and they are not owed to anybody for being decent. They take a time investment, and trust is earned incrementally, in instalments whose size the other person sets. That is the schedule. And the autistic error is not refusing to pay it. It is trying to pay the whole thing on the first day, because nobody mentioned it was an instalment plan.
 
-Which means the failure is not caring too much. It is misreading the pace. And misreading the pace is precisely the disability. The rate at which intimacy is supposed to increase in a new friendship is an unwritten local convention, learned by observation, and never once stated aloud. It is the same problem as every other social convention: perfectly executable once you know it, and close to undetectable if you have to infer it.
+Which means the failure is not caring too much. And misreading the pace is precisely the disability: the rate at which intimacy is supposed to increase in a new friendship is an unwritten local convention, learned by observation, and never once stated aloud. It is the same problem as every other social convention - perfectly executable once you know it, and close to undetectable if you have to infer it.
 
 So the giving is not wrong in kind. It is wrong in timing, against a schedule nobody published. And a gift given at the wrong point in the schedule does not read as generosity. It reads as pressure.
 
@@ -312,7 +312,7 @@ Then the other person pulls back. Sometimes gently, sometimes not. And every par
 
 The relationship ends. And it ends in a way that confirms every prediction the loneliness made.
 
-That is the snowball completing a full turn. You are now lonelier than you were, more certain that closeness ends badly, more primed to detect the ending early, and another friend short.
+That is the snowball back where it started, heavier. You are now lonelier than you were, more certain that closeness ends badly, more primed to detect the ending early, and another friend short.
 
 ## <small class="text-body-tertiary">Part 8: </small><br>A warning about this argument
 
@@ -322,15 +322,15 @@ Everything above says: this is being done to autistic people, the mechanism is n
 
 You can watch the deal being offered on any video platform. Somebody posts an honest account of a real and widespread form of loneliness; the recommendation engine then serves up a response explaining which category of people is responsible for it. The second video is more satisfying than the first, which is precisely the problem, and it is why the recommendation was made.
 
-I am not going to name the particular quarrels this happens in, because the specifics are a distraction and rehearsing them only circulates them further. The structure is the point, and the structure is portable. It attaches to any diffuse, structural, hard-to-fix harm, and it works best on people isolated enough to be grateful for an explanation - which, if the rest of this essay is right, describes a great many autistic adults.
+I am not going to name the particular quarrels this happens in, because the specifics are a distraction and rehearsing them only circulates them further. The structure is the point, and the structure is portable. It attaches to any diffuse, structural, hard-to-fix harm, and it works best on people isolated enough to be grateful for an explanation - which, if the rest of this argument is right, describes a great many autistic adults.
 
 So here is the version of it built for us.
 
-If Part 2 is right - if autistic people are judged in seconds, mismatched in company, victimised at close to half, and locked out of work at six times the general rate - then it is a very short step to concluding that non-autistic people are the problem. That step is available. It is emotionally satisfying. And a certain amount of autistic community writing has taken it.
+If Part 2 is right - if the judgement is made before you speak, the mismatch is structural, the victimisation runs to nearly half, and the work is not there - then it is a very short step to concluding that non-autistic people are the problem. That step is available. It is emotionally satisfying. And a certain amount of autistic community writing has taken it.
 
-It does not survive this essay's own evidence.
+It does not survive the evidence I have just used.
 
-Milton's double empathy argument is mutual by construction: two groups failing to read each other, not one group failing the other. [^10] Crompton's finding is that information transfer degrades in *mixed* pairs - not that non-autistic communication is defective. [^11] Heasman and Gillespie found the misreading running in both directions at once, with each side misjudging the other. [^28] And the Sasson result, which is the most damning single finding in Part 2, has a companion I have already cited: the same kind of observers form better impressions once they know something about autism. [^56] They were not malicious. They were uninformed, and informing them worked.
+Milton's argument is symmetrical by construction - the failure belongs to the gap, not to either side of it. [^10] Crompton's finding is that information transfer degrades in *mixed* pairs - not that non-autistic communication is defective. [^11] Heasman and Gillespie found the misreading running in both directions at once, with each side misjudging the other. [^28] And the Sasson result, which is the most damning single finding in Part 2, has a companion finding: the same kind of observers form better impressions once they know something about autism. [^56] They were not malicious. They were uninformed, and informing them worked.
 
 That is a considerably less satisfying story than one with villains in it. It is also the one the data supports.
 
@@ -338,9 +338,9 @@ Then the harder half, which I would rather not have to say to people who are lon
 
 *The mechanism is not your fault* and *somebody therefore owes me* are different sentences, and the second does not follow from the first. Nobody is obliged to be close to me. A person who declines an invitation is not malfunctioning and is not the cause of the snowball. The exclusion in Part 2 is a population-level pattern produced by mismatched communication, inaccessible environments and stigma - and Botha and Frost are precise that minority stress operates through social position rather than through anybody's malice. [^57] It is not a debt owed by the last individual who said no.
 
-I want to be plain about why this section is here at all. An essay that explains your loneliness as something done to you is a comfort, and a comfort that load-bearing is worth a great deal to somebody who has been without one. That is exactly what makes it worth hijacking. Anyone offering you a category of people to blame for this is offering you a worse deal than the one already on the table, because the category is not the mechanism, and resenting them repairs none of it.
+I should say plainly why this section is here at all. An argument that explains your loneliness as something done to you is a comfort, and a comfort that load-bearing is worth a great deal to somebody who has been without one. That is exactly what makes it worth hijacking. Anyone offering you a category of people to blame for this is offering you a worse deal than the one already on the table, because the category is not the mechanism, and resenting them repairs none of it.
 
-This essay is a description of a mechanism. It is not a grievance, and it is not an invoice.
+What I have written is a description of a mechanism. It is not a grievance, and it is not an invoice.
 
 ## <small class="text-body-tertiary">Part 9: </small><br>What the loop costs, and where it can be broken
 
@@ -378,7 +378,7 @@ What is being described there has a name. Alexithymia is difficulty identifying 
 
 That matters for the conclusion drawn from it. Emotion-focused therapy assumes a degree of access to your own feelings that most autistic clinic attendees do not have, so its failing is a fit problem rather than a verdict on the client. Paynter, Sommer and Cook asked 130 autistic adults to rate 55 possible adaptations to therapy and found around half rated positively - with wide variation between individuals, which is itself the finding. [^66] What follows from that is not *try harder at therapy*. It is that the standard version is one configuration of a thing that has many, and one configuration not fitting is information about the configuration.
 
-And it is not only the method that varies. It is the person delivering it, which I have written about [in my unmasked at midlife essay](/essays/unmasked-at-midlife.html) and will repeat here because it belongs to this argument too.
+And it is not only the method that varies. It is the person delivering it, which I have written about [elsewhere](/essays/unmasked-at-midlife.html) and will repeat here because it belongs to this argument too.
 
 The gap here is documented, and it is documented by the clinicians themselves. Cooper, Loades and Russell surveyed therapists on their skills, experience and confidence in working psychologically with autistic people, and found confidence varying considerably across skills, adaptations made unevenly, and challenges the therapists named themselves - concluding that well-designed training and supervision were required. [^67] Moore, Larkin and Foley's synthesis of 13 studies of professionals adapting interventions for autistic adults found the same picture from the other end: adaptation treated as a highly individualised process, shaped as much by an individual practitioner's own traits and experience as by anything systematic, and constrained by service-level factors. [^68]
 
@@ -392,7 +392,7 @@ What I will not do is end this by telling anyone to put themselves out there mor
 
 Being alone is fine. I am good at it, and I intend to keep doing it. What is not fine is that the choosing gradually stopped being a choice - that the calendar emptied for reasons that were mostly other people's, and then the emptiness got explained back to me as my personality.
 
-Nor is the problem solved by putting me in a room with people. The state this essay has mostly been about is not the empty room. It is the full one: standing in it, following exactly what everybody is doing and why, and having no way in.
+Nor is the problem solved by putting me in a room with people. The state described here is not the empty room. It is the full one: standing in it, following exactly what everybody is doing and why, and having no way in.
 
 And what is least fine is the last turn, the one nobody sees. That when somebody finally does turn up, having gone too long without makes you hold on too tight, too fast, at the wrong point on a schedule you were never shown - and that this is the most reliable way there is to make them leave.
 
@@ -422,13 +422,13 @@ It is the cheapest sentence in the language. It ends the conversation, it costs 
 
 ---
 
-[^a]: The quoted passage appeared on the Facebook page *Suffering is my Hobby*. I have deliberately not linked to it: I could not establish whether that page wrote the passage or reposted it - text of this kind circulates across dozens of accounts without attribution - and I do not use Facebook, so I cannot verify what is on the page now or what it was when I read it. It is quoted here as a piece of popular writing that a lot of people recognised themselves in, not as a source. Nothing in this essay rests on it evidentially.
+[^a]: The quoted passage appeared on the Facebook page *Suffering is my Hobby*. I have deliberately not linked to it: I could not establish whether that page wrote the passage or reposted it - text of this kind circulates across dozens of accounts without attribution - and I do not use Facebook, so I cannot verify what is on the page now or what it was when I read it. It is quoted here as a piece of popular writing that a lot of people recognised themselves in, not as a source. Nothing above rests on it evidentially.
 
 [^b]: "All-or-nothing emotional tethering" is my phrase, not a construct in the literature. I could not find a peer-reviewed study measuring intensity or pacing of attachment specifically in autistic adults forming new friendships; searching on 14 August 2026 turned up a great deal of popular writing on "hyperfixating on a person" and no clinical cohort data. What Part 7 does is assemble the claim from components that *are* evidenced - monotropic attention [^25], the exclusivity and conflict pattern in autistic adolescent friendships [^53], hypersensitivity to inclusion following repeated exclusion [^34], rejection sensitivity [^39][^40], and elevated emotion dysregulation [^42][^43] - and then argue that they combine. The combination is my inference, and it should be read as one. The weakest join is between the friendship-structure work and the attentional model: those literatures measure different things and were never designed to meet, so a reader who accepts each of them separately is under no obligation to accept my splice of them. It would be a straightforward thing to test properly, and as far as I can tell nobody has.
 
 [^c]: Searched 14 August 2026 on PubMed and Google Scholar for peer-reviewed work treating a specific living person as the object of an autistic special interest - combinations of *special interest*, *circumscribed interest*, *restricted interest*, *hyperfixation* and *person*, *individual*, *friend*, *partner*. The taxonomies I found classify interests by topic, and while several list categories such as celebrities or fictional characters, I could not find one that treats a person known to the individual as a category, nor a non-forensic study measuring intensity or duration of person-directed interest. The forensic literature cited above is the closest available, and it is a poor substitute: it samples on outcome, so it can describe what the extreme looks like and cannot say anything about how common the ordinary version is. This looks to me like a genuine gap rather than a failure of searching, and it is an odd one, given how frequently autistic adults describe the experience.
 
-[^d]: I have not carried out a jurisdiction-by-jurisdiction legal survey and am not claiming one. What I am relying on is that autism sits inside the disability frameworks of the countries whose data this essay uses - the Australian figures in Part 2 come from a national disability survey, and equivalent classification applies across the United Kingdom, the European Union and the United States through their respective equality and disability legislation. The status is not seriously contested anywhere I looked; what varies is the level of support attached to it, which is a different argument and not this one.
+[^d]: I have not carried out a jurisdiction-by-jurisdiction legal survey and am not claiming one. What I am relying on is that autism sits inside the disability frameworks of the countries whose data these pages use - the Australian figures in Part 2 come from a national disability survey, and equivalent classification applies across the United Kingdom, the European Union and the United States through their respective equality and disability legislation. The status is not seriously contested anywhere I looked; what varies is the level of support attached to it, which is a different argument and not this one.
 
 [^1]: Milton, D., & Sims, T. (2016). How is a sense of well-being and belonging constructed in the accounts of autistic adults? *Disability & Society*, *31*(4), 520–534. [DOI: 10.1080/09687599.2016.1186529](https://doi.org/10.1080/09687599.2016.1186529)
 
@@ -532,7 +532,7 @@ It is the cheapest sentence in the language. It ends the conversation, it costs 
 
 [^51]: Murphy, V., Laboy, N. M., Peretti, K., & Abbott, S. E. (2024). Stalking and autism. *Irish Journal of Psychological Medicine*, *41*(4), 510–511. [DOI: 10.1017/ipm.2024.30](https://doi.org/10.1017/ipm.2024.30)
 
-[^52]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. [ISBN: 978-0890425558](https://openlibrary.org/isbn/9780890425558) - the fifth edition consolidated autistic disorder, Asperger's disorder and pervasive developmental disorder not otherwise specified into the single diagnosis of autism spectrum disorder.
+[^52]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. [ISBN: 978-0890425558](https://openlibrary.org/isbn/9780890425558) - the fifth edition consolidated autistic disorder, Asperger's disorder and pervasive developmental disorder not otherwise specified into the single diagnosis of autism spectrum disorder. I have cited the 2013 edition rather than the 2022 text revision deliberately, because it is also doing the work of dating the DSM-IV/DSM-5 transition against the 2007 sample discussed in Part 7; the criteria quoted are unchanged between the two.
 
 [^53]: Sedgewick, F., Hill, V., & Pellicano, E. (2019). 'It's different for girls': Gender differences in the friendships and conflict of autistic and neurotypical adolescents. *Autism*, *23*(5), 1119–1132. [DOI: 10.1177/1362361318794930](https://doi.org/10.1177/1362361318794930)
 
