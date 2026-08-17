@@ -4,10 +4,10 @@ title: "Unmasked at Midlife: Making Sense of a Late Autism Diagnosis"
 permalink: /essays/unmasked-at-midlife.html
 author: Silvino Rodrigues
 category: Essays
-tags: 
+tags:
   - Autism
 excerpt: >-
-  This essay is the written version of a talk I gave at the Sydney Disability Expo in August 2026. It is for anyone who suspects they might be autistic, anyone who has just found out, and anyone who loves someone walking this road. I have tried to keep the language plain, but have not made the ideas small.
+  The written version of a talk I gave at the Sydney Disability Expo in August 2026. Adults are being diagnosed autistic in their forties, fifties and sixties - not because autism is spreading, but because the lens that could see them was only ground recently. What follows is about why we were missed, what finally makes people look, and why the answer, when it arrives, so often lands as grief rather than relief.
 ---
 
 # Unmasked at Midlife: Making Sense of a Late Autism Diagnosis
@@ -18,13 +18,13 @@ I led teams. I made hiring decisions. I built a thirty-year corporate career. An
 
 I am not unusual. Across the world, adults are sitting in the consulting room for the first time in their forties, fifties, and sixties, and hearing a word that reframes their entire life. Many people assume this means autism is spreading. It is not. What has changed is not the number of autistic people. It is our ability to see them.
 
-This essay is for anyone who suspects they might be autistic, anyone who has just found out, and anyone who loves someone walking this road.
+This is for anyone who suspects they might be autistic, anyone who has just found out, and anyone who loves someone walking this road.
 
 Let me start with the myth I most want to kill.
 
 ## <small class="text-body-tertiary">Part 1: </small><br>No, there aren't suddenly more of us
 
-The number of autistic adults has not exploded. We were always here. We were simply missed. There are four main reasons, and they worked together.
+The number of autistic adults has not exploded. We were always here. We were simply missed. There are three main reasons, and they worked together.
 
 ### The lens had not been ground yet
 
@@ -34,11 +34,11 @@ Under prior manuals, a person could be pushed out of an autism diagnosis because
 
 So when older adults say "this did not exist when I was a child," they are close to right. The tool that could have named them had not been built yet. They were not missed through carelessness. They were missed because the lens required to see them had not yet been ground.
 
-### The ruler was built on boys
+### The measure was made for boys
 
 Even once autism was recognised, the picture clinicians carried in their heads was narrow. It was, at its core, a picture of boys - not girls, and not adults, be it women or men.
 
-The earliest descriptions of autism were based almost entirely on boys, and the diagnostic markers that followed carried that bias forward. Simon Baron-Cohen's well-known "extreme male brain" theory pushed the idea even further into the culture, framing autism as an exaggeration of a supposedly male way of thinking. The effect on the clinic was real: professionals were, in a sense, trained to look for masculinity when they looked for autism.
+The earliest descriptions of autism were based almost entirely on boys, and the diagnostic markers that followed carried that bias forward. Simon Baron-Cohen's well-known "extreme male brain" theory pushed the idea even further into the culture, framing autism as an exaggeration of a supposedly male way of thinking [^1002]. The effect on the clinic was real: professionals were, in a sense, trained to look for masculinity when they looked for autism.
 
 This is why the childhood diagnosis rate has long sat at roughly four boys to every girl. But when researchers look carefully, that ratio does not hold up as a fact about biology. A large review of the evidence found that the gap is inflated by who gets noticed and referred, not by who is actually autistic [^458]. Girls, women, and anyone skilled at hiding their differences were read as something else, or as nothing at all [^420][^45].
 
@@ -50,7 +50,7 @@ If your autism is not seen, your struggles do not vanish. They simply get labell
 
 Researchers call this diagnostic substitution: the same person, the same traits, filed under a different heading depending on who is looking and when [^70]. For many late-diagnosed adults, the earlier labels were not wrong so much as incomplete. They named the smoke and missed the fire.
 
-And further back, before even these labels, sat something crueller. In the mid-twentieth century, a popular theory blamed autism on cold, distant mothering - the so-called "refrigerator mother." It was wrong, it has been thoroughly discredited, and it did enormous harm to a generation of parents. I mention it because the history matters. The story of late diagnosis is not only about missing - and in some cases, bad - science. It is also about the myths that filled the gap while the science caught up.
+And further back, before even these labels, sat something crueller. In the mid-twentieth century, a popular theory blamed autism on cold, distant mothering - the so-called "refrigerator mother." It was wrong, it has been thoroughly discredited, and it did enormous harm to a generation of parents. [^b] I mention it because the history matters. The story of late diagnosis is not only about missing - and in some cases, bad - science. It is also about the myths that filled the gap while the science caught up.
 
 ## <small class="text-body-tertiary">Part 2: </small><br>What finally makes us look
 
@@ -62,7 +62,7 @@ For many adults, the first crack of recognition comes from a series of short vid
 
 That is the gift. But there is a trap on the same edge of the blade.
 
-Unfortunately, a large amount of what circulates is made by people with no clinical training. Take the "Autistic Mum" style of content: warm, confident, widely shared, and frequently wrong. When thousands of people share and re-share the same shaky claim, it starts to feel like established fact. Psychologists call the deeper problem an echo chamber, where a guess, a bias, a blind belief in misinformation, hardens into certainty simply because everyone around you is repeating it. I am not against social media. It found me before the clinic did. But I am firmly in favour of checking the source.
+Unfortunately, a large amount of what circulates is made by people with no clinical training. Take the "Autistic Mum" style of content: warm, confident, widely shared, and frequently wrong. When thousands of people share and re-share the same shaky claim, it starts to feel like established fact. The deeper problem is the echo chamber. A guess, a bias, or a plain piece of misinformation hardens into certainty simply because everyone around you is repeating it back. I am not against social media. It found me before the clinic did. But I am firmly in favour of checking the source.
 
 ### Mainstream media: the sharper harm
 
@@ -88,23 +88,23 @@ There is a good reason for this. Autism is a developmental condition. By definit
 
 One more thing is worth saying plainly. By the time an adult reaches a formal assessment, they almost always already suspect the answer. The process does not usually deliver a bolt from the blue. It confirms something the person has quietly come to believe. This is why both routes to understanding are legitimate: the person who is *self-identified*, working from honest self-recognition, and the person who is *formally diagnosed*, with a clinical report in hand. Neither is walking into this cold.
 
-Hold on to that fact - *she already knew* - because it makes the next part harder to understand, and more important.
+Hold on to that fact - *they already knew* - because it makes the next part harder to understand, and more important.
 
 ## <small class="text-body-tertiary">Part 4: </small><br>The discovery, and the grief
 
-I often point people I speak to to a video of the YouTuber known as Courtney, Literally. In [her video](https://youtu.be/RSZ-SnKSyl4?t=1120) about the assessment process she shares the moment she hears a psychologist confirm that she is autistic. In it, at that moment, she breaks down into deep, uncontrollable sobbing.
+I often send people to a video by the YouTuber known as Courtney, Literally. [^a] In [her video](https://youtu.be/RSZ-SnKSyl4?t=1120) about the assessment process she shares the moment she hears a psychologist confirm that she is autistic. In it, at that moment, she breaks down into deep, uncontrollable sobbing.
 
-Here is the question I ask the lister afterwards: *she already suspected she was autistic. So why that reaction?*
+Here is the question I ask the listener afterwards: *she already suspected she was autistic. So why that reaction?*
 
-I too, had that same reaction - and I had seen that video before - and had assumed that I would not have that reaction.
+I too had that same reaction - and I had seen that video before - and had assumed that I would not have that reaction.
 
 I did.
 
 The answer is grief.
 
-We expect a diagnosis to bring relief, but that's not what comes first. It's the: finally, a name for the nameless thing. Finally, an explanation that is not "you are lazy" or "you are difficult", told "you are broken", called "odd", "weird", "creepy" - all the bullies that teased you when you were a kid, all the times you were fired from your job because your "personality" did not "work" for the company, all the lost relationships ... it all has a reason now. That unburdening is real, and it matters. But it can also be a kind of shield. If I embrace the label instantly and completely, I do not yet have to feel the weight of what it means [^160].
+Relief does come first. Finally, a name for the nameless thing; finally, an explanation that is not *you are lazy*, or *you are difficult*, or *you are broken*, or *odd*, or *weird*, or *creepy*. The bullies who teased you at school, the jobs you lost because your personality did not work for the company, the relationships that fell away - all of it has a reason now. That unburdening is real, and it matters. But it can also be a kind of shield. If I embrace the label instantly and completely, I do not yet have to feel the weight of what it means [^160].
 
-And underneath the relief sits something that feels a great deal like bereavement. Because a late diagnosis is not simply new information added to your life. It re-writes the whole story. Every memory, every failure, every relationship now reads differently. What you mourn is a version of yourself that never got to exist - the person you might have been if someone had understood you at ten instead of fifty - and the life that might have been lived with that understanding. As I put it in my book, and as I say on stage: someone died. You did.
+And underneath the relief sits something that feels a great deal like bereavement. Because a late diagnosis is not simply new information added to your life. It re-writes the whole story. Every memory, every failure, every relationship now reads differently. What you mourn is a version of yourself that never got to exist - the person you might have been if someone had understood you at ten instead of fifty - and the life that might have been lived with that understanding. As I say on stage: someone died. You did.
 
 Researchers who study this describe a grief that follows the familiar shape of loss - the denial, the anger, the bargaining, the deep sadness, and eventually some form of acceptance [^815][^816]. But it is important to be honest about that model: grief does not move in neat, tidy steps, and treating it as a checklist can mislead people [^817]. It loops back on itself. You can feel settled one week and be blindsided the next [^818]. For autistic people, this can be even less predictable, because many of us process emotion in our own way, sometimes feeling little at first and then being overwhelmed later, or struggling to name what we feel at all [^68].
 
@@ -116,9 +116,9 @@ The diagnosis explains everything. And for a while, it can make everything harde
 
 ### At work
 
-For decades, most late-diagnosed adults have survived by building elaborate workarounds. We script conversations, force eye contact, hide our exhaustion, and copy the people around us until we blend in. Researchers call this masking, or camouflaging, and it is one of the most consistent findings in the whole field [^348][^347][^159]. From the outside it looks like competence. On the inside it is expensive - the process of acting out a persona that we think others want to see consumes significant cognitive function - we don't "act" subconsciously, every word said, every body movement is planned and intentional. And when we let our guard down the autistic traits show and the punishment is been ostracised. So we're "on guard" all the time when around others.
+For decades, most late-diagnosed adults have survived by building elaborate workarounds. We script conversations, force eye contact, hide our exhaustion, and copy the people around us until we blend in. Researchers call this masking, or camouflaging, and it is one of the most consistent findings in the whole field [^348][^347][^159]. From the outside it looks like competence. On the inside it is expensive - the process of acting out a persona that we think others want to see consumes significant cognitive function - we don't "act" subconsciously, every word said, every body movement is planned and intentional. And when we let our guard down the autistic traits show and the punishment is being ostracised. So we're "on guard" all the time when around others.
 
-After diagnosis, that behavior - the "mask" - suddenly has a name, has a reason, becomes visible. What was automatic is now a choice. And that raises hard questions in the one place where masking often paid the bills. What do I keep performing because it genuinely helps? What do I finally put down? What if I focus more on the work, rater than the fitting in? There is rarely a clean answer, which is part of what makes this period so unsettling.
+After diagnosis, that behaviour - the "mask" - suddenly has a name, has a reason, becomes visible. What was automatic is now a choice. And that raises hard questions in the one place where masking often paid the bills. What do I keep performing because it genuinely helps? What do I finally put down? What if I focus more on the work than on the fitting in? There is rarely a clean answer, which is part of what makes this period so unsettling.
 
 ### In relationships
 
@@ -132,7 +132,7 @@ The cruel timing is that these two griefs rarely line up. One person is flooded 
 
 One of the least discussed consequences is the quiet loss of friendships. It happens for a few reasons, and understanding them softens the blow.
 
-Once you can name the mask, wearing it becomes almost unbearable. There is a visceral, bone-deep pull to stop performing [^472]. But some friendships were built on the performance. When the mask comes off, you start to see, with painful clarity, which people were friends with the mask and not with you. As I have come to think of it: *they were friends with the mask, not with me.* When the performance stops, some of those connections simply have nothing left to stand on.
+Once you can name the mask, wearing it becomes almost unbearable. There is a visceral, bone-deep pull to stop performing [^472]. But some friendships were built on the performance, and when it stops they have nothing left to stand on. As I have come to think of it: *they were friends with the mask, not with me.*
 
 This is a real loss and it should be mourned. But it is also a clearing. There is good evidence that autistic people often connect more easily and more comfortably with one another, and that these relationships can feel more genuine and less effortful [^169][^170]. What survives the unmasking, or what grows afterwards, tends to rest on something truer - albeit a lot smaller.
 
@@ -154,11 +154,11 @@ If any of this describes you, please hear the most practical thing I can offer: 
 
 So reach for help. But reach carefully, because there is a catch: not every psychologist is equipped for neurodivergence. Many were trained on the old, narrow picture of autism - the very picture that missed us in the first place. A therapist who does not understand masking, or who treats autistic traits as problems to be corrected, can do more harm than good. It is completely reasonable to ask a clinician, before you commit, what experience and training they have with autistic adults.
 
-There is encouraging movement here, at least in Australia. From December 2025, neurodiversity-affirming practice becomes part of the core competencies that every psychologist must meet to be registered - the standards that define what a psychologist has to be able to do [^1000]. In plain terms: understanding neurodivergence is shifting from a nice-to-have specialism to a baseline expectation of the profession [^1001]. This did not happen by accident. It is the result of years of advocacy by neurodivergent people insisting on care that supports who they are, rather than trying to correct it. If you are looking for a psychologist now, you can reasonably expect at least a foundational understanding of these issues, and you are entitled to keep looking until you find someone who has it.
+There is encouraging movement here, at least in Australia. The Psychology Board of Australia's professional competencies - the standards that define what a psychologist has to be able to do - were rewritten for the first time since 2010, and came into effect on 1 December 2025. Competency 7, which covers responsiveness to client diversity, now requires that a psychologist understands neurodiversity, along with strengths-based, trauma-informed and positive approaches to supporting people with developmental disability [^1000]. I want to be accurate about the wording: the requirement is *understanding* rather than affirming, which is a smaller thing than the headlines suggested. It is still a real change. Understanding neurodivergence has shifted from a nice-to-have specialism to a baseline expectation of the profession [^1001]. This did not happen by accident. It is the result of years of advocacy by neurodivergent people insisting on care that supports who they are, rather than trying to correct it. If you are looking for a psychologist now, you can reasonably expect at least a foundational understanding of these issues, and you are entitled to keep looking until you find someone who has it.
 
 ## A final word
 
-The title of this writing is *Unmasked at Midlife*, and I chose it carefully. The mask coming off is not the sad ending of the story. It is the difficult, honest beginning of a real one.
+The title I chose is *Unmasked at Midlife*, and I chose it carefully. The mask coming off is not the sad ending of the story. It is the difficult, honest beginning of a real one.
 
 If you are somewhere in this process - quietly wondering, freshly diagnosed, or grieving a self you are only now getting to know - you are not broken, you are not too late, and you are not alone. The lens finally exists. The mirror has been held up. What you build next is yours to build, and it can be built on the truth.
 
@@ -166,14 +166,17 @@ If you are somewhere in this process - quietly wondering, freshly diagnosed, or 
 
 ---
 
+[^a]: The video is Courtney, Literally, *the assessment process*, on YouTube; the moment referred to is at about 18:40. <https://youtu.be/RSZ-SnKSyl4?t=1120> I have used it the way I would use anything a person has chosen to publish about themselves - as an illustration of a reaction many of us recognise, not as evidence of how common that reaction is. Nothing in this piece rests on it evidentially.
+
+[^b]: The theory is usually traced to Leo Kanner's early descriptions and was popularised by Bruno Bettelheim in *The Empty Fortress: Infantile Autism and the Birth of the Self* (Free Press, 1967), which was written partly in answer to Bernard Rimland's *Infantile Autism* (1964) - the book that first attacked the idea on evidential grounds. I have not given ISBNs for either, because I could not verify them to the standard I have used for the sources below, and I would rather say so than supply a number I have not checked. The claim being made here is historical rather than clinical: the theory existed, it was influential, and it has been abandoned.
 
 [^11]: Antshel, K. M., & Russo, N. (2019). Autism spectrum disorders and ADHD: Overlapping phenomenology, diagnostic issues, and treatment considerations. *Current Psychiatry Reports, 21*(5), 34. [DOI: 10.1007/s11920-019-1020-5](https://doi.org/10.1007/s11920-019-1020-5)
 
 [^12]: Antshel, K. M., Zhang-James, Y., Wagner, K. E., Ledesma, A., & Faraone, S. V. (2016). An update on the comorbidity of ADHD and ASD: A focus on clinical management. *Expert Review of Neurotherapeutics, 16*(3), 279–293. [DOI: 10.1586/14737175.2016.1146591](https://doi.org/10.1586/14737175.2016.1146591)
 
-[^13]: American Psychiatric Association. (2000). *Diagnostic and statistical manual of mental disorders* (4th ed., text rev.). [ISBN: 978-0890425763](https://openlibrary.org/isbn/9780890425763)
+[^13]: American Psychiatric Association. (2000). *Diagnostic and statistical manual of mental disorders* (4th ed., text rev.). American Psychiatric Association. [ISBN: 978-0890420256](https://openlibrary.org/isbn/9780890420256)
 
-[^14]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. [ISBN: 978-0890425763](https://openlibrary.org/isbn/9780890425763)
+[^14]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. [ISBN: 978-0890425558](https://openlibrary.org/isbn/9780890425558)
 
 [^45]: Bargiela, S., Steward, R., & Mandy, W. (2016). The experiences of late-diagnosed women with autism spectrum conditions: An investigation of the female autism phenotype. *Journal of Autism and Developmental Disorders, 46*(10), 3281–3294. [DOI: 10.1007/s10803-016-2872-8](https://doi.org/10.1007/s10803-016-2872-8)
 
@@ -237,6 +240,8 @@ If you are somewhere in this process - quietly wondering, freshly diagnosed, or 
 
 [^818]: Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist, 59*(1), 20–28. [DOI: 10.1037/0003-066X.59.1.20](https://doi.org/10.1037/0003-066X.59.1.20)
 
-[^1000]: Psychology Board of Australia. (2025). *Professional competencies for psychologists*. Australian Health Practitioner Regulation Agency. [https://www.psychologyboard.gov.au](https://www.psychologyboard.gov.au)
+[^1000]: Psychology Board of Australia. (2024). *Professional competencies for psychologists*. Australian Health Practitioner Regulation Agency. <https://www.psychologyboard.gov.au/Standards-and-Guidelines/Professional-practice-standards/Professional-competencies-for-psychology.aspx> - released 7 August 2024, in effect from 1 December 2025. Regulatory standards rather than a peer-reviewed source, cited for what they require.
 
-[^1001]: Fidock, E. (2025, June 17). *A step forward: Neurodiversity-affirming practice soon to be a requirement for all psychologists in Australia*. The Neuro Nurture Collective. [https://www.theneuronurturecollective.com](https://www.theneuronurturecollective.com)
+[^1001]: Psychology Board of Australia. (2024, August 7). *Professional competencies for psychologists released* [News release]. Australian Health Practitioner Regulation Agency. <https://www.psychologyboard.gov.au/News/2024-08-07-Professional-competencies-for-psychologists-released.aspx> - the Board's own announcement, setting out what changed and when it takes effect.
+
+[^1002]: Baron-Cohen, S. (2002). The extreme male brain theory of autism. *Trends in Cognitive Sciences, 6*(6), 248–254. [DOI: 10.1016/S1364-6613(02)01904-6](https://doi.org/10.1016/S1364-6613%2802%2901904-6)
