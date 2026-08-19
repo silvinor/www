@@ -6,6 +6,7 @@ author: Silvino Rodrigues
 category: Essays
 tags:
   - Autism
+  - Autobiographic
 excerpt: >-
   The written version of a talk I gave at the Sydney Disability Expo in August 2026. Adults are being diagnosed autistic in their forties, fifties and sixties - not because autism is spreading, but because the lens that could see them was only ground recently. What follows is about why we were missed, what finally makes people look, and why the answer, when it arrives, so often lands as grief rather than relief.
 ---
@@ -50,7 +51,7 @@ If your autism is not seen, your struggles do not vanish. They simply get labell
 
 Researchers call this diagnostic substitution: the same person, the same traits, filed under a different heading depending on who is looking and when [^70]. For many late-diagnosed adults, the earlier labels were not wrong so much as incomplete. They named the smoke and missed the fire.
 
-And further back, before even these labels, sat something crueller. In the mid-twentieth century, a popular theory blamed autism on cold, distant mothering - the so-called "refrigerator mother." It was wrong, it has been thoroughly discredited, and it did enormous harm to a generation of parents. [^b] I mention it because the history matters. The story of late diagnosis is not only about missing - and in some cases, bad - science. It is also about the myths that filled the gap while the science caught up.
+And further back, before even these labels, sat something crueller. In the mid-twentieth century, a popular theory blamed autism on cold, distant mothering - the so-called "refrigerator mother." It was wrong, it has been thoroughly discredited, and it did enormous harm to a generation of parents. [^a] I mention it because the history matters. The story of late diagnosis is not only about missing - and in some cases, bad - science. It is also about the myths that filled the gap while the science caught up.
 
 ## <small class="text-body-tertiary">Part 2: </small><br>What finally makes us look
 
@@ -92,7 +93,7 @@ Hold on to that fact - *they already knew* - because it makes the next part hard
 
 ## <small class="text-body-tertiary">Part 4: </small><br>The discovery, and the grief
 
-I often send people to a video by the YouTuber known as Courtney, Literally. [^a] In [her video](https://youtu.be/RSZ-SnKSyl4?t=1120) about the assessment process she shares the moment she hears a psychologist confirm that she is autistic. In it, at that moment, she breaks down into deep, uncontrollable sobbing.
+I often send people to a video by the YouTuber known as Courtney, Literally. [^b] In [her video](https://youtu.be/RSZ-SnKSyl4?t=1120) about the assessment process she shares the moment she hears a psychologist confirm that she is autistic. In it, at that moment, she breaks down into deep, uncontrollable sobbing.
 
 Here is the question I ask the listener afterwards: *she already suspected she was autistic. So why that reaction?*
 
@@ -166,9 +167,9 @@ If you are somewhere in this process - quietly wondering, freshly diagnosed, or 
 
 ---
 
-[^a]: The video is Courtney, Literally, *the assessment process*, on YouTube; the moment referred to is at about 18:40. <https://youtu.be/RSZ-SnKSyl4?t=1120> I have used it the way I would use anything a person has chosen to publish about themselves - as an illustration of a reaction many of us recognise, not as evidence of how common that reaction is. Nothing in this piece rests on it evidentially.
+[^a]: The theory is usually traced to Leo Kanner's early descriptions and was popularised by Bruno Bettelheim in *The Empty Fortress: Infantile Autism and the Birth of the Self* (Free Press, 1967), which was written partly in answer to Bernard Rimland's *Infantile Autism* (1964) - the book that first attacked the idea on evidential grounds. I have not given ISBNs for either, because I could not verify them to the standard I have used for the sources below, and I would rather say so than supply a number I have not checked. The claim being made here is historical rather than clinical: the theory existed, it was influential, and it has been abandoned.
 
-[^b]: The theory is usually traced to Leo Kanner's early descriptions and was popularised by Bruno Bettelheim in *The Empty Fortress: Infantile Autism and the Birth of the Self* (Free Press, 1967), which was written partly in answer to Bernard Rimland's *Infantile Autism* (1964) - the book that first attacked the idea on evidential grounds. I have not given ISBNs for either, because I could not verify them to the standard I have used for the sources below, and I would rather say so than supply a number I have not checked. The claim being made here is historical rather than clinical: the theory existed, it was influential, and it has been abandoned.
+[^b]: The video is Courtney, Literally, *the assessment process*, on YouTube; the moment referred to is at about 18:40. <https://youtu.be/RSZ-SnKSyl4?t=1120> I have used it the way I would use anything a person has chosen to publish about themselves - as an illustration of a reaction many of us recognise, not as evidence of how common that reaction is. Nothing in this piece rests on it evidentially.
 
 [^11]: Antshel, K. M., & Russo, N. (2019). Autism spectrum disorders and ADHD: Overlapping phenomenology, diagnostic issues, and treatment considerations. *Current Psychiatry Reports, 21*(5), 34. [DOI: 10.1007/s11920-019-1020-5](https://doi.org/10.1007/s11920-019-1020-5)
 

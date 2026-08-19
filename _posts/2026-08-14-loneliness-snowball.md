@@ -7,7 +7,7 @@ category: Essays
 tags:
   - Autism
   - ADHD
-  - Relationships
+  - Autobiographic
 excerpt: >-
   Autistic loneliness is usually explained as a preference, and it is rarely about the empty room. It is about the full one - being present and still outside. It is also a loop: you are excluded before you have done anything, you withdraw because withdrawing is the only way to survive it, the withdrawal is read as disinterest, the deprivation builds, and when somebody finally arrives you hold on so hard that they leave. Each turn makes the next one more likely. What follows traces the loop round, and ends with a warning about where this kind of argument can go wrong.
 ---
@@ -308,7 +308,7 @@ Which means the failure is not caring too much. And misreading the pace is preci
 
 So the giving is not wrong in kind. It is wrong in timing, against a schedule nobody published. And a gift given at the wrong point in the schedule does not read as generosity. It reads as pressure.
 
-Then the other person pulls back. Sometimes gently, sometimes not. And every part of the machinery described above is now pointed at that retreat: heightened threat detection [^33], reliving of past rejections [^39], the reaction that provokes the thing it fears [^40], and an emotional response substantially more likely to exceed the clinical threshold for reactivity than anyone else's [^43]. You reach harder, exactly when reaching harder is the worst available move.
+Then the other person pulls back. Sometimes gently, sometimes not. And every part of what I have just described is now pointed at that retreat: heightened threat detection [^33], reliving of past rejections [^39], the reaction that provokes the thing it fears [^40], and an emotional response substantially more likely to exceed the clinical threshold for reactivity than anyone else's [^43]. You reach harder, exactly when reaching harder is the worst available move.
 
 The relationship ends. And it ends in a way that confirms every prediction the loneliness made.
 
@@ -338,7 +338,7 @@ Then the harder half, which I would rather not have to say to people who are lon
 
 *The mechanism is not your fault* and *somebody therefore owes me* are different sentences, and the second does not follow from the first. Nobody is obliged to be close to me. A person who declines an invitation is not malfunctioning and is not the cause of the snowball. The exclusion in Part 2 is a population-level pattern produced by mismatched communication, inaccessible environments and stigma - and Botha and Frost are precise that minority stress operates through social position rather than through anybody's malice. [^57] It is not a debt owed by the last individual who said no.
 
-I should say plainly why this section is here at all. An argument that explains your loneliness as something done to you is a comfort, and a comfort that load-bearing is worth a great deal to somebody who has been without one. That is exactly what makes it worth hijacking. Anyone offering you a category of people to blame for this is offering you a worse deal than the one already on the table, because the category is not the mechanism, and resenting them repairs none of it.
+I should say plainly why this section is here at all. An argument that explains your loneliness as something done to you is a comfort, and a comfort that carries that much weight is worth a great deal to somebody who has been without one. That is exactly what makes it worth hijacking. Anyone offering you a category of people to blame for this is offering you a worse deal than the one already on the table, because the category is not the mechanism, and resenting them repairs none of it.
 
 What I have written is a description of a mechanism. It is not a grievance, and it is not an invoice.
 
@@ -400,7 +400,7 @@ The snowball is not that autistic people are lonely. It is that being lonely mak
 
 There is one more thing to say, and I have kept it until last because everything above is a consequence of it.
 
-Autism is a disability. Not a metaphor, not a style, not a way of being quirky - a disability, counted as one by the statistical and legal machinery of most English-speaking and European countries. [^d] The employment figures in Part 2 came from a national survey called *Disability, Ageing and Carers*, and I let that pass without comment at the time. [^16]
+Autism is a disability. Not a metaphor, not a style, not a way of being quirky - a disability, counted as one by the statistical and legal systems of most English-speaking and European countries. [^d] The employment figures in Part 2 came from a national survey called *Disability, Ageing and Carers*, and I let that pass without comment at the time. [^16]
 
 Now look at what the disability is *of*.
 
