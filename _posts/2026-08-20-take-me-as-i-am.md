@@ -24,7 +24,7 @@ In midlife I found out the evidence wasn't wrong. Just the way I read it was wro
 
 Yes, I'm autistic.
 
-That means I don't think like you. My way of thinking was obvious to me. Yours looks strange. So I called you stupid - not because I believed it, but because you had called me stupid first, and that just didn't make sense.
+That means I don't think like you. My way of thinking is obvious to me. Yours looks strange. So I called you stupid - not because I believed it, but because you had called me stupid first, and that just didn't make sense.
 
 Because from where I sat, you were the one not seeing it. You stopped at the first step. You did not follow the thing through - what this does to that, and what that then leads to, and where it all ends up two moves later. I could see the end of it from the beginning. But I could not understand why you couldn't, and I couldn't understand why you weren't interested in looking. And yet, I was called the stupid one.
 
@@ -102,7 +102,7 @@ You ask me if I love you and I say yes. I am not lying to you. But I am not read
 
 Ask me something else and you will get a real answer. Do I trust you? That one I can reach, and it is a far heavier question than the one you asked. Do I trust you enough to stop performing in front of you. Do I trust you enough to be the actual thing rather than the version I think others want me to be. Do I trust that what I let you see today will not be produced as evidence, as weapon, as your justification the next time we disagree.
 
-And when I touch you - constantly, for no reason, past the point where you find it reasonable - because somewhere underneath it I do cannot properly separate *close* from *one*.
+And when I touch you - constantly, for no reason, past the point where you find it reasonable - because somewhere underneath it I cannot properly separate *close* from *one*.
 
 That is the readout. Not the sentence you asked for.
 
