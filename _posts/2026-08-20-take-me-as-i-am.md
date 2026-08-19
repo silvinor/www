@@ -187,7 +187,7 @@ But you do the same thing. You just do it with people. Deciding in advance what 
 
 Mine gets called controlling. Yours is judgement.
 
-## What the performance cost
+## What the performance costs
 
 I have written elsewhere about masking, in detail, and I am not going to run the argument again here. What matters here is the outcome.
 
