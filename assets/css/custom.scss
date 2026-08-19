@@ -9,29 +9,15 @@
 @import "mixins/breakpoints";
 @import "mixins/color-scheme";
 
-@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
+$my-sans-serif-font: "Roobert", "Libre Franklin", ui-sans-serif, -apple-system, system-ui, sans-serif !default;
+$my-serif-font: "Literata", "Merriweather", Cambria, serif !default;
+$my-monospace-font: "Roobert Mono", ui-monospace, monospace !default;
 
-@font-face {
-    font-family: "Roobert";
-    font-weight: normal;
-    src: url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot");
-    src: url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot?#iefix")format("embedded-opentype"),
-      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff2")format("woff2"),
-      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff")format("woff"),
-      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.ttf")format("truetype"),
-      url("https://db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.svg#Roobert-Regular")format("svg");
-}
+:root {
+  --#{$prefix}font-sans-serif: #{inspect($my-sans-serif-font)};
+  --#{$prefix}font-serif: #{inspect($my-serif-font)};
+  --#{$prefix}font-monospace: #{inspect($my-monospace-font)};
 
-@font-face {
-    font-family: "Roobert";
-    font-weight: bold;
-    src: url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.eot");
-    src: url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.eot?#iefix")format("embedded-opentype"),
-      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff2")format("woff2"),
-      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.woff")format("woff"),
-      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.ttf")format("truetype"),
-      url("https://db.onlinewebfonts.com/t/1aaf46e1647421d25a2d7e229329ba59.svg#Roobert SemiBold")format("svg");
 }
 
 body {
@@ -40,8 +26,8 @@ body {
 }
 
 @include media-breakpoint-up(md) {
-  :root {
-    --bs-body-font-size: 1.25rem; /* 18px instead of 16px */
+  html {
+    font-size: 1.25rem; /* 20px instead of 16px; all rem units cascade from here */
   }
 }
 
@@ -106,18 +92,17 @@ img.logo {
 
   p, li {
     line-height: 1.75;
-    font-family: Roobert, 'Libre Franklin', var(--bs-font-sans-serif);
   }
 
   .meta-block {
     padding: .333em;
     border-radius: .5em;
-    background-color: var(--bs-gray-100);
-    border: 1px solid var(--bs-gray-200);
+    background-color: var(--#{$prefix}-gray-100);
+    border: 1px solid var(--#{$prefix}-gray-200);
   }
 
   .footnote {
-    font-family: var(--bs-font-monospace), monospace;
+    font-family: var(--#{$prefix}-font-monospace), monospace;
     font-size: .666rem;
     padding-right: .25rem;
   }
@@ -131,7 +116,7 @@ img.logo {
     }
 
     li::marker {
-      font-family: var(--bs-font-monospace), monospace;
+      font-family: var(--#{$prefix}-font-monospace), monospace;
       font-size: smaller;
     }
 
@@ -145,7 +130,7 @@ img.logo {
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: Literata, Cambria, var(--bs-font-serif);
+    font-family: var(--#{$prefix}font-serif);
   }
 
   h1 {
@@ -168,19 +153,19 @@ img.logo {
 }
 
 #header {
-  background-color: var(--bs-gray-100);
+  background-color: var(--#{$prefix}-gray-100);
 }
 
 @media (prefers-color-scheme: dark) {
   .content {
     .meta-block {
-      background-color: var(--bs-gray-800);
-      border-color: var(--bs-gray-700);
+      background-color: var(--#{$prefix}-gray-800);
+      border-color: var(--#{$prefix}-gray-700);
     }
   }
 
   #header {
-    background-color: var(--bs-gray-800);
+    background-color: var(--#{$prefix}-gray-800);
   }
 }
 
