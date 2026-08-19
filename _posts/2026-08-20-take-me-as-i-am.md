@@ -8,7 +8,7 @@ tags:
   - Autism
   - Autobiographic
 excerpt: >-
-  For forty years the evidence only ever pointed one way, so I believed it. Then I found out the premise underneath it was wrong. An open letter about what it actually means to think differently - and, it turns out, to feel differently - what it cost to hide both, what I did to my own children before I knew, and why "I'm only protecting them" is almost never true.
+  An open letter, written to everybody who ever decided what I was. About what it actually means to think differently - and, it turns out, to feel differently - what it cost to hide both, what I did to my own children before I knew any of it, and why "I'm only protecting them" is almost never true.
 ---
 
 # Take Me As I Am
@@ -17,29 +17,27 @@ excerpt: >-
 
 You called me stupid.
 
-Maybe not you. Somebody did - a teacher, a manager, a boy in a playground - and eventually me, about myself, in my own voice, which is the version that stuck. And I believed it. Not in a wounded way. I believed it the way anyone believes a conclusion the evidence supports, and for forty years the evidence only ever pointed one direction.
+Maybe not you. Somebody did - a teacher, a manager, a boy in a playground - and eventually me, about myself, in my own voice, which is the version that stuck. And I believed it. Not in a wounded way. I believed it the way anyone believes a conclusion the evidence supports, and for fifty years the evidence only ever pointed one direction.
 
-In midlife I found out the evidence was fine. The premise underneath it was wrong.
-
-I am not going to keep explaining that one conversation at a time.
+In midlife I found out the evidence wasn't wrong. Just the way I read it was wrong.
 
 Yes, I'm autistic.
 
-That means I don't think like you. My way of thinking was obvious to me. Yours looked strange. So I called you stupid - not because I believed it, but because you had called me stupid first, and that just didn't make sense.
+That means I don't think like you. My way of thinking was obvious to me. Yours looks strange. So I called you stupid - not because I believed it, but because you had called me stupid first, and that just didn't make sense.
 
-Because from where I sat, you were the one not seeing it. You stopped at the first step. You did not follow the thing through - what this does to that, and what that then leads to, and where it all ends up two moves later. I could see the end of it from the beginning. I could not understand why you couldn't, and I could not understand why you weren't interested in looking. And yet I was the stupid one.
+Because from where I sat, you were the one not seeing it. You stopped at the first step. You did not follow the thing through - what this does to that, and what that then leads to, and where it all ends up two moves later. I could see the end of it from the beginning. But I could not understand why you couldn't, and I couldn't understand why you weren't interested in looking. And yet, I was called the stupid one.
 
 There is a name for this now. Damian Milton called it the double empathy problem: the breakdown between autistic and non-autistic people is *mutual*. Two groups failing to read each other, not one group failing to read the other. [^1] Crompton and colleagues showed it experimentally - information passes between autistic people as effectively as it passes between non-autistic people, and only degrades when you mix the two groups. [^2]
 
-Read that again, because it is the whole letter in one sentence. The failure was in both directions, every time.
+Read that again, because it is the argument in one sentence. The failure is in both directions, every time.
 
 But only one of us ever got told he was the failure. That was me. And because I was the only one being told, I believed it - when nobody is saying it back the other way, the evidence looks conclusive.
 
 Yes, I'm autistic.
 
-That means the concepts you absorbed from other people, the assumptions you never had to examine, the things you simply *know* about how a room works - those are not mine. You cannot really know how I think, what drives it, which patterns my mind runs, or where they land. Sometimes in the same place as yours. Often somewhere else entirely.
+That means the concepts you absorbed from other people, the assumptions you never had to examine, the things you simply *know* about how a room works - those are not mine. You cannot really know how I think, what drives it, which patterns my mind runs, or where they land. Sometimes that's in the same place as yours. Often somewhere else entirely.
 
-But here is the part you don't see. I cannot think like you. My brain is not shaped that way. You can't teach me to be you - not because I can't act. I can act. I am better at it than you are, because I have done it every day of my life. It is that the performance never *becomes* me. It stays a costume. And it always costs me more than it would cost you.
+But here is the part you don't see. I *cannot* think like you. My brain is not shaped the way yours is. You can't teach me to be you - not because I can't act. I can act. I am better at it than you are, because I have done it every day - every minute - of my life. It is that the performance never *becomes* me. It stays a costume, a mask. And it always costs me more than it would cost you.
 
 Yes, I'm autistic.
 
@@ -49,9 +47,9 @@ It only becomes a problem when you set about reshaping me into whatever you have
 
 ## What I am, and what I am not
 
-The word does not mean to you what it means to me. I can show you that in about thirty seconds.
+The word *"autistic"* does not mean to you what it means to me. I can show you that in about thirty seconds.
 
-Open an image search for "autistic person" and look honestly at what comes back. [^d]
+Open an image search for "autistic person" and look honestly at what comes back. [^a]
 
 Most of it is children. Among the faces that are grown adults, a large share belong to people who are not autistic at all - most visibly, people with Down syndrome, whose faces carry a marker a search engine can actually find.
 
@@ -75,9 +73,9 @@ Then there is television. You have met Rain Man and you have met Sheldon Cooper,
 
 And then there is the loudest confusion of all, the one that does the most damage: the assumption that autism means an intellectual disability.
 
-It does not. Nothing in the diagnostic criteria for autism uses intelligence as a marker. Intellectual disability is recorded *alongside* autism rather than as part of it - as a specifier in the DSM, [^8] and as a subdivision in the ICD [^9] - and the only reason either manual needs that machinery is that the two vary independently. The numbers make this concrete. In the most recent large surveillance data, among eight-year-olds identified as autistic who had cognitive testing, 37.9% had an intellectual disability, 23.5% were in the borderline range, and 38.6% tested in the average range or above. [^10]
+It does not. Nothing in the diagnostic criteria for autism uses intelligence as a marker. Intellectual disability is recorded *alongside* autism rather than as part of it - as a specifier in the DSM, [^8] and as a subdivision in the ICD [^9] - and the only reason either manual has to say so separately is that the two vary independently. The numbers make this concrete. In the most recent large surveillance data, among eight-year-olds identified as autistic who had cognitive testing, 37.9% had an intellectual disability, 23.5% were in the borderline range, and 38.6% tested in the average range or above. [^10]
 
-So when someone tells you about "severe autism" and describes a person who cannot speak, cannot live alone, and cannot understand their own care - they may well be describing a real person with real and profound needs. What they are not doing is describing autism. They are describing autism *and* something else, welded together, and then handing you the composite as though it were the definition. The Lancet Commission that proposed "profound autism" as an administrative category was explicit that it was doing so to direct services toward people whose needs are being missed - not to redefine what autism is. [^11] The term escaped that intention within a year.
+So when someone tells you about "severe autism" and describes a person who cannot speak, cannot live alone, and cannot understand their own care - they may well be describing a real person with real and profound needs. What they are not doing is describing autism. They are describing autism *and* something else, run together, and then handing you the pair as though it were the definition. The Lancet Commission that proposed "profound autism" as an administrative category was explicit that it was doing so to direct services toward people whose needs are being missed - not to redefine what autism is. [^11] The term escaped that intention within a year.
 
 I need you to hold both halves of this. Conflating autism with intellectual disability erases me. It also insults every autistic person who does have one, by treating their support needs as a synonym for their neurology rather than as needs in their own right, deserving their own answer.
 
@@ -131,13 +129,13 @@ It did not come out of nowhere. You were not shown the middle, because I was not
 
 That is the alexithymia again, doing its work at the worst possible moment. The thing you use to manage your own temper - noticing it rising, and acting early - depends on being able to read the gauge. I cannot read the gauge. I get the reading at the end, when the needle is already against the pin, and by then it is not information. It is an event.
 
-Underneath that sits something better documented than my say-so. Emotion regulation is one of the most consistently reported difficulties in autism, and researchers argue it accounts for a great deal of what gets recorded instead as behaviour problems. [^15] The related executive-function differences are broad rather than specific, across a meta-analysis of a large body of work - and they sit in exactly the machinery that would let a person catch a state early and change course. [^16] Autistic young people describing meltdown in their own words describe this same shape: a build-up they could not report while it was happening, then a loss of control they experienced as involuntary. [^17]
+Underneath that sits something better documented than my say-so. Emotion regulation is one of the most consistently reported difficulties in autism, and researchers argue it accounts for a great deal of what gets recorded instead as behaviour problems. [^15] The related executive-function differences are broad rather than specific, on the pooled evidence. [^16] And they sit in exactly the part of the mind that would let a person catch a state early and change course. Autistic young people describing meltdown in their own words describe this same shape: a build-up they could not report while it was happening, then a loss of control they experienced as involuntary. [^17]
 
 So, no. I do not need anger management.
 
 I want to be precise about why, because it is not stubbornness and it is not a slight on the treatment. Anger management done properly is cognitive-behavioural therapy, and it works - the meta-analytic evidence is respectable. [^18] But look at what it is made of. You learn to notice the early signs of your arousal. You learn to find the thought that is driving the anger and to restructure it. You learn to apply a calming technique in the window between the trigger and the peak. [^19]
 
-Three components, and all three assume something I do not have. The first assumes I can read the gauge. The second assumes there is a distorted thought at the centre of it - and often there is no thought at all, only eleven hours of accumulated noise, light, interruption and other people. The third assumes a window, and the window is precisely what is missing.
+Three components, and all three assume something I do not have. The first assumes I can see it coming. The second assumes there is a distorted thought at the centre of it - and often there is no thought at all, only eleven hours of accumulated noise, light, interruption and other people. The third assumes a window, and the window is precisely what is missing.
 
 It is a good treatment aimed at a mechanism I do not run. Sending me to it is not help; it is a category error. And when it fails - it does fail - the failure gets filed as more evidence about my character. *He didn't even try.*
 
@@ -155,6 +153,22 @@ Which means that when you break the plan casually - and to you it is casual, bec
 
 They were not small things. They were the scaffolding.
 
+And there is a far end to this that nobody ever follows, so let me follow it.
+
+When you tell me I am controlling, what you are asking is that I back off. Stop organising it. Stop needing it a particular way. It is not mine to manage.
+
+I can do that. But I need you to understand the only route I have to doing it.
+
+The planning is not something I add on top of caring about you. It is what caring about you looks like from in here. If something matters to me, I run it forward - what this does to that, where that ends up, what happens if it does not hold. That is not a habit sitting on top of the caring. It is the same process. I cannot run one without the other.
+
+So when you ask me to stop planning, there is exactly one way to comply. I have to stop caring about it.
+
+And I do not have a dial. There is no setting at forty per cent, no version of me that is pleasantly interested and lightly involved. It is on, or it is off.
+
+So think about what is actually being requested. Not about a booking, or a holiday, or whose weekend it is.
+
+What does it look like when I set it to zero about a person?
+
 I could keep going, and you could fill in the rest yourself. Needing to be alone reads as rejection. Answering two days late reads as indifference. Saying the true thing plainly reads as arrogance. Every time, the same move is made: something my nervous system is doing gets converted into something my character is doing - and once it is a character trait, it is fair to resent.
 
 That is the part I want you to stop on. Every one of those readings arrives with a moral word already attached. Difficult. Selfish. Cold. Rude. Controlling. Not one of them is neutral. You did not simply misread the mechanism. You convicted me of it.
@@ -165,7 +179,7 @@ If the problem is my nervous system, you have work to do. You would have to lear
 
 That is what the moral word is really for. It is not a description. It is a permission.
 
-And it is a mirror, which is the part I would ask you to sit with. A few paragraphs ago I told you I cannot tolerate uncertainty - that it costs me more than it costs you, and that I build routines to keep it down to something I can carry. That is documented. It is part of the diagnosis. You call it controlling.
+And it is a mirror, which is the part I would most like you to look at. A few paragraphs ago I told you I cannot tolerate uncertainty - that it costs me more than it costs you, and that I build routines to keep it down to something I can carry. That is documented. It is part of the diagnosis. You call it controlling.
 
 You do the same thing. You just do it with people. Deciding in advance what somebody is, and then staying certain about it, spares you the uncertainty of having to find out - and a fixed opinion about a person is a routine like any other. It does the same job. It gets defended just as hard when somebody tries to move it.
 
@@ -173,11 +187,11 @@ Mine gets called controlling. Yours gets called good judgement.
 
 ## What the performance cost
 
-I have written elsewhere about masking, in detail, and I am not going to run the argument again here. [^b] What matters for this letter is the outcome.
+I have written elsewhere about masking, in detail, and I am not going to run the argument again here. What matters for this letter is the outcome.
 
 I performed. It did not work. Not "worked less well" - the research is blunter than that. When observers rate brief clips of autistic and non-autistic adults, autistic people are rated worse, and the judgements form in seconds. [^21] When Belcher and colleagues tested it directly, camouflaging intent did not predict first impressions at all. [^22] The effort bought nothing measurable.
 
-Meanwhile the thing that does measurably improve how autistic adults are received is disclosure - being known, and being known by someone who understands what they have been told. [^23] I spent thirty years doing the precise opposite, at maximum cost, for no return.
+Meanwhile the thing that does measurably improve how autistic adults are received is disclosure - being known, and being known by someone who understands what they have been told. [^23] I spent half a century doing the precise opposite, at maximum cost, for no return.
 
 Which brings me to the sentence I hear most, and the one I want to answer properly.
 
@@ -185,13 +199,13 @@ Which brings me to the sentence I hear most, and the one I want to answer proper
 
 Take the second half first, because it is true, and you have drawn precisely the wrong conclusion from it.
 
-Those people are not quieter than me because it costs them less. They are quieter because they are still doing what I did for thirty years - running the performance, arranging a life around what you have made clear you want to see, and paying for it where you cannot watch. You are not describing autistic people who have got over it. You are describing autistic people who are still hiding.
+Those people are not quieter than me because it costs them less. They are quieter because they are still doing what I did for fifty years - running the performance, arranging a life around what you have made clear you want to see, and paying for it where you cannot watch. You are not describing autistic people who have got over it. You are describing autistic people who are still hiding.
 
 And you are holding them up to me as the standard. You are asking me to be more like the ones you cannot see.
 
 The cost of being one of those is not metaphorical. Camouflaging shows up in raised cortisol, [^24] in exhaustion reported with striking consistency across the literature, [^25] and in autistic burnout - the total collapse of capacity that the people who live it describe as having every internal resource exhausted beyond measure. [^26]
 
-And at the far end of that same ledger sits something I am not going to soften for you. Suicide risk among autistic people is markedly raised; a systematic review of the evidence from recent years states it plainly. [^27] Camouflaging in particular has been linked to it. [^28] The researchers who work on this are careful about why, and so am I: the harm tracks the social position, the stigma and the concealment, rather than the neurology itself. [^29] It is not being autistic that does this. It is being autistic somewhere nobody knows.
+And at the far end of all of that sits something I am not going to soften for you. Suicide risk among autistic people is markedly raised; a systematic review of the evidence from recent years states it plainly. [^27] Camouflaging in particular has been linked to it. [^28] The researchers who work on this are careful about why, and so am I: the harm tracks the social position, the stigma and the concealment, rather than the neurology itself. [^29] It is not being autistic that does this. It is being autistic somewhere nobody knows.
 
 That is what obedience to your conventions actually costs, and it is the reason I will not pay it any more.
 
@@ -203,6 +217,34 @@ I believe that less than I used to. What I have come to think is that not knowin
 
 I am not going to stay quiet so that your life can keep that shape.
 
+## You think I made it up
+
+There is one more thing that gets said, and it is the one I have found hardest to answer calmly, because it does not come from strangers. It comes from inside the family.
+
+*You have invented this. You are putting it on because it suits you.*
+
+Consider what that accusation has to get past. I was assessed formally, by more than one professional, over months, against criteria I did not write. Adults being identified in midlife is not a curiosity - it is common enough to have a research literature of its own, and the reasons it happens are documented. [^30] None of that moved you.
+
+What moved you was that you did not see it. You knew me for decades and never saw it, so it cannot be real - because if it were real, surely you would have noticed.
+
+Look at what you are actually saying.
+
+You are offering, as evidence against the diagnosis, the fact that the concealment worked. That is not a counter-argument. It is a description of what I spent fifty years doing, and doing well. One of the studies I cited a moment ago was examining precisely that relationship - between how heavily a person camouflages and how late they are identified. [^22] You did not fail to notice something obvious. I was working, continuously and at the cost I have just set out, to make certain you did not notice.
+
+And I want to be fair here, because this next part matters to me more than winning the argument.
+
+I do not fault you for not seeing it. I could not see it either. I had the best view available - I was inside it - and I got it wrong for half a century. If I could not work it out from in here, I am not going to hold it against you that you could not work it out from over there.
+
+That is not what I fault you for.
+
+What I fault you for is the accusation itself. Because notice what it is not about. It is not about me, or the evidence, or the assessment. It is about you - a claim that your reading of me, formed casually, across years, with no information and no training, should outrank a formal assessment carried out by people who had both.
+
+That is not scepticism. Scepticism asks questions. This arrives with a verdict already written, and the verdict is the one you were holding before, and the reason it has not moved is that moving it would mean accepting that a great deal of what you concluded about me rested on something you could not see.
+
+I know what that costs. I have had to do it myself, and it is not a small thing to ask of anybody.
+
+But I am not going to be un-diagnosed so that you can stay right.
+
 ## The place the mask was supposed to come off
 
 Here is the part I have not written down before.
@@ -213,7 +255,7 @@ Nobody warns you about the home mask. It is worse than the work mask, and for a 
 
 A performance like that has an expiry date. Mine expired.
 
-I want to be exact about what I am claiming, because this is the load-bearing point of the letter. A person needs one room where the mask comes off. Not a friendly room. Not a tolerant room. A room where the thing is not required. If they do not have one, the cost never stops accruing, and it will eventually take everything - the career, the marriage, the health, the person.
+I want to be exact about what I am claiming, because this is the point the whole letter rests on. A person needs one room where the mask comes off. Not a friendly room. Not a tolerant room. A room where the thing is not required. If they do not have one, the cost never stops accruing, and it will eventually take everything - the career, the marriage, the health, the person.
 
 I did not have that room.
 
@@ -229,13 +271,13 @@ Do not mistake that for not knowing I was different. I knew. I was told constant
 
 But being told is not the same as being explained. Nobody ever gave me a reason. No mechanism, no account of what was actually happening, nothing that would let me treat the difference as a difference. I got the verdict, over and over, with the reasoning left out - and a verdict with no reasoning behind it does not teach a child that his brain works differently. It teaches him that he is wrong. So that is what I learned. Not *unusual*. Wrong.
 
-And I want to name what that repetition is, because I spent decades filing it under *my childhood* and leaving it there. That was wrong about the scale as much as the label. It did not stop when my childhood did.
+And I want to name what that repetition is, because I spent decades filing it under *my childhood* and leaving it there. That was wrong twice over. It was not only childhood, and it did not stop when my childhood did.
 
 The exams I failed at university, in subjects I knew inside out. The jobs that ended without anyone ever quite explaining why. The relationships that wore through. Every one of those arrived as a fresh instalment of the same verdict - and each one came with better evidence than the last, because by then the evidence was my own record.
 
 That is what makes it cumulative rather than merely repeated. As a child I had to be told. As an adult I did not. I could read a result, or a termination, or a door closing, and supply the finding myself, in my own voice, before anybody else got near it. You cannot walk out of a situation like that. It travels with you, and it is waiting when you arrive.
 
-A single bad event is one thing. This was not an event, and it was not one bad decade. It was the same finding returned over and over across an entire life - first by the people I depended on, then by institutions, and then by me. That pattern has a name. The ICD recognises complex post-traumatic stress disorder as a condition in its own right: the ordinary trauma symptoms, plus three further things that come specifically from repetition and from being unable to get out. Difficulty regulating emotion. A settled belief that you are diminished, defeated, worthless. And relationships that are hard to build and harder to keep. [^30]
+A single bad event is one thing. This was not an event, and it was not one bad decade. It was the same finding returned over and over across an entire life - first by the people I depended on, then by institutions, and then by me. That pattern has a name. The ICD recognises complex post-traumatic stress disorder as a condition in its own right: the ordinary trauma symptoms, plus three further things that come specifically from repetition and from being unable to get out. Difficulty regulating emotion. A settled belief that you are diminished, defeated, worthless. And relationships that are hard to build and harder to keep. [^31]
 
 Read that list of three again. Then read the section before this one again.
 
@@ -245,9 +287,9 @@ That is what I did not see coming. The autism accounts for a great deal of it - 
 
 And there is a difference between the two that matters more to me than anything else in this letter. The autism I would not give back. It is not damage and there is nothing in it to repair. The other part was done to me. It did not have to happen, and I will be carrying it for the rest of my life.
 
-I will be honest about the state of the evidence, because it is messier than I would like. Telling autism and complex trauma apart is genuinely difficult - the two are confused in clinic often enough that researchers have had to survey specialists just to reach some agreement on how to distinguish them. [^31] What is better established is that autistic people report trauma symptoms following experiences that do not meet the formal definition of a traumatic event at all. [^32] Which is exactly what I am describing. A thousand small verdicts do not look like trauma from the outside. Not one of them was ever meant to be the one that did the damage. They were not supposed to have to be survived together.
+I will be honest about the state of the evidence, because it is messier than I would like. Telling autism and complex trauma apart is genuinely difficult - the two are confused in clinic often enough that researchers have had to survey specialists just to reach some agreement on how to distinguish them. [^32] What is better established is that autistic people report trauma symptoms following experiences that do not meet the formal definition of a traumatic event at all. [^33] Which is exactly what I am describing. A thousand small verdicts do not look like trauma from the outside. Not one of them was ever meant to be the one that did the damage. They were not supposed to have to be survived together.
 
-Which left me with one model for what to do when two people don't think alike, because it was the only one anybody had ever shown me: find the one who is wrong, and correct him.
+That childhood left me with one model for what to do when two people don't think alike, because it was the only one anybody had ever shown me: find the one who is wrong, and correct him.
 
 So when my children did not think the way I did, I did the thing that had been done to me. I tried to correct it. I explained. I re-explained. I broke the logic down further, and further, certain that if I could only get the reasoning small enough it would go in, because the reasoning was *obvious*.
 
@@ -255,41 +297,43 @@ I was requiring them to arrive at my conclusions by my route, and treating the f
 
 I fought the wrong battle for years. I was the victim of this and I was also, without knowing it and without meaning it, the person doing it. Both are true. Neither cancels the other, and I am not going to use the first to soften the second.
 
-So yes - add it to the heap. I have. It is the heaviest thing on it.
+So yes - add it to the list of things I have been convicted of. I have added it myself. It is the heaviest thing on there, and it is the only one I do not dispute.
 
-I tell you this for one reason only. If you are waiting to be certain before you change how you handle the person in front of you, understand what you are actually waiting for. I got my certainty. It arrived decades late, and what it bought me was a complete and unarguable account of the harm I had already done. Certainty is not protection. It is a receipt.
+I tell you this for one reason only. If you are waiting to be certain before you change how you handle the person in front of you, understand what you are actually waiting for. I got my certainty. It arrived decades late, and what it bought me was a complete and unarguable account of the harm I had already done. Certainty is not protection. It is a record of what you already did.
 
 ## "Stop that. People are looking."
 
 I sway. I make strange noises. I write the same sentence over and over again. There are a hundred versions of this and every autistic person has their own set. And every one of us has been told to stop - by a parent, by a spouse, by a teacher, by a colleague who thought they were being kind.
 
-What you have been stopping is not a symptom. Kapp and colleagues interviewed autistic adults about it, and the finding is consistent: stimming is a regulation mechanism. It is how we manage sensory overload, intrusive thought, and emotion - including good emotion. Participants described it as soothing, as a rhythm that lets the rest of the mind coordinate. They also described suppressing it because of how others react, and described being made to feel belittled when told to stop. [^33]
+What you have been stopping is not a symptom. Kapp and colleagues interviewed autistic adults about it, and the finding is consistent: stimming is a regulation mechanism. It is how we manage sensory overload, intrusive thought, and emotion - including good emotion. Participants described it as soothing, as a rhythm that lets the rest of the mind coordinate. They also described suppressing it because of how others react, and described being made to feel belittled when told to stop. [^34]
 
 So the instruction reads, from the inside: *stop the thing that is keeping you regulated, because your regulation is embarrassing to me.*
 
-Now, you did not think of it that way. You thought one of three things, and I know this because I have thought all three.
+Now, you did not think of it that way. When it was first said to the boy I was, the thinking behind it was one of three things - and I know this because I have thought all three myself.
 
-You thought it was embarrassing. You thought it was a visible reminder that something was wrong. Or - and this is the one that gets said aloud, because it is the one that sounds noble - you thought: *I have to teach them how to behave, because the world is cruel and I am protecting them.*
+That it was embarrassing. That it was a visible reminder something was wrong. Or - and this is the one that gets said out loud, because it is the one that sounds noble - *I have to teach him how to behave, because the world is cruel and I am protecting him.*
 
-I want to take that last one seriously, because it is not a stupid argument. The world *is* cruel about this. You are not wrong about the world.
+I want to take that last one seriously, because it is not a stupid argument. The world *is* cruel about this. You were not wrong about the world.
 
-But look at what your protection actually produces. The child does not learn "the world is unfair and I will need strategies." The child learns "there is something wrong with me, and the people who love me can see it, and their job is to keep it hidden." You have not equipped them against the world's judgement. You have installed it, in the one place they cannot get away from it, in the voice of the person whose opinion matters most.
+But look at what the protection actually produced. I did not learn *the world is unfair and I will need strategies.* I learned *there is something wrong with me, the people who love me can see it, and their job is to keep it hidden.* You did not equip me against the world's judgement. You moved it inside, into the one place I could not get away from it, in the voice of the person whose opinion mattered most.
 
-And there is a test for whether it was really protection, which is uncomfortable but fair.
+And now I am fifty-four.
+
+Wait here ... just a moment. Because this is the part that invalidates that boy's scolding. I am not a child being prepared for anything. I led teams for thirty years. I have raised children of my own. And I am still told to stop - at a table, in a meeting, in a room full of people who have known me for years.
+
+Whatever that is, it is not preparation. There is nothing left to prepare me for. The lesson was delivered, I sat through it for five decades, I can recite it back to you. So what is being asked for now is something simpler and older than protection, and I think it always was: *do not do that where I can see it.*
+
+And there is a test for whether it was ever really protection, which is uncomfortable but fair.
 
 If the world is the problem - and it is - what have you spent on the world?
 
 Because changing me is cheap. It costs you nothing socially. Whereas saying something at the dinner table when your brother-in-law does his impression, or correcting the friend who says a difficult colleague is "so OCD", or declining to nod along to the television character everyone finds adorable - that costs. That makes you the awkward one. That puts a little of the exposure onto you.
 
-I am not going to pretend I don't understand why you choose the cheap option. I chose it too, for thirty years, and I chose it about myself. I know exactly what it feels like to decide that being ostracised is not survivable, and to arrange your life around not being. So I am not calling you a coward. I am telling you what I learned by doing the same thing: the cost does not disappear when you decline to pay it. It gets transferred. Someone smaller carries it.
+I am not going to pretend I don't understand why you choose the cheap option. I chose it too, all my life, and I chose it about myself. I know exactly what it feels like to decide that being ostracised is not survivable, and to arrange your life around not being. So I am not calling you a coward. I am telling you what I learned by doing the same thing: the cost does not disappear when you decline to pay it. It gets transferred. Someone smaller carries it.
 
-And this is where I have to name the industry built on that transfer.
+There is an entire industry built on that transfer, aimed at children, and for much of its history its measure of success has been a child who no longer looks autistic. [^35] It deserves its own essay and I will give it one. It is not what I am asking you for here.
 
-Applied behaviour analysis is the intervention most likely to be recommended to you, and much of it is built on the premise that the correct outcome is behaviour that looks non-autistic. Wilkenfeld and McCarthy set out the ethical case against it in detail - that an intervention aimed at normalisation, delivered to someone who cannot meaningfully consent, is doing something other than treatment. [^34] When Anderson interviewed autistic adults who had received it as children, they described traumatic memories, lasting negative consequences, and a rejection of the premise that they should have been made to behave like their peers; that study concluded the intervention was unethical. [^35]
-
-I will be honest about the evidence rather than convenient. That was seven people. It is a small qualitative study and it cannot tell you how common those outcomes are. Practitioners have answered these criticisms in the literature, arguing that much of what is attacked reflects historical practice rather than current practice, and that the field has moved. [^36] Some of that answer is fair. Some of it is not, and the tell is what the field still counts as success. As long as the outcome measure is *indistinguishable from peers*, the goal is concealment - and we now know, from the disclosure research, that concealment is not even what improves how we are received. [^23]
-
-You do not have to take a position on the whole field to take a position on the small thing in front of you. When I start swaying, let me.
+What I am asking for is far smaller than an argument about an industry. When I start swaying, let me.
 
 ## Why I go quiet, and why I can't stop
 
@@ -301,57 +345,63 @@ Then somebody mentions something I know deeply, and says something incorrect abo
 
 Two opposite verdicts, from the same evening, about the same man.
 
-Murray, Lesser and Lawson described the underlying pattern as monotropism: attention that pools in a small number of channels at high intensity, rather than spreading thinly across many. [^37] That single account explains both behaviours. The channel is either open or it is not. When it is not, I have nothing. When it is, everything else - your body language, the time, the fact that you asked a rhetorical question - is outside the tunnel and I genuinely do not see it.
+Murray, Lesser and Lawson described the underlying pattern as monotropism: attention that pools in a small number of channels at high intensity, rather than spreading thinly across many. [^36] That single account explains both behaviours. The channel is either open or it is not. When it is not, I have nothing. When it is, everything else - your body language, the time, the fact that you asked a rhetorical question - is outside the tunnel and I genuinely do not see it.
 
 I am not indulging myself. I am somewhere I can actually function.
 
-And that is the thing I most want you to understand about my interests, because you have been taught to see them as symptoms. Grove and colleagues surveyed autistic adults and found that engaging with special interests was associated with higher subjective wellbeing. [^38] They are not a coping mechanism for a bad life. They are a substantial part of what makes it a good one.
+And that is the thing I most want you to understand about my interests, because you have been taught to see them as symptoms. Grove and colleagues surveyed autistic adults and found that engaging with special interests was associated with higher subjective wellbeing. [^37]
 
-And there is a reason underneath that which I have never seen written down anywhere.
+Be careful with that finding, because I nearly used it dishonestly. It is an association, and an association does not tell you why. It is consistent with the interests simply being good - a source of wellbeing in their own right, which I do believe they are. It is equally consistent with something the study was not built to look for, and which took me most of my life to notice about myself.
 
-When the channel is open, nothing else gets in. I have been describing that as a fault - your body language, the time, the question you actually asked, all of it outside the tunnel and none of it reaching me. But it runs in the other direction too, and that is the half nobody mentions.
+When the channel is open, nothing else gets in. So far I have only shown you one side of that - your body language, the time, the question you actually asked, all of it outside the tunnel and none of it reaching me. But it runs in both directions.
 
 The self-hatred does not get in either.
 
-I will say that without the padding, because it has had enough padding for one lifetime. There is a voice in me that has been running since I was a child. It says I am stupid. It says I am wrong, and too much, and a burden, and that everything that has gone wrong is the proof. It is on when I wake up. It is on in the car. It is on at three in the morning. That is the complex trauma I named earlier, still doing precisely what it was built to do, fifty years after the people who taught it to me stopped saying it out loud.
+I will say that without the padding, because it has had enough padding for one lifetime. There is a voice in me that has been running since I was a child. It says I am stupid. It says I am wrong, and too much, and a burden, and that everything that has gone wrong is the proof. It is on when I wake up. It is on in the car. It is on at three in the morning when I cannot sleep. And it is in my dreams when I can. That is the complex trauma I named earlier, still doing precisely what it was built to do, decades after the people who taught it to me stopped saying it out loud.
 
 In the tunnel, it is not there.
 
 Not managed. Not quieted. Not reframed by anybody. Gone - because there is one channel open, it is already full, and self-hatred needs a channel like everything else does.
 
-That is what my interests actually are, and it is why I will not apologise for them. Not a hobby. Not a symptom. Not a coping strategy in the sense you mean when you use the phrase. It is the only place in fifty years where nobody has been telling me what I am - including me.
+So call it coping, if that is the word you want. I am not going to argue, because it is. Both things are true at once - the interest is good in itself, and it is also the only shelter I have ever had. Those were never alternatives, and I am not going to pretend otherwise to make the first one sound purer.
 
-I should be straight about the evidence, because I went looking. There is a developing body of work that treats autistic absorption as flow rather than as pathology, written in part by the people who developed monotropism in the first place. [^39] And the construct it builds on has, among its defining features, the falling away of self-conscious self-evaluation for as long as it lasts. [^40] So the shape of what I am describing is recognised. What I could not find is anyone asking the specific question - whether the tunnel keeps the trauma out, and whether that is part of why we go in. [^g] One person over fifty years is not a study, and I am not going to dress it up as one.
+What I will not accept is what comes attached to *coping* when you say it. That anything holding a person up must be a crutch. That it is a stage on the way to not needing it. That the healthy version of me would want it less.
+
+It is not a stage and it is not a substitute for anything. It is the one place in fifty years where nobody has been telling me what I am, and that includes me.
+
+And you have spent years asking me to do less of it.
+
+I should be straight about the evidence, because I went looking. There is a developing body of work that treats autistic absorption as flow rather than as pathology, written in part by the people who developed monotropism in the first place. [^38] And the construct it builds on has, among its defining features, the falling away of self-conscious self-evaluation for as long as it lasts. [^39] So the shape of what I am describing is recognised. What I could not find is anyone asking the specific question - whether the tunnel keeps the trauma out, and whether that is part of why we go in. [^c] One person over fifty years is not a study, and I am not going to dress it up as one.
 
 Which brings me to something I could not have articulated before I understood alexithymia.
 
-Happiness and sadness are not two ends of one candle. You seem to experience them that way - more of one meaning less of the other, a single dial. Mine are not on one dial. Cacioppo and Berntson made the general case decades ago: positive and negative affect are separable systems, not opposite ends of a single dimension. [^41] For me the separation is not subtle. I can be in genuine, complete joy inside my subject while every other part of my life is unresolved, and the joy is not denial and it does not fix anything. It is simply running on a different circuit.
+Happiness and sadness are not two ends of one candle. You seem to experience them that way - more of one meaning less of the other, a single dial. Mine are not on one dial. Cacioppo and Berntson made the general case decades ago: positive and negative affect are separable systems, not opposite ends of a single dimension. [^40] For me the separation is not subtle. I can be in genuine, complete joy inside my subject while every other part of my life is unresolved, and the joy is not denial and it does not fix anything. It is simply running somewhere else entirely.
 
-So when you see me deep in something and you say *at least you seem happy* - I am. Fully. And it is not evidence that everything is fine. And when you take the interest away, or make me feel childish for it, or schedule over it because it is "just a hobby," you have not removed a distraction. You have closed the one channel where I am not translating.
+So when you see me deep in something and you say *at least you seem happy* - I am. Fully. And it is not evidence that everything is fine. And when you take the interest away, or make me feel childish for it, or schedule over it because it is "just a hobby," you have not removed a distraction. You have switched that farkakte voice back on.
 
 ## Why people leave
 
-I want to follow this to the end, because the end is where people stop paying attention. [^e]
+I want to follow this to the end, because the end is where people stop paying attention. [^d]
 
 A child read the way I have just described has nowhere to go. They are dependent on the same people doing the misreading. So they adapt. They comply. They work out which version of themselves causes the least trouble and they run that one - and the family, watching the trouble stop, concludes the problem is solved.
 
-It is not solved. It has gone underground.
+It is not solved. It has been hidden - and it's the start of building that mask.
 
 Then the child grows up, and adulthood hands them the one thing they never had as a child: the ability to leave.
 
-Estrangement between parents and adult children is more common than most families imagine, and the research is clear that it is rarely one event. [^42] It is an accumulation. I have not found anyone who has measured how much of it involves autism that nobody recognised, and I looked - so I am not going to imply a number I cannot supply. [^f]
+Estrangement between parents and adult children is more common than most families imagine, and the research is clear that it is rarely one event. [^41] It is an accumulation. I have not found anyone who has measured how much of it involves autism that nobody recognised (or any other neurodiverse condition), and I looked - so I am not going to imply a number I cannot supply. [^e]
 
-But the mechanism is documented, and it is mutual. When researchers interviewed autistic people and their family members about the same relationship, both sides were getting the other wrong: family members underestimated how much their autistic relative understood, and overestimated how self-centred they were. [^43] One relationship, two irreconcilable accounts, and neither party aware that a translation was required.
+But the mechanism is documented, and it is mutual. When researchers interviewed autistic people and their family members about the same relationship, both sides were getting the other wrong: family members underestimated how much their autistic relative understood, and overestimated how self-centred they were. [^42] One relationship, two irreconcilable accounts, and neither party aware that a translation was required.
 
-Run that for thirty years and you do not need anybody to be cruel to produce a rupture. You need only a family in which one person's distress was reliably filed as bad character - and in which every later attempt to explain it was filed as excuse-making.
+Run that for decades and you do not need anybody to be cruel to produce a rupture. You need only a family in which one person's distress was reliably filed as bad character - and in which every later attempt to explain it was filed as excuse-making.
 
-That is the part I would ask you to sit with, if you sit with nothing else. From the parent's side, the distance looks like the injury. From the other side, the distance is very often the first thing that stopped the injuries.
+That is the part I would ask you to sit with, if you sit with nothing else. From the one side, the distance looks like the injury. From the other side, the distance is very often the first thing that stopped the injuries.
 
 I am not going to tell you where my own family sits on any of this, because it is not only my story to tell. I have already told you what I did. I do not get to decide what it cost.
 
 ## None of this is new
 
-In 1993 a man named Jim Sinclair wrote to the parents of autistic children and told them something plain. They had not lost a child to autism. They had lost the child they had imagined, and the actual one was standing in front of them, still waiting to be met. [^a]
+In 1993 a man named Jim Sinclair wrote to the parents of autistic children and told them something plain. They had not lost a child to autism. They had lost the child they had imagined, and the actual one was standing in front of them, still waiting to be met. [^f]
 
 That was thirty-three years ago.
 
@@ -361,41 +411,39 @@ So I will stop arguing and ask.
 
 ## Take me as I am
 
-The title is not mine. It belongs to a Christopher Cross song, and what that song is doing is asking rather than arguing - a man requesting absolution instead of judgement, and asking to be accepted in spite of what he has been. [^c]
+The title is not mine. It belongs to a Christopher Cross song, and what that song is doing is asking rather than arguing - a man requesting absolution instead of judgement, and asking to be accepted in spite of what he has been. [^g]
 
 So let me ask in my own words.
 
-I have been a fool. Not in the way you think, and not only in the ways I could not help. I was a fool who spent thirty years perfecting a performance that bought nothing, and who then required a version of that same performance from his own children, and called it love, because he did not know there was another way to do it. I do not get to hand that back. It happened and they were there.
+I have been a fool. Not in the way you think, and not only in the ways I could not help. I was a fool who spent half a century perfecting a performance that bought nothing, and who then required a version of that same performance from his own children, and called it love, because he did not know there was another way to do it. I do not get to hand that back. It happened and they were there.
 
-I am not asking to be absolved of it. I am asking not to be held to the fire for the part that was never a choice - for the shape of the brain, for the flat face at the wrong moment, for the swaying, for the silence at your table and the flood at mine.
+I am not asking to be absolved of it. I am asking not to be held to the fire for the part that was never a choice - for the shape of my brain, for the wrong reaction at the wrong moment, for the swaying, for the silence at your table and the flood at mine.
 
 And I am asking you to notice that this is not a large request.
 
 I have not asked you to understand me. You can't, and I have stopped requiring it. I have not asked you to think like me, or to feel like me, or to become fluent in something you have no reason to learn. I have not asked you to fix anything, because there is nothing here to fix.
 
-I have asked one thing. Stop measuring me with an instrument calibrated to you.
+I have asked one thing. Stop judging me by the lens you see yourself through.
 
-Take me as I am. I will never think the way you think. I may not even feel the way you feel. You will not get inside it, and you don't need to. Just accept that I am not you - and stop reading me through the lens of a mind I do not have.
+Take me as I am. I will never think the way you think. I may not even feel the way you feel. You will not get inside it, and you don't need to. Just accept that I am not you.
 
-That is all of it. That is the whole letter.
+That is all I ask.
 
 <p align="center" class="asterism">&#x2042;</p>
 
 ---
 
-[^a]: Sinclair, J. (1993). Don't mourn for us. *Our Voice*, *1*(3). Autism Network International. The piece was written for the parents of autistic children and has been reprinted widely since; a copy is available at <https://variantminds.au/insights/jim_sinclair_dont_mourn_for_us.html>. I have not given a DOI because the original newsletter has none. I am citing it for what it said and when it said it, not for any factual claim - and if you read only one thing from this page, read his and not mine.
+[^a]: Google image search, "autistic person", run 19 August 2026 from Sydney, Australia. I have not counted the results and I am not giving you a proportion I cannot defend - image search is personalised, varies by country and account, and changes week to week, so your results will not be identical to mine. Run it yourself and judge what you get. The refinement buttons and suggested searches quoted here are the ones the search offered me on that day. I have not found any study that measures what an image search for autism returns; the claim about the buttons is an observation about the search, not a finding about the world.
 
-[^b]: See *[Everyone Masks: What Makes the Autistic Version Different]({{ '/essays/everyone-masks.html' | relative_url }})*, which sets out the full argument and the evidence for it. This section states only the conclusions.
+[^c]: Searched 19 August 2026 for work examining whether monotropic absorption or autistic flow excludes trauma-related or self-critical content, and whether relief from it forms part of the motivation to enter that state. I found the flow literature cited above, work on interests and wellbeing, and a good deal on rumination generally - but nothing joining those to the trauma question in autistic people. The claim in this section is mine, from my own life, and should be read at that weight. If somebody has studied it and I have missed it, I would be glad to be corrected.
 
-[^c]: The song is "Take Me As I Am" by Christopher Cross. Titles are not protected by copyright, so borrowing one for an essay costs nothing and asks no permission; the words of a song are protected, and I have not quoted them. Australian law provides fair dealing for a closed list of purposes rather than a general fair-use test, and this essay does not set out to review the song - it borrows its posture. So the plea below is mine, written to do the work those verses were doing rather than to stand in for them.
+[^d]: The estrangement framing in this section I owe to Dr Sam Barcham, a UK chartered counselling psychologist specialising in family estrangement, relational trauma and late-diagnosed autism, in her video *The Hidden Link Between AUTISM and Family Estrangement* on the channel *A Dash of Therapy*; she describes herself in it as both autistic and an estranged adult child. <https://www.youtube.com/watch?v=7tlewoQSUxo> It is not a source in the sense I have used the word elsewhere here, and nothing in this section rests on it evidentially - the claims are carried by the published work cited alongside. But the observation that unrecognised autism can sit underneath a family rupture is hers, and I would not have thought to write this section without having watched it.
 
-[^d]: Google image search, "autistic person", run 22 August 2026 from Sydney, Australia. I have not counted the results and I am not giving you a proportion I cannot defend - image search is personalised, varies by country and account, and changes week to week, so your results will not be identical to mine. Run it yourself and judge what you get. The refinement buttons and suggested searches quoted here are the ones the search offered me on that day. I have not found any study that measures what an image search for autism returns; the claim about the buttons is an observation about the search, not a finding about the world.
+[^e]: Searched 19 August 2026 for any published estimate of how often autism - recognised or otherwise - is present in families experiencing estrangement. I found clinical commentary and personal accounts, but no prevalence study, and the psychologist whose video prompted this section says the same thing about her own field. This appears to be a real gap rather than a failure of searching, and readers should treat any confident number they encounter on the subject with suspicion, including one from me.
 
-[^e]: The estrangement framing in this section I owe to Dr Sam Barcham, a UK chartered counselling psychologist specialising in family estrangement, relational trauma and late-diagnosed autism, in her video *The Hidden Link Between AUTISM and Family Estrangement* on the channel *A Dash of Therapy*; she describes herself in it as both autistic and an estranged adult child. <https://www.youtube.com/watch?v=7tlewoQSUxo> It is not a source in the sense I have used the word elsewhere here, and nothing in this section rests on it evidentially - the claims are carried by the published work cited alongside. But the observation that unrecognised autism can sit underneath a family rupture is hers, and I would not have thought to write this section without having watched it.
+[^f]: Sinclair, J. (1993). Don't mourn for us. *Our Voice*, *1*(3). Autism Network International. The piece was written for the parents of autistic children and has been reprinted widely since; a copy is available at <https://variantminds.au/insights/jim_sinclair_dont_mourn_for_us.html>. I have not given a DOI because the original newsletter has none. I am citing it for what it said and when it said it, not for any factual claim - and if you read only one thing from this page, read his and not mine.
 
-[^f]: Searched 22 August 2026 for any published estimate of how often autism - recognised or otherwise - is present in families experiencing estrangement. I found clinical commentary and personal accounts, but no prevalence study, and the psychologist whose video prompted this section says the same thing about her own field. This appears to be a real gap rather than a failure of searching, and readers should treat any confident number they encounter on the subject with suspicion, including one from me.
-
-[^g]: Searched 22 August 2026 for work examining whether monotropic absorption or autistic flow excludes trauma-related or self-critical content, and whether relief from it forms part of the motivation to enter that state. I found the flow literature cited above, work on interests and wellbeing, and a good deal on rumination generally - but nothing joining those to the trauma question in autistic people. The claim in this section is mine, from my own life, and should be read at that weight. If somebody has studied it and I have missed it, I would be glad to be corrected.
+[^g]: The song is "Take Me As I Am" by Christopher Cross. Titles are not protected by copyright, so borrowing one for a piece of writing costs nothing and asks no permission; the words of a song are protected, and I have not quoted them. Australian law provides fair dealing for a closed list of purposes rather than a general fair-use test, and this letter does not set out to review the song - it borrows its posture. So the plea below is mine, written to do the work those verses were doing rather than to stand in for them.
 
 [^1]: Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. *Disability & Society*, *27*(6), 883–887. [DOI: 10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
 
@@ -455,30 +503,28 @@ That is all of it. That is the whole letter.
 
 [^29]: Botha, M., & Frost, D. M. (2020). Extending the minority stress model to understand mental health problems experienced by the autistic population. *Society and Mental Health*, *10*(1), 20–34. [DOI: 10.1177/2156869318804297](https://doi.org/10.1177/2156869318804297)
 
-[^30]: Cloitre, M., Shevlin, M., Brewin, C. R., Bisson, J. I., Roberts, N. P., Maercker, A., Karatzias, T., & Hyland, P. (2018). The International Trauma Questionnaire: Development of a self-report measure of ICD-11 PTSD and complex PTSD. *Acta Psychiatrica Scandinavica*, *138*(6), 536–546. [DOI: 10.1111/acps.12956](https://doi.org/10.1111/acps.12956) - cited for the structure of the ICD-11 diagnosis, the three additional features of which are termed disturbances in self-organisation. Complex PTSD is an ICD-11 condition with no DSM-5 equivalent, which is one reason it is easy to go a lifetime without hearing the term.
+[^30]: Huang, Y., Arnold, S. R. C., Foley, K.-R., & Trollor, J. N. (2020). Diagnosis of autism in adulthood: A scoping review. *Autism*, *24*(6), 1311–1327. [DOI: 10.1177/1362361320903128](https://doi.org/10.1177/1362361320903128) - a review of what adult diagnosis involves and why it happens late. My own account of the same ground, at length, is in *[Unmasked at Midlife]({{ '/essays/unmasked-at-midlife.html' | relative_url }})*.
 
-[^31]: Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R., Radcliffe, J., Jowett, S., Miles, S., González, R. A., Albert, I., Scholwin, A., Stirling, M., Markham, S., Strange, S., & Rumball, F. (2025). Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study. *British Journal of Psychology*, *116*(1), 1–33. [DOI: 10.1111/bjop.12731](https://doi.org/10.1111/bjop.12731)
+[^31]: Cloitre, M., Shevlin, M., Brewin, C. R., Bisson, J. I., Roberts, N. P., Maercker, A., Karatzias, T., & Hyland, P. (2018). The International Trauma Questionnaire: Development of a self-report measure of ICD-11 PTSD and complex PTSD. *Acta Psychiatrica Scandinavica*, *138*(6), 536–546. [DOI: 10.1111/acps.12956](https://doi.org/10.1111/acps.12956) - cited for the structure of the ICD-11 diagnosis, the three additional features of which are termed disturbances in self-organisation. Complex PTSD is an ICD-11 condition with no DSM-5 equivalent, which is one reason it is easy to go a lifetime without hearing the term.
 
-[^32]: Rumball, F., Happé, F., & Grey, N. (2020). Experience of trauma and PTSD symptoms in autistic adults: Risk of PTSD development following DSM-5 and non-DSM-5 traumatic life events. *Autism Research*, *13*(12), 2122–2132. [DOI: 10.1002/aur.2306](https://doi.org/10.1002/aur.2306)
+[^32]: Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R., Radcliffe, J., Jowett, S., Miles, S., González, R. A., Albert, I., Scholwin, A., Stirling, M., Markham, S., Strange, S., & Rumball, F. (2025). Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study. *British Journal of Psychology*, *116*(1), 1–33. [DOI: 10.1111/bjop.12731](https://doi.org/10.1111/bjop.12731)
 
-[^33]: Kapp, S. K., Steward, R., Crane, L., Elliott, D., Elphick, C., Pellicano, E., & Russell, G. (2019). "People should be allowed to do what they like": Autistic adults' views and experiences of stimming. *Autism*, *23*(7), 1782–1792. [DOI: 10.1177/1362361319829628](https://doi.org/10.1177/1362361319829628) - 31 autistic adults, aged 21–56, across interviews and focus groups. Participants distinguished non-injurious stimming, which they defended, from self-injurious behaviour, about which they held more complex views.
+[^33]: Rumball, F., Happé, F., & Grey, N. (2020). Experience of trauma and PTSD symptoms in autistic adults: Risk of PTSD development following DSM-5 and non-DSM-5 traumatic life events. *Autism Research*, *13*(12), 2122–2132. [DOI: 10.1002/aur.2306](https://doi.org/10.1002/aur.2306)
 
-[^34]: Wilkenfeld, D. A., & McCarthy, A. M. (2020). Ethical concerns with applied behavior analysis for autism spectrum "disorder". *Kennedy Institute of Ethics Journal*, *30*(1), 31–69. [DOI: 10.1353/ken.2020.0000](https://doi.org/10.1353/ken.2020.0000)
+[^34]: Kapp, S. K., Steward, R., Crane, L., Elliott, D., Elphick, C., Pellicano, E., & Russell, G. (2019). "People should be allowed to do what they like": Autistic adults' views and experiences of stimming. *Autism*, *23*(7), 1782–1792. [DOI: 10.1177/1362361319829628](https://doi.org/10.1177/1362361319829628) - 31 autistic adults, aged 21–56, across interviews and focus groups. Participants distinguished non-injurious stimming, which they defended, from self-injurious behaviour, about which they held more complex views.
 
-[^35]: Anderson, L. K. (2023). Autistic experiences of applied behavior analysis. *Autism*, *27*(3), 737–750. [DOI: 10.1177/13623613221118216](https://doi.org/10.1177/13623613221118216) - a phenomenological study of seven autistic adults who received ABA as children. Seven participants cannot establish prevalence and I have not used it for that.
+[^35]: Wilkenfeld, D. A., & McCarthy, A. M. (2020). Ethical concerns with applied behavior analysis for autism spectrum "disorder". *Kennedy Institute of Ethics Journal*, *30*(1), 31–69. [DOI: 10.1353/ken.2020.0000](https://doi.org/10.1353/ken.2020.0000) - the field is applied behaviour analysis. I am naming it in one line rather than trying it here, and it would be unfair to leave the charge unanswered in the same breath: practitioners have replied at length, arguing that much of what is criticised reflects historical rather than current practice. See Leaf, J. B., Cihon, J. H., Leaf, R., McEachin, J., Liu, N., Russell, N., Unumb, L., Shapiro, S., & Khosrowshahi, D. (2022). Concerns about ABA-based intervention: An evaluation and recommendations. *Journal of Autism and Developmental Disorders*, *52*(6), 2838–2853. [DOI: 10.1007/s10803-021-05137-y](https://doi.org/10.1007/s10803-021-05137-y)
 
-[^36]: Leaf, J. B., Cihon, J. H., Leaf, R., McEachin, J., Liu, N., Russell, N., Unumb, L., Shapiro, S., & Khosrowshahi, D. (2022). Concerns about ABA-based intervention: An evaluation and recommendations. *Journal of Autism and Developmental Disorders*, *52*(6), 2838–2853. [DOI: 10.1007/s10803-021-05137-y](https://doi.org/10.1007/s10803-021-05137-y)
+[^36]: Murray, D., Lesser, M., & Lawson, W. (2005). Attention, monotropism and the diagnostic criteria for autism. *Autism*, *9*(2), 139–156. [DOI: 10.1177/1362361305051398](https://doi.org/10.1177/1362361305051398)
 
-[^37]: Murray, D., Lesser, M., & Lawson, W. (2005). Attention, monotropism and the diagnostic criteria for autism. *Autism*, *9*(2), 139–156. [DOI: 10.1177/1362361305051398](https://doi.org/10.1177/1362361305051398)
+[^37]: Grove, R., Hoekstra, R. A., Wierda, M., & Begeer, S. (2018). Special interests and subjective wellbeing in autistic adults. *Autism Research*, *11*(5), 766–775. [DOI: 10.1002/aur.1931](https://doi.org/10.1002/aur.1931) - the association held for motivation to engage; very high intensity of engagement was associated in the other direction, which the authors discuss.
 
-[^38]: Grove, R., Hoekstra, R. A., Wierda, M., & Begeer, S. (2018). Special interests and subjective wellbeing in autistic adults. *Autism Research*, *11*(5), 766–775. [DOI: 10.1002/aur.1931](https://doi.org/10.1002/aur.1931) - the association held for motivation to engage; very high intensity of engagement was associated in the other direction, which the authors discuss.
+[^38]: Heasman, B., Williams, G., Charura, D., Hamilton, L. G., Milton, D., & Murray, F. (2024). Towards autistic flow theory: A non-pathologising conceptual approach. *Journal for the Theory of Social Behaviour*, *54*(4), 469–497. [DOI: 10.1111/jtsb.12427](https://doi.org/10.1111/jtsb.12427) - a conceptual paper rather than an empirical one, and I have cited it as such. Two of its authors are the originators of the monotropism account cited above.
 
-[^39]: Heasman, B., Williams, G., Charura, D., Hamilton, L. G., Milton, D., & Murray, F. (2024). Towards autistic flow theory: A non-pathologising conceptual approach. *Journal for the Theory of Social Behaviour*, *54*(4), 469–497. [DOI: 10.1111/jtsb.12427](https://doi.org/10.1111/jtsb.12427) - a conceptual paper rather than an empirical one, and I have cited it as such. Two of its authors are the originators of the monotropism account cited above.
+[^39]: Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row. [ISBN: 978-0060920432](https://openlibrary.org/isbn/9780060920432) - the loss of reflective self-consciousness is one of the defining features of the flow construct set out here. The construct is general and not about autism.
 
-[^40]: Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row. [ISBN: 978-0060920432](https://openlibrary.org/isbn/9780060920432) - the loss of reflective self-consciousness is one of the defining features of the flow construct set out here. The construct is general and not about autism.
+[^40]: Cacioppo, J. T., & Berntson, G. G. (1994). Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates. *Psychological Bulletin*, *115*(3), 401–423. [DOI: 10.1037/0033-2909.115.3.401](https://doi.org/10.1037/0033-2909.115.3.401) - a general account of affective separability, not an autism-specific finding. I have used it to support the claim that positive and negative affect are not a single dimension; the description of how that plays out for me is my own.
 
-[^41]: Cacioppo, J. T., & Berntson, G. G. (1994). Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates. *Psychological Bulletin*, *115*(3), 401–423. [DOI: 10.1037/0033-2909.115.3.401](https://doi.org/10.1037/0033-2909.115.3.401) - a general account of affective separability, not an autism-specific finding. I have used it to support the claim that positive and negative affect are not a single dimension; the description of how that plays out for me is my own.
+[^41]: Blake, L. (2017). Parents and children who are estranged in adulthood: A review and discussion of the literature. *Journal of Family Theory & Review*, *9*(4), 521–536. [DOI: 10.1111/jftr.12216](https://doi.org/10.1111/jftr.12216) - a review of estrangement in general, with no reference to autism. I have used it only for the shape of estrangement, not for any autism-specific claim.
 
-[^42]: Blake, L. (2017). Parents and children who are estranged in adulthood: A review and discussion of the literature. *Journal of Family Theory & Review*, *9*(4), 521–536. [DOI: 10.1111/jftr.12216](https://doi.org/10.1111/jftr.12216) - a review of estrangement in general, with no reference to autism. I have used it only for the shape of estrangement, not for any autism-specific claim.
-
-[^43]: Heasman, B., & Gillespie, A. (2018). Perspective-taking is two-sided: Misunderstandings between people with Asperger's syndrome and their family members. *Autism*, *22*(6), 740–750. [DOI: 10.1177/1362361317708287](https://doi.org/10.1177/1362361317708287)
+[^42]: Heasman, B., & Gillespie, A. (2018). Perspective-taking is two-sided: Misunderstandings between people with Asperger's syndrome and their family members. *Autism*, *22*(6), 740–750. [DOI: 10.1177/1362361317708287](https://doi.org/10.1177/1362361317708287)
