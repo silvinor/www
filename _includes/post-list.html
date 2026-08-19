@@ -1,19 +1,21 @@
-{%- comment -%}
+{%- comment -%}<!--
   Renders a WordPress-style list of post entries.
   Usage: {% include post-list.html posts=site.posts %}
     posts : array of posts to render (required)
-{%- endcomment -%}
+-->{%- endcomment -%}
 
 {%- assign sorted_posts = include.posts -%}
 {%- if include.posts.size > 0 -%}
   {%- assign sorted_posts = include.posts | sort: 'date' | reverse -%}
 {%- endif -%}
 {%- for post in sorted_posts -%}
-{%- comment -%}
+{%- comment -%}<!--
   Excerpt: prefer an explicit description; otherwise use the auto excerpt.
   Posts that open with an H1 repeating the title get it stripped off the
   front, and an empty excerpt falls back to the body text.
-{%- endcomment -%}
+  Truncation is skipped when front matter sets `force_excerpt: true`, so a
+  deliberately-written front matter excerpt is shown in full.
+-->{%- endcomment -%}
 {%- if post.description -%}
   {%- assign preview = post.description -%}
 {%- else -%}
@@ -27,7 +29,9 @@
     {%- assign preview = preview | remove_first: post.title | strip -%}
   {%- endif -%}
 {%- endif -%}
-{%- assign preview = preview | truncatewords: 42 -%}
+{%- unless post.force_excerpt -%}
+  {%- assign preview = preview | truncatewords: 42 -%}
+{%- endunless -%}
 
 <article class="position-relative py-4 index-{{ forloop.index }} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
   {%- include post-meta.html post=post -%}

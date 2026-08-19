@@ -9,6 +9,7 @@ tags:
   - Autobiographic
 excerpt: >-
   An open letter, written to everybody who ever decided what I was. About what it actually means to think differently - and, it turns out, to feel differently - what it cost to hide both - and why "I'm only protecting them" is almost never true.
+force_excerpt: true
 ---
 
 # Take Me As I Am
