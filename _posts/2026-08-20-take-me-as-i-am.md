@@ -37,7 +37,7 @@ Yes, I'm autistic.
 
 That means the concepts you absorbed from other people, the assumptions you never had to examine, the things you simply *know* about how a room works - those are not mine. You cannot really know how I think, what drives it, which patterns my mind runs, or where they land. Sometimes that's in the same place as yours. Often somewhere else entirely.
 
-But here is the part you don't see. I *cannot* think like you. My brain is not shaped the way yours is. You can't teach me to be you - not because I can't act. I can act. I am better at it than you are, because I have done it every day - every minute - of my life. It is that the performance never *becomes* me. It stays a costume, a mask. And it always costs me more than it would cost you.
+But here is the part you don't see. I *cannot* think like you. My brain is not shaped the way yours is. You can't teach me to be you - not because I can't act. I can act. I am probably better at it than you are, because I have done it every day - every minute - of my life. It's that the performance never *becomes* me. It stays a costume, a mask. And it always costs me more than it would cost you.
 
 Yes, I'm autistic.
 
@@ -63,11 +63,11 @@ So the search does what any system does when a confident user asks it an unanswe
 
 Be careful with the next part, because the obvious reading is the wrong one. My objection is not that I have been grouped with people I would rather not be grouped with. Those are people. I have no complaint about their company, and anyone who reads this as *don't confuse me with them* has taken precisely the wrong thing from it. Two separate wrongs are happening in that grid of pictures. Their condition is being used as stock photography for someone else's. And mine is being handed a face it does not have.
 
-That borrowed face is a large part of why you do not recognise me. You are carrying a picture. I do not match it. So when I tell you the word applies to me, you hear a claim rather than a fact - because you can see perfectly well that I am not what you were shown.
+That borrowed face is a large part of why you do not recognise me. You are carrying a picture. I do not match it. So when I tell you the word *autistic* applies to me, you hear a claim rather than a fact - because you can see perfectly well that I am not what you were shown.
 
-Then there is the symbol. For decades the word has been attached to the puzzle piece - the missing fragment, the thing incomplete. Gernsbacher and colleagues tested whether that imagery carries the meaning its defenders insist it doesn't, and found that it does: puzzle-piece imagery evoked incompleteness, imperfection, oddity. [^4] It was never neutral. People just stopped noticing.
+Then there are the symbols - a puzzle piece, an infinity sign. For decades the word has been attached to the puzzle piece - the missing fragment, the thing incomplete. Gernsbacher and colleagues tested whether that imagery carries the meaning its defenders insist it doesn't, and found that it does: puzzle-piece imagery evoked incompleteness, imperfection, oddity. [^4] It was never neutral. People just stopped noticing.
 
-And when researchers ask people to go and find an image that represents autism, the gap shows up directly. Atherton and colleagues did exactly that with 163 adults, and autistic participants were far more likely than non-autistic ones to choose images of isolation, of emotional difficulty, and of being misunderstood. [^5] Asked to picture the same word, we do not picture the same thing. We picture what it is like. You picture what it looks like.
+And when researchers ask people to go and find an image that represents autism, the gap shows up directly. Atherton and colleagues did exactly that with 163 adults, and autistic participants were far more likely than non-autistic ones to choose images of isolation, of emotional difficulty, and of being misunderstood. [^5] Asked to picture the same word, we do not picture the same thing. We picture what it *is* like. You picture what it looks like.
 
 Then there is television. You have met Rain Man and you have met Sheldon Cooper, and between them they have taught you that autistic people are either savants or comic obsessives. Nordahl-Hansen and colleagues went through screen portrayals against the diagnostic criteria and found what anyone living this already knew: the characters are not representative, they cluster around a narrow and unusual presentation, and they are most people's only sustained exposure to the subject. [^6] The authors of that work are careful to note the visibility has real value. [^7] So am I. But you did not learn about autism. You learned a character, and you have been checking real people against it ever since.
 
@@ -77,7 +77,7 @@ It does not. Nothing in the diagnostic criteria for autism uses intelligence as 
 
 So when someone tells you about "severe autism" and describes a person who cannot speak, cannot live alone, and cannot understand their own care - they may well be describing a real person with real and profound needs. What they are not doing is describing autism. They are describing autism *and* something else, run together, and then handing you the pair as though it were the definition. The Lancet Commission that proposed "profound autism" as an administrative category was explicit that it was doing so to direct services toward people whose needs are being missed - not to redefine what autism is. [^11] The term escaped that intention within a year.
 
-I need you to hold both halves of this. Conflating autism with intellectual disability erases me. It also insults every autistic person who does have one, by treating their support needs as a synonym for their neurology rather than as needs in their own right, deserving their own answer.
+I need you to hold both halves of this. Conflating autism with intellectual disability erases me. It also insults every autistic person who does have one, by treating their support needs as a synonym for their neurology rather than as needs in their own right, deserving their own answer. Labeling their condition as another word because it's easier to digest, and carries less stigma, less understanding.
 
 While we are here: autism rarely arrives alone. Around 38.5% of autistic people also have ADHD, and roughly 40% will meet the criteria at some point in their lives. [^12]
 
@@ -91,25 +91,25 @@ Alexithymia means difficulty identifying and describing your own emotions. Not a
 
 Geoffrey Bird and Richard Cook put forward the argument that changed the field: many of the emotional difficulties routinely attributed to autism are not tracking autism at all. They are tracking alexithymia, which is common in autistic people and also occurs in people who are not autistic. [^14] Autistic people without alexithymia do not show the pattern. It was never the autism.
 
-Sit with what that means in practice.
+Ponder what that means in practice.
 
 You ask me how I feel and I say *fine*, and you hear evasion, or coldness, or a wall. It is neither. I am running a query against a system that does not return an answer in the format you asked for. I might know three hours later. I might know on Thursday. I might know it as a headache and never convert it into a word at all.
 
-You tell me something terrible has happened and my face does nothing, and you draw a conclusion about my character. Then two days later I am unable to work, and you draw a second conclusion, about drama.
+You tell me something terrible has happened and my face does nothing - or I make a joke - and you draw a conclusion about my character. Then two days later I am unable to work, and you draw a second conclusion, about drama.
 
-You ask me if I love you and I say yes. I am not lying to you. But I am not reading a feeling off a dial either - I am giving you the answer that belongs in that slot, the one I was taught goes there, and the definition I was taught has never made much sense to me.
+You ask me if I love you and I say yes. I am not lying to you. But I am not reading a feeling off a dial either - I am giving you the answer that belongs in that slot, the one I was taught goes there, and the definition I was taught has never made much sense to me and I don't believe in it.
 
-Ask me something else and you will get a real answer. Do I trust you? That one I can reach, and it is a far heavier question than the one you asked. Do I trust you enough to stop performing in front of you. Do I trust you enough to be the actual thing rather than the version. Do I trust that what I let you see tonight will not be produced as evidence the next time we disagree.
+Ask me something else and you will get a real answer. Do I trust you? That one I can reach, and it is a far heavier question than the one you asked. Do I trust you enough to stop performing in front of you. Do I trust you enough to be the actual thing rather than the version I think others want me to be. Do I trust that what I let you see today will not be produced as evidence, as weapon, as your justification the next time we disagree.
 
-And do I want to touch you - constantly, for no reason, past the point where you find it reasonable - because somewhere underneath it I do not properly separate *close* from *one*.
+And when I touch you - constantly, for no reason, past the point where you find it reasonable - because somewhere underneath it I do cannot properly separate *close* from *one*.
 
 That is the readout. Not the sentence you asked for.
 
-Which is why the ending, when it comes, is silent. I do not fall out of anything. The mask goes back on at home, and I stop reaching across the gap, and the touching stops - and by every measure that actually applies to me, the thing you call love has already gone.
+Which is why the ending, when it comes, is silent. I do not fall out of anything. The mask goes back on, and I stop reaching across the gap, and the touching stops - and by every measure that actually applies to me, the thing you call love has already gone.
 
-You will not notice. You are still listening for the word, and the word was always the easy part.
+You will not notice. You are still listening for the words you know, and the words have always the easy part, for you.
 
-So it is not only that I don't think like you. I don't feel like you. Or more precisely: I very likely feel it as much as you do and cannot get to it, cannot name it, cannot produce it on demand in the shape the moment requires. And for most of my life I did not know this, which means that every time you read my flat response as not caring, I had no defence - because I had checked, and I could not find the caring either, and I concluded the same thing you did.
+So - it's not only that I don't think like you. I don't feel like you. Or more precisely: I very likely feel it as much as you do and cannot get to it, cannot name it, cannot produce it on demand in the shape the moment requires. And for most of my life I did not know this, which means that every time you read my out of sync response as not caring, I had no defence - because I had checked, and I could not find the caring either, and I concluded the same thing you did.
 
 That is worth saying plainly. The most damaging judgement was never yours. It was the one I made about myself, using your evidence.
 
@@ -119,7 +119,7 @@ Here is what you did with all of that, and it is the thing I would most like und
 
 You watched me, and you built a personality out of what you saw. Difficult. Cold. Intense. Arrogant. Too sensitive. Hard work.
 
-None of those is a personality. Each one is something my brain does under load, seen from outside and given a moral name.
+None of those is a personality. Each one is something my brain does naturally - more so under load, seen from outside and given a moral name.
 
 Take the one that cost me the most.
 
@@ -139,11 +139,13 @@ Three components, and all three assume something I do not have. The first assume
 
 It is a good treatment aimed at a mechanism I do not run. Sending me to it is not help; it is a category error. And when it fails - it does fail - the failure gets filed as more evidence about my character. *He didn't even try.*
 
-Here is a second one. It is quieter and it does more damage.
+And that goes for a lot of the mental health treatments you casually hear about - they're built on people not like me.
 
-I need to know what is going to happen. Not prefer - need. Plans made in advance. The same route. The same order. Warning before a change.
+Here is another example. It is quieter - and it does more damage.
 
-You have a word for that, and the word is *controlling*.
+I need to know what is going to happen. Not prefer - need. Plans made in advance. The same route. The same order. Warning before a change. For me, that is *predictability*.
+
+You have a word for that too, and the word is *controlling*.
 
 I understand how it looks. From outside it is a man imposing his requirements on everyone else, and there is no obvious reason the table has to be booked on Tuesday when it could just as easily be settled on the night. So the routine reads as rigidity, the rigidity reads as selfishness, and we are discussing my character again.
 
@@ -151,19 +153,19 @@ What is actually happening is that uncertainty costs me something it does not co
 
 Which means that when you break the plan casually - and to you it is casual, because for you it costs nothing - you are not being spontaneous *at* me. You are removing the one thing holding my day together, and then reading what happens next as proof that I am difficult about small things.
 
-They were not small things. They were the scaffolding.
+They were not small things. They were the scaffolding that holds my mind stable.
 
-And there is a far end to this that nobody ever follows, so let me follow it.
+And there is a far end to this that nobody ever follows, so let me follow it for you.
 
 When you tell me I am controlling, what you are asking is that I back off. Stop organising it. Stop needing it a particular way. It is not mine to manage.
 
-I can do that. But I need you to understand the only route I have to doing it.
+I can do that - and I do. But I need you to understand the only route I have to doing it.
 
 The planning is not something I add on top of caring about you. It is what caring about you looks like from in here. If something matters to me, I run it forward - what this does to that, where that ends up, what happens if it does not hold. That is not a habit sitting on top of the caring. It is the same process. I cannot run one without the other.
 
-So when you ask me to stop planning, there is exactly one way to comply. I have to stop caring about it.
+So when you ask me to stop planning - stop wanting to know - there is exactly one way to comply. I have to stop caring about it.
 
-And I do not have a dial. There is no setting at forty per cent, no version of me that is pleasantly interested and lightly involved. It is on, or it is off.
+I do not have a dial. There is no setting at forty per cent, no version of me that is pleasantly interested and lightly involved. It is on, or it is off.
 
 So think about what is actually being requested. Not about a booking, or a holiday, or whose weekend it is.
 
@@ -171,7 +173,7 @@ What does it look like when I set it to zero about a person?
 
 I could keep going, and you could fill in the rest yourself. Needing to be alone reads as rejection. Answering two days late reads as indifference. Saying the true thing plainly reads as arrogance. Every time, the same move is made: something my nervous system is doing gets converted into something my character is doing - and once it is a character trait, it is fair to resent.
 
-That is the part I want you to stop on. Every one of those readings arrives with a moral word already attached. Difficult. Selfish. Cold. Rude. Controlling. Not one of them is neutral. You did not simply misread the mechanism. You convicted me of it.
+That is the part I want you to stop on. Every one of those readings arrives with a moral word already attached. Difficult. Selfish. Cold. Rude. Controlling. Not one of them is neutral. You did not simply misread the mechanism. **You convicted me of it.**
 
 And a conviction is useful. That is the part that took me longest to say out loud.
 
@@ -181,15 +183,15 @@ That is what the moral word is really for. It is not a description. It is a perm
 
 And it is a mirror, which is the part I would most like you to look at. A few paragraphs ago I told you I cannot tolerate uncertainty - that it costs me more than it costs you, and that I build routines to keep it down to something I can carry. That is documented. It is part of the diagnosis. You call it controlling.
 
-You do the same thing. You just do it with people. Deciding in advance what somebody is, and then staying certain about it, spares you the uncertainty of having to find out - and a fixed opinion about a person is a routine like any other. It does the same job. It gets defended just as hard when somebody tries to move it.
+But you do the same thing. You just do it with people. Deciding in advance what somebody is, and then staying certain about it, spares you the uncertainty of having to find out - and a fixed opinion about a person is a routine like any other. It does the same job. It gets defended just as hard when somebody tries to move it.
 
-Mine gets called controlling. Yours gets called good judgement.
+Mine gets called controlling. Yours is judgement.
 
 ## What the performance cost
 
 I have written elsewhere about masking, in detail, and I am not going to run the argument again here. What matters here is the outcome.
 
-I performed. It did not work. Not "worked less well" - the research is blunter than that. When observers rate brief clips of autistic and non-autistic adults, autistic people are rated worse, and the judgements form in seconds. [^21] When Belcher and colleagues tested it directly, camouflaging intent did not predict first impressions at all. [^22] The effort bought nothing measurable.
+I performed. It did not work. Not "worked less well" - the research is blunter than that. When observers rate brief clips of autistic and non-autistic adults, autistic people are rated worse, and the judgements form in seconds. [^21] When Belcher and colleagues tested it directly, camouflaging intent did not predict first impressions at all. [^22] The judgment happened before the performance, the effort bought nothing measurable.
 
 Meanwhile the thing that does measurably improve how autistic adults are received is disclosure - being known, and being known by someone who understands what they have been told. [^23] I spent half a century doing the precise opposite, at maximum cost, for no return.
 
@@ -201,7 +203,7 @@ Let's look at the second half first, because it is true - and you have drawn pre
 
 Those people are not quieter than me because it costs them less. They are quieter because they are still doing what I did for fifty years - running the performance, arranging a life around what you have made clear you want to see, and paying for it where you cannot watch. You are not describing autistic people who have got over it. You are describing autistic people who are still hiding, at their own cost.
 
-And you are holding them up to me as the standard. You are asking me to be more like the ones you cannot see.
+And you are holding them up to me as the standard. You are asking me to be more like the ones you cannot see - despite the destruction the incur on themselves.
 
 The cost of being one of those is not metaphorical. Camouflaging shows up in raised cortisol, [^24] in exhaustion reported with striking consistency across the literature, [^25] and in autistic burnout - the total collapse of capacity that the people who live it describe as having every internal resource exhausted beyond measure. [^26]
 
@@ -229,15 +231,15 @@ What moved you was that you did not see it. You knew me for decades and never sa
 
 Look at what you are actually saying.
 
-You are offering, as evidence against the diagnosis, the fact that the concealment worked. That is not a counter-argument. It is a description of what I spent fifty years doing, and doing well. One of the studies I cited a moment ago was examining precisely that relationship - between how heavily a person camouflages and how late they are identified. [^22] You did not fail to notice something obvious. I was working, continuously and at the cost I have just set out, to make certain you did not notice.
+You are offering, as evidence against the diagnosis, the fact that the concealment worked. That is not the counter-argument you think it is. It is a description of what I spent fifty years doing, and doing well. One of the studies I cited a moment ago was examining precisely that relationship - between how heavily a person camouflages and how late they are identified. [^22] You did not fail to notice something obvious. I was working, continuously and at the cost I have just set out, to make certain you did not notice.
 
-And I want to be fair here, because this next part matters to me more than winning the argument.
+And I want to be fair here, because this next part matters to me more than who wins at this argument.
 
 I do not fault you for not seeing it. I could not see it either. I had the best view available - I was inside it - and I got it wrong for half a century. If I could not work it out from in here, I am not going to hold it against you that you could not work it out from over there.
 
 That is not what I fault you for.
 
-What I fault you for is the accusation itself. Because notice what it is not about. It is not about me, or the evidence, or the assessment. It is about you - a claim that your reading of me, formed casually, across years, with no information and no training, should outrank a formal assessment carried out by people who had both.
+What I fault you for is the accusation itself. Because notice what it is not about. It is not about me, or the evidence, or the assessment, or the disability. It is about you - a claim that your reading of me, formed casually, across years, with no information and no training, should outrank a formal assessment carried out by people who had both.
 
 That is not scepticism. Scepticism asks questions. This arrives with a verdict already written, and the verdict is the one you were holding before, and the reason it has not moved is that moving it would mean accepting that a great deal of what you concluded about me rested on something you could not see.
 
@@ -245,9 +247,9 @@ Or it is something else again, and I have come to think it might be.
 
 Because if I am autistic, then I am disabled. Not as an insult, and not as a bid for sympathy - as a fact with a legal shape almost everywhere in the world. The international convention on the rights of disabled people, ratified by nearly every country there is, does not define disability as something sitting inside a person. It defines it as an impairment meeting the barriers around it. [^31]
 
-I did not choose the word. I do not much enjoy it. But I do not get to opt out of it, and neither do you.
+I did not choose the word *disabled*. I do not much enjoy it. But I do not get to opt out of it, and neither do you.
 
-What kind of disability is the part that gets missed. Its origins are medical, and it sits in the developmental chapter of the manuals. That is not how it presents. It presents socially. The thing I cannot reliably do is communicate with the society I live in.
+What kind of disability is the part that gets missed. Its origins are medical, and it sits in the developmental chapter of the diagnostic manuals. That is not how it presents. It presents socially. The thing I cannot reliably do is communicate with the society I live in.
 
 And you are that society. Not a spectator to it - the part of it standing in front of me right now. So when I say I have a communication disability, I am not describing a flaw sitting inside my nervous system that you get to examine from a safe distance. I am describing the space between us, and you are holding the other end of it. The research I put at the very start of this writ says exactly that: the breakdown runs in both directions. [^1]
 
@@ -267,9 +269,9 @@ Now do the same for me.
 
 My ramp is not made of concrete, it is not a list of adjustments you can look up somewhere, and it's not you thinking you understand what autism is because you saw a TV show, or know another autistic person.
 
-It starts with you accepting that you are never going to understand me. Not with effort, not with reading, not with time. That is not a defeat and it is not an insult - it is the ground floor, and everything else is built on it. Because once you accept it, the rest follows on its own: if you cannot work me out, then you have to ask.
+It starts with you accepting that you are never going to understand me. Not with effort, not with reading or study, not with time. That is not a defeat and it is not an insult - it is the ground floor, and everything else is built on it. Because once you accept it, the rest follows on its own: if you cannot work me out, then you have to ask.
 
-Ask what I need. Ask what I meant, when what I said lands strangely. Accept that when I say I cannot then I cannot for my own reasons, not yours. Be patient with the disability - the actual one, the communication one - instead of treating each appearance of it as fresh evidence about my character. And yes, accept that it is a disability.
+Ask what I need. Ask what I meant, when what I said lands strangely. Accept that when I say I cannot, then I cannot for my own reasons, not yours. Be patient with the disability - the actual one, the communication one - instead of treating each appearance of it as fresh evidence about my character. And yes, accept that it is a disability.
 
 Meet me half way.
 
@@ -309,13 +311,13 @@ I did not know I was autistic until I was well into midlife. My children were ra
 
 Here is what that meant. My thinking was the only thinking I had ever had access to.
 
-Do not mistake that for not knowing I was different. I knew. I was told constantly - weird, odd, difficult, too much, and more than once, by people who meant it, *scary*. That is not a small word to hand a child, and I carried it a long way.
+Do not mistake that for not knowing I was different. I knew. I was told constantly - weird, odd, difficult, too much, and more than once, by people who meant it, *scary*. That is not a small word to hand a child, or an adult, and I carried it a long way.
 
 But being told is not the same as being explained. Nobody ever gave me a reason. No mechanism, no account of what was actually happening, nothing that would let me treat the difference as a difference. I got the verdict, over and over, with the reasoning left out - and a verdict with no reasoning behind it does not teach a child that his brain works differently. It teaches him that he is wrong. So that is what I learned. Not *unusual*. Wrong.
 
 And I want to name what that repetition is, because I spent decades filing it under *my childhood* and leaving it there. That was wrong twice over. It was not only childhood, and it did not stop when my childhood did.
 
-The exams I failed at university, in subjects I knew inside out. The jobs that ended without anyone ever quite explaining why. The relationships that wore through. Every one of those arrived as a fresh instalment of the same verdict - and each one came with better evidence than the last, because by then the evidence was my own record.
+The exams I failed as a student, in subjects I knew inside out. The jobs that ended without anyone ever quite explaining why. The relationships that wore through. Every one of those arrived as a fresh instalment of the same verdict - and each one came with better evidence than the last, because by then the evidence was my own record.
 
 That is what makes it cumulative rather than merely repeated. As a child I had to be told. As an adult I did not. I could read a result, or a termination, or a door closing, and supply the finding myself, in my own voice, before anybody else got near it. You cannot walk out of a situation like that. It travels with you, and it is waiting when you arrive.
 
@@ -337,7 +339,7 @@ So when my children did not think the way I did, I did the thing that had been d
 
 I was requiring them to arrive at my conclusions by my route, and treating the failure to do so as a fault in them. The same verdict I had been handed, passed on with the reasoning still missing.
 
-I fought the wrong battle for years. I was the victim of this and I was also, without knowing it and without meaning it, the person doing it. Both are true. Neither cancels the other, and I am not going to use the first to soften the second.
+I fought the wrong battle for years. I was the victim of this and I was also, without knowing it and without meaning it, the person doing it. Both are true. Neither cancels the other, and I am not going to use the first to soften the second. My only hope is that they know this at 20, instead of at 50, because it keeps piling up, and 30 more years is unbearable.
 
 So yes - add it to the list of things I have been convicted of. I have added it myself. It is the heaviest thing on there, and it is the only one I do not dispute.
 
@@ -359,9 +361,9 @@ I want to take that last one seriously, because it is not a stupid argument. The
 
 But look at what the protection actually produced. I did not learn *the world is unfair and I will need strategies.* I learned *there is something wrong with me, the people who love me can see it, and their job is to keep it hidden.* You did not equip me against the world's judgement. You moved it inside, into the one place I could not get away from it, in the voice of the person whose opinion mattered most.
 
-And now I am fifty-four.
+And now I am fifty-four. And I still get told to stop - sometimes not in words, instead with a frown, or a turned back. 
 
-Wait here ... just a moment. Because this is the part that invalidates that boy's scolding. I am not a child being prepared for anything. I led teams for thirty years. I have raised children of my own. And I am still told to stop - at a table, in a meeting, in a room full of people who have known me for years.
+Pause here ... just a moment. Because this is the part that invalidates that boy's scolding. I am not a child being prepared for anything. I held jobs for over thirty years. I have raised children of my own. And I am still told to stop - at a table, in a meeting, in a room full of people who have known me for years.
 
 Whatever that is, it is not preparation. There is nothing left to prepare me for. The lesson was delivered, I sat through it for five decades, I can recite it back to you. So what is being asked for now is something simpler and older than protection, and I think it always was: *do not do that where I can see it.*
 
@@ -395,7 +397,7 @@ And that is the thing I most want you to understand about my interests, because 
 
 Be careful with that finding, because I nearly used it dishonestly. It is an association, and an association does not tell you why. It is consistent with the interests simply being good - a source of wellbeing in their own right, which I do believe they are. It is equally consistent with something the study was not built to look for, and which took me most of my life to notice about myself.
 
-When the channel is open, nothing else gets in. So far I have only shown you one side of that - your body language, the time, the question you actually asked, all of it outside the tunnel and none of it reaching me. But it runs in both directions.
+When the channel is open, nothing else gets in. So far I have only shown you one side of that, the parts I miss; your body language, the time, the question you actually asked, all of it outside the tunnel and none of it reaching me. But it runs in both directions.
 
 The self-hatred does not get in either.
 
@@ -427,7 +429,7 @@ I want to follow this to the end, because the end is where people stop paying at
 
 A child read the way I have just described has nowhere to go. They are dependent on the same people doing the misreading. So they adapt. They comply. They work out which version of themselves causes the least trouble and they run that one - and the family, watching the trouble stop, concludes the problem is solved.
 
-It is not solved. It has been hidden - and it's the start of building that mask.
+It is not solved. It has been hidden - and it's the material that builds that mask.
 
 Then the child grows up, and adulthood hands them the one thing they never had as a child: the ability to leave.
 
