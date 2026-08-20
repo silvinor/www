@@ -48,7 +48,7 @@ It only becomes a problem when you set about reshaping me into whatever you have
 
 ## What I am, and what I am not
 
-The word *"autistic"* does not mean to you what it to mean. I can show you that in about thirty seconds.
+The word *"autistic"* does not mean what you what it to mean. I can show you that in about thirty seconds.
 
 Open an image search for "autistic person" and look honestly at what comes back. [^a]
 
