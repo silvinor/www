@@ -9,16 +9,19 @@
 @import "mixins/breakpoints";
 @import "mixins/color-scheme";
 
-$my-sans-serif-font: "Roobert", "Atkinson Hyperlegible Next", "Libre Franklin", ui-sans-serif, -apple-system, system-ui, sans-serif !default;
-$my-serif-font: "Literata", "Merriweather", Cambria, serif !default;
-$my-monospace-font: "Roobert Mono", "Atkinson Hyperlegible Mono", ui-monospace, monospace !default;
+$my-sans-serif-font: "Roobert", "Atkinson", "Libre Franklin", ui-sans-serif, -apple-system, system-ui, sans-serif !default;
+$my-serif-font: "Literata", "Merriweather", Cambria, ui-serif, serif !default;
+$my-monospace-font: "Roobert Mono", "Atkinson Mono", ui-monospace, monospace !default;
 
 :root {
   --#{$prefix}font-sans-serif: #{inspect($my-sans-serif-font)};
   --#{$prefix}font-serif: #{inspect($my-serif-font)};
   --#{$prefix}font-monospace: #{inspect($my-monospace-font)};
-
 }
+
+.font-sans-serif { font-family: var(--#{$prefix}font-sans-serif) !important; }
+.font-serif { font-family: var(--#{$prefix}font-serif) !important; }
+.font-monospace { font-family: var(--#{$prefix}font-monospace) !important; }
 
 body {
   -webkit-font-smoothing: antialiased;
