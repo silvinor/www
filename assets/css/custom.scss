@@ -9,9 +9,9 @@
 @import "mixins/breakpoints";
 @import "mixins/color-scheme";
 
-$my-sans-serif-font: "Roobert", "Atkinson", "Libre Franklin", ui-sans-serif, -apple-system, system-ui, sans-serif !default;
-$my-serif-font: "Literata", "Merriweather", Cambria, ui-serif, serif !default;
-$my-monospace-font: "Roobert Mono", "Atkinson Mono", ui-monospace, monospace !default;
+$my-sans-serif-font: "Roobert", ui-sans-serif, -apple-system, system-ui, sans-serif !default;
+$my-serif-font: "Anthropic Serif", serif !default;
+$my-monospace-font: "Roobert Mono", ui-monospace, monospace !default;
 
 :root {
   --#{$prefix}font-sans-serif: #{inspect($my-sans-serif-font)};

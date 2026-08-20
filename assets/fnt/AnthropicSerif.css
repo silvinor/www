@@ -1,0 +1,72 @@
+/*
+ */
+
+@font-face {
+  font-family: "Anthropic Serif";
+  src:
+    url("AnthropicSerif.woff2") format("woff2"),
+    url("AnthropicSerif.ttf") format(truetype);
+  font-weight: 300 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Anthropic Serif";
+  src:
+    url("AnthropicSerif-Italic.woff2") format("woff2"),
+    url("AnthropicSerif-Italic.ttf") format(truetype);
+  font-weight: 300 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Anthropic Serif Fallback Georgia";
+  src: local(Georgia);
+  size-adjust: 104.79%;
+  ascent-override: 94.71%;
+  descent-override: 24.57%;
+  line-gap-override: 0%;
+  unicode-range:
+    U+20-7E, U+A0-B4, U+B6-17F, U+2012-2015, U+2018-2022, U+2026, U+2030,
+    U+2032-2034, U+2039-203A, U+2044;
+}
+
+@font-face {
+  font-family: Anthropic "Serif Fallback Times";
+  src:
+    local(Times New Roman), local(TimesNewRomanPSMT), local(Liberation Serif),
+    local(LiberationSerif);
+  size-adjust: 114.99%;
+  ascent-override: 86.31%;
+  descent-override: 22.39%;
+  line-gap-override: 0%;
+  unicode-range:
+    U+20-7E, U+A0-B4, U+B6-17F, U+2012-2015, U+2018-2022, U+2026, U+2030,
+    U+2032-2034, U+2039-203A, U+2044;
+}
+
+@font-face {
+  font-family: "Anthropic Serif Fallback DejaVu";
+  src: local(DejaVu Serif), local(DejaVuSerif);
+  size-adjust: 90.15%;
+  ascent-override: 110.1%;
+  descent-override: 28.56%;
+  line-gap-override: 0%;
+  unicode-range:
+    U+20-7E, U+A0-B4, U+B6-17F, U+2012-2015, U+2018-2022, U+2026, U+2030,
+    U+2032-2034, U+2039-203A, U+2044;
+}
+
+@font-face {
+  font-family: "Anthropic Serif Fallback Noto";
+  src: local(Noto Serif), local(NotoSerif), local(NotoSerif-Regular);
+  size-adjust: 97.12%;
+  ascent-override: 102.19%;
+  descent-override: 26.51%;
+  line-gap-override: 0%;
+  unicode-range:
+    U+20-7E, U+A0-B4, U+B6-17F, U+2012-2015, U+2018-2022, U+2026, U+2030,
+    U+2032-2034, U+2039-203A, U+2044;
+}
