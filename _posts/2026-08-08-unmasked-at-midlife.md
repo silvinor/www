@@ -11,7 +11,7 @@ excerpt: >-
   The written version of a talk I gave at the Sydney Disability Expo in August 2026. Adults are being diagnosed autistic in their forties, fifties and sixties - not because autism is spreading, but because the lens that could see them was only ground recently. What follows is about why we were missed, what finally makes people look, and why the answer, when it arrives, so often lands as grief rather than relief.
 ---
 
-# Unmasked at Midlife: Making Sense of a Late Autism Diagnosis
+# Unmasked at Midlife <br><small>Making Sense of a Late Autism Diagnosis</small>
 
 {% include post-meta.html post=page %}
 
@@ -145,7 +145,7 @@ Learning you are autistic as an adult is not the same as learning it as a child,
 
 A child who is diagnosed early gets shaped *with* their autism in view. The people around them adjust. Support is built around who they are, while they are still forming. The scaffolding goes up as the building rises.
 
-The adult has no such luck. We arrive at the diagnosis with a self that has already been running for forty or fifty years - a self assembled, often unknowingly, around hiding and compensating [^126]. Learning the truth does not undo that. It means going back and re-examining almost everything: which parts of "me" were real preference, and which were survival strategy dressed up as personality. That is slow, disorienting work, and for many people it comes at the very time their old coping systems have already collapsed into burnout [^570].
+The adult has no such luck. We arrive at the diagnosis with a self that has already been running for forty or fifty years - a self-assembled, often unknowingly, around hiding and compensating [^126]. Learning the truth does not undo that. It means going back and re-examining almost everything: which parts of "me" were real preference, and which were survival strategy dressed up as personality. That is slow, disorienting work, and for many people it comes at the very time their old coping systems have already collapsed into burnout [^570].
 
 I do not say this to discourage anyone. I say it because pretending it is easy is a disservice. A late diagnosis is not a tidy full stop. It is the first line of a new life, and that life has to be, in part, re-programmed from the inside. It can absolutely be done. But it should be done with support.
 
@@ -155,7 +155,7 @@ If any of this describes you, please hear the most practical thing I can offer: 
 
 So reach for help. But reach carefully, because there is a catch: not every psychologist is equipped for neurodivergence. Many were trained on the old, narrow picture of autism - the very picture that missed us in the first place. A therapist who does not understand masking, or who treats autistic traits as problems to be corrected, can do more harm than good. It is completely reasonable to ask a clinician, before you commit, what experience and training they have with autistic adults.
 
-There is encouraging movement here, at least in Australia. The Psychology Board of Australia's professional competencies - the standards that define what a psychologist has to be able to do - were rewritten for the first time since 2010, and came into effect on 1 December 2025. Competency 7, which covers responsiveness to client diversity, now requires that a psychologist understands neurodiversity, along with strengths-based, trauma-informed and positive approaches to supporting people with developmental disability [^1000]. I want to be accurate about the wording: the requirement is *understanding* rather than affirming, which is a smaller thing than the headlines suggested. It is still a real change. Understanding neurodivergence has shifted from a nice-to-have specialism to a baseline expectation of the profession [^1001]. This did not happen by accident. It is the result of years of advocacy by neurodivergent people insisting on care that supports who they are, rather than trying to correct it. If you are looking for a psychologist now, you can reasonably expect at least a foundational understanding of these issues, and you are entitled to keep looking until you find someone who has it.
+There is encouraging movement here, at least in Australia. The Psychology Board of Australia's professional competencies - the standards that define what a psychologist has to be able to do - were rewritten for the first time since 2010, and came into effect on 1 December 2025. Competency 7, which covers responsiveness to client diversity, now requires that a psychologist understands neurodiversity, along with strengths-based, trauma-informed and positive approaches to supporting people with developmental disability [^1000][^c]. I want to be accurate about the wording: the requirement is *understanding* rather than affirming, which is a smaller thing than the headlines suggested. It is still a real change. Understanding neurodivergence has shifted from a nice-to-have specialism to a baseline expectation of the profession [^1001][^d]. This did not happen by accident. It is the result of years of advocacy by neurodivergent people insisting on care that supports who they are, rather than trying to correct it. If you are looking for a psychologist now, you can reasonably expect at least a foundational understanding of these issues, and you are entitled to keep looking until you find someone who has it.
 
 ## A final word
 
@@ -169,7 +169,7 @@ If you are somewhere in this process - quietly wondering, freshly diagnosed, or 
 
 [^a]: The theory is usually traced to Leo Kanner's early descriptions and was popularised by Bruno Bettelheim in *The Empty Fortress: Infantile Autism and the Birth of the Self* (Free Press, 1967), which was written partly in answer to Bernard Rimland's *Infantile Autism* (1964) - the book that first attacked the idea on evidential grounds. I have not given ISBNs for either, because I could not verify them to the standard I have used for the sources below, and I would rather say so than supply a number I have not checked. The claim being made here is historical rather than clinical: the theory existed, it was influential, and it has been abandoned.
 
-[^b]: The video is Courtney, Literally, *the assessment process*, on YouTube; the moment referred to is at about 18:40. <https://youtu.be/RSZ-SnKSyl4?t=1120> I have used it the way I would use anything a person has chosen to publish about themselves - as an illustration of a reaction many of us recognise, not as evidence of how common that reaction is. Nothing in this piece rests on it evidentially.
+[^b]: The video is Courtney, Literally, *the assessment process*, on YouTube; the moment referred to is at about 18:40. See: <https://youtu.be/RSZ-SnKSyl4?t=1120>. I have used it the way I would use anything a person has chosen to publish about themselves - as an illustration of a reaction many of us recognise, not as evidence of how common that reaction is. Nothing in this piece rests on it evidentially.
 
 [^11]: Antshel, K. M., & Russo, N. (2019). Autism spectrum disorders and ADHD: Overlapping phenomenology, diagnostic issues, and treatment considerations. *Current Psychiatry Reports, 21*(5), 34. [DOI: 10.1007/s11920-019-1020-5](https://doi.org/10.1007/s11920-019-1020-5)
 
@@ -241,8 +241,12 @@ If you are somewhere in this process - quietly wondering, freshly diagnosed, or 
 
 [^818]: Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist, 59*(1), 20–28. [DOI: 10.1037/0003-066X.59.1.20](https://doi.org/10.1037/0003-066X.59.1.20)
 
-[^1000]: Psychology Board of Australia. (2024). *Professional competencies for psychologists*. Australian Health Practitioner Regulation Agency. <https://www.psychologyboard.gov.au/Standards-and-Guidelines/Professional-practice-standards/Professional-competencies-for-psychology.aspx> - released 7 August 2024, in effect from 1 December 2025. Regulatory standards rather than a peer-reviewed source, cited for what they require.
+[^1000]: Psychology Board of Australia. (2024). *Professional competencies for psychologists*. Australian Health Practitioner Regulation Agency. <https://www.psychologyboard.gov.au/Standards-and-Guidelines/Professional-practice-standards/Professional-competencies-for-psychology.aspx>
 
-[^1001]: Psychology Board of Australia. (2024, August 7). *Professional competencies for psychologists released* [News release]. Australian Health Practitioner Regulation Agency. <https://www.psychologyboard.gov.au/News/2024-08-07-Professional-competencies-for-psychologists-released.aspx> - the Board's own announcement, setting out what changed and when it takes effect.
+[^c]: Released 7 August 2024, in effect from 1 December 2025. Regulatory standards rather than a peer-reviewed source, cited for what they require.
+
+[^1001]: Psychology Board of Australia. (2024, August 7). *Professional competencies for psychologists released* [News release]. Australian Health Practitioner Regulation Agency. <https://www.psychologyboard.gov.au/News/2024-08-07-Professional-competencies-for-psychologists-released.aspx>
+
+[^d]: The Board's own announcement, setting out what changed and when it takes effect.
 
 [^1002]: Baron-Cohen, S. (2002). The extreme male brain theory of autism. *Trends in Cognitive Sciences, 6*(6), 248–254. [DOI: 10.1016/S1364-6613(02)01904-6](https://doi.org/10.1016/S1364-6613%2802%2901904-6)
