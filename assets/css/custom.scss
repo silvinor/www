@@ -91,6 +91,7 @@ img.logo {
     text-align: justify;
     text-justify: auto;
     text-justify: newspaper;
+    text-indent: 1em;
   }
 
   p, li {
@@ -107,7 +108,6 @@ img.logo {
   .footnote {
     font-family: var(--#{$prefix}-font-monospace), monospace;
     font-size: .666rem;
-    padding-right: .25rem;
   }
 
   .footnotes {
@@ -125,6 +125,8 @@ img.logo {
 
     p {
       margin-bottom: .25rem;
+      margin-left: 1em;
+      text-indent: -1em;
     }
 
     .footnote {
@@ -140,6 +142,12 @@ img.logo {
     padding-bottom: .25em;
     border-bottom: 1px solid #777;
     margin-bottom: .5em;
+
+    small {
+      opacity: 0.9;
+      font-style: oblique;
+      margin-left: 1rem;
+    }
   }
 
   h2 {

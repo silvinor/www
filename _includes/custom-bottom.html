@@ -1,2 +1,15 @@
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.mjs"></script>
+
+<script>
+  document.querySelectorAll('sup[id^="fnref:"]').forEach(sup => {
+    const next = sup.nextSibling;
+
+    if (
+      next?.nodeType === Node.ELEMENT_NODE &&
+      next.matches('sup[id^="fnref:"]')
+    ) {
+      sup.append(',');
+    }
+  });
+</script>
