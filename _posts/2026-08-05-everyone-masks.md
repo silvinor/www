@@ -11,7 +11,7 @@ excerpt: >-
   "Everyone masks" is usually said to end the conversation. It should start it. The claim is true - impression management is universal, and the research now confirms that neurotypical adults mask at work for the same reasons autistic adults do. What differs is not whether we perform, but what the performance costs to run, what it buys, how often it fails, and what a person concludes about themselves after decades of it failing without explanation.
 ---
 
-# Everyone Masks: What Makes the Autistic Version Different
+# Everyone Masks <br><small>What Makes the Autistic Version Different</small>
 
 {% include post-meta.html post=page %}
 
@@ -25,7 +25,7 @@ Three differences are usually attributed. It costs more to run. It buys less bel
 
 ## <small class="text-body-tertiary">Part 1: </small><br>Yes, everyone masks
 
-Erving Goffman set this out in 1959. He described social life as theatre: a front stage where we manage the impression others form of us, and a back stage where we do not. [^1] It is one of the most cited ideas in sociology, and it was never about a minority. It was about everyone.
+Erving Goffman set this out in 1959. He described social life as theatre: a front stage where we manage the impression others form of us, and a backstage where we do not. [^1] It is one of the most cited ideas in sociology, and it was never about a minority. It was about everyone.
 
 Social psychology later put numbers to it. Leary and Kowalski's review split impression management into two components - the motivation to control how you are seen, and the construction of the impression itself. [^2] Both are ordinary. Both operate in almost every social encounter. Neither is pathological.
 
@@ -307,7 +307,7 @@ Exhaustion resolves with rest. Employment can be rebuilt. A diagnosis can be obt
 
 That is why the "everyone masks" conversation is worth having properly rather than winning. The people saying it are not describing this. They have never had to explain a lifetime of unexplained failure with no data except themselves.
 
-## <small class="text-body-tertiary">Part 9: </small><br>So what is the difference
+## <small class="text-body-tertiary">Part 9: </small><br>So what is the difference?
 
 Everyone masks. That is true, and conceding it costs nothing, because the concession is where the argument starts.
 
@@ -335,11 +335,11 @@ The instruction that follows from the evidence is not aimed at autistic people a
 
 [^b]: I should flag how much of this piece rests on one study. Pryke-Hobbes and colleagues is cited throughout - for the shared reasons people mask, for the automaticity complication, for the workplace material, for the written-versus-unwritten distinction, for the work, home and collision masks, and for the employment percentages. It is the right study for the job: it is recent, it is large for qualitative work, and it is the only one I found that puts autistic, non-autistic neurodivergent and neurotypical adults side by side on the same questions, which is exactly the comparison this argument needs. But it is qualitative, and the weight it can bear should be read accordingly. Participant accounts establish that people describe masking this way and why; they do not establish how common any of it is, and I have not used them for that. Where a claim needs a rate rather than a description, I have gone to other sources. A reader who thinks one paper is carrying too much here is not being unreasonable, and the obvious remedy - more studies of this design - is not something I can supply.
 
-[^c]: Searched 5 August 2026 on PubMed and Google Scholar for combinations of *dissociative identity disorder*, *multiple personality disorder*, *misdiagnosis* and *autism* in adult samples. I found case reports and commentary but no prevalence estimate from a clinical cohort. Personality disorders in general, and borderline personality disorder in particular, are well documented in this role; dissociative identity disorder is not, and I have not claimed it.
+[^c]: Searched 5 August 2026 on PubMed and Google Scholar for combinations of *dissociative identity disorder*, *multiple personality disorder*, *misdiagnosis* and *autism* in adult samples. I found case reports and commentary but no prevalence estimates from a clinical cohort. Personality disorders in general, and borderline personality disorder in particular, are well documented in this role; dissociative identity disorder is not, and I have not claimed it.
 
 [^d]: As of 5 August 2026 I have not found a peer-reviewed study reporting mean or median job tenure in an autistic adult sample against a general population comparison. The frequently quoted figure of roughly 24 months against a general average of 49 months circulates widely online but I cannot trace it to a study, so it does not appear above. The longitudinal employment-status data cited here is the closest published equivalent I could find.
 
-[^e]: Searched 5 August 2026 for prevalence of ICD-11 complex post-traumatic stress disorder (CPTSD) in autistic samples, including studies administering the International Trauma Questionnaire. I found prevalence work on PTSD, extensive work on trauma exposure, clinical commentary on the overlap, and the Delphi study on differential diagnosis cited above - but no prevalence estimate for CPTSD specifically in an autistic adult cohort. Part of the difficulty is structural: CPTSD is an ICD-11 diagnosis with no DSM-5 equivalent, so studies drawing on DSM-based records cannot report it even in principle. This appears to be a genuine gap rather than a failure of searching.
+[^e]: Searched 5 August 2026 for prevalence of ICD-11 complex post-traumatic stress disorder (CPTSD) in autistic samples, including studies administering the International Trauma Questionnaire. I found prevalence work on PTSD, extensive work on trauma exposure, clinical commentary on the overlap, and the Delphi study on differential diagnosis cited above - but no prevalence estimates for CPTSD specifically in an autistic adult cohort. Part of the difficulty is structural: CPTSD is an ICD-11 diagnosis with no DSM-5 equivalent, so studies drawing on DSM-based records cannot report it even in principle. This appears to be a genuine gap rather than a failure of searching.
 
 [^1]: Goffman, E. (1959). *The presentation of self in everyday life*. Anchor Books. [ISBN: 978-0385094023](https://openlibrary.org/isbn/9780385094023)
 
