@@ -11,15 +11,15 @@ excerpt: >-
   In 2017 Simon Baron-Cohen told the United Nations that autistic people were still falling outside their human rights. He was right, and he was mostly talking about children. These pages do the same job for adults and reach a different conclusion: the rights are not being denied to us, they are being made available on terms we cannot meet. Every article in the Declaration is delivered over a counter you have to walk up to and ask at - and asking is the disability.
 ---
 
-# Rights You Have to Ask For: Autistic Adults and the Universal Declaration of Human Rights
+# Rights You Have to Ask For <br><small>Autistic Adults and the Universal Declaration of Human Rights</small>
 
 {% include post-meta.html post=page %}
 
-In 1948 the United Nations adopted the Universal Declaration of Human Rights. Thirty articles, written a few years after the world had finished demonstrating what happens without them. [^1]
+In 1948 the United Nations adopted the Universal Declaration of Human Rights. Thirty articles, written a few years after the world had finished demonstrating what happens without them. [^1][^1a]
 
 Read them and something about the drafting stands out. *Everyone* has the right to work. *Everyone* has the right to a standard of living adequate for health and well-being. *Everyone* has the right to recognition everywhere as a person before the law. There is no clause about producing evidence. Not one article is conditional on a document.
 
-In 2017, Simon Baron-Cohen spoke at the United Nations for World Autism Awareness Day and walked through a handful of those articles, showing where autistic people were still falling outside them. [^a] He was right, and the speech has held up. But it was mostly about children, it was mostly built on British numbers, and it treated the failures as a list.
+In 2017, Simon Baron-Cohen spoke at the United Nations for World Autism Awareness Day and walked through a handful of those articles, showing where autistic people were still falling outside them. [^0][^a1] He was right, and the speech has held up. But it was mostly about children, it was mostly built on British numbers, and it treated the failures as a list.
 
 This argument does the same job for adults, and it arrives somewhere else.
 
@@ -35,9 +35,9 @@ They have no adjustment at work, because an adjustment requires a disclosed and 
 
 That last one deserves more than a piece of logic, because it is where this argument is most likely to be waved away as a figure of speech, and it is not one.
 
-Australia's Disability Discrimination Act does not require a diagnosis. Its definition is deliberately wide: disability that presently exists, that previously existed, that may exist in the future, and disability merely *imputed* to a person by whoever is discriminating against them. [^2] Read as written, an undiagnosed autistic adult is covered. The autism presently existed. Nothing in the statute says a clinician must have noticed it first.
+Australia's Disability Discrimination Act does not require a diagnosis. Its definition is deliberately wide: disability that presently exists, that previously existed, that may exist in the future, and disability merely *imputed* to a person by whoever is discriminating against them. [^2][^2a] Read as written, an undiagnosed autistic adult is covered. The autism presently existed. Nothing in the statute says a clinician must have noticed it first.
 
-But the onus of proof sits with the complainant. [^3] You must establish the attribute, and then establish that the treatment happened because of it. And the practical way to establish an attribute like this one is a report - the report you did not have at the time, because you did not know, because nobody had told you, because it costs three thousand dollars.
+But the onus of proof sits with the complainant. [^2b] You must establish the attribute, and then establish that the treatment happened because of it. And the practical way to establish an attribute like this one is a report - the report you did not have at the time, because you did not know, because nobody had told you, because it costs three thousand dollars.
 
 So a claim of this kind does not fail because the discrimination did not happen. It fails before anybody reaches that question. What gets decided is whether you are the sort of person the Act was written for, and it stops there.
 
@@ -51,7 +51,7 @@ The research says this is normal rather than unlucky. Huang and colleagues surve
 
 You might think a public system fixes this. It is worth looking at what happens when the money is removed and only the queue is left.
 
-In England, autism assessment is free at the point of use through the NHS, and the National Institute for Health and Care Excellence recommends that someone referred for assessment be seen within thirteen weeks. In March 2026 there were 270,701 people in England with an open referral for suspected autism. Of those, 242,708 - 89.7% - had been waiting at least thirteen weeks. Of the people who had already passed thirteen weeks, 3.7% had been seen inside the recommended window. [^7] [^c]
+In England, autism assessment is free at the point of use through the NHS, and the National Institute for Health and Care Excellence recommends that someone referred for assessment be seen within thirteen weeks. In March 2026 there were 270,701 people in England with an open referral for suspected autism. Of those, 242,708 - 89.7% - had been waiting at least thirteen weeks. Of the people who had already passed thirteen weeks, 3.7% had been seen inside the recommended window. [^7][^7a][^c]
 
 So the two systems fail differently and arrive at the same place. Australia rations by price, England rations by queue, and in both countries the median autistic adult is outside the system looking in.
 
@@ -91,7 +91,7 @@ The right to work arrives through a job interview. The right to an effective rem
 
 Every one of them is delivered over a counter. And in every case, walking up to the counter and asking is a social performance.
 
-That is not an accident of administration. It follows from the kind of society the Declaration was written for and by. Henrich, Heine and Norenzayan gave that kind of society a name - Western, Educated, Industrialised, Rich and Democratic - and their argument was that WEIRD populations are unusual rather than typical, and unusual in a specific direction: individualist, analytic, and organised around the self-directing person rather than the group. [^11] [^e] The Declaration is a WEIRD document in exactly that sense. Its subject is an autonomous individual who knows what they are entitled to, notices when they are not getting it, and says so to the right person.
+That is not an accident of administration. It follows from the kind of society the Declaration was written for and by. Henrich, Heine and Norenzayan gave that kind of society a name - Western, Educated, Industrialised, Rich and Democratic - and their argument was that WEIRD populations are unusual rather than typical, and unusual in a specific direction: individualist, analytic, and organised around the self-directing person rather than the group. [^11][^e] The Declaration is a WEIRD document in exactly that sense. Its subject is an autonomous individual who knows what they are entitled to, notices when they are not getting it, and says so to the right person.
 
 Rights in such a society are not distributed. They are claimed. They sit on a shelf and you are expected to come and get them.
 
@@ -103,11 +103,11 @@ The evidence on how that goes is unusually blunt. Sasson and colleagues found th
 
 Now put that join at every counter where a right is handed over. The interview panel. The GP. The claims assessor. The magistrate. The manager who decides whether your request is reasonable. Each is a mixed-pair interaction in which one party is deciding what you get, and the transfer is known to degrade.
 
-Shaw, Doherty and colleagues gave that its own name in the clinical setting: a *triple empathy problem*, where the ordinary double empathy gap is widened further by the power imbalance of the consultation and by the specialist language and conventions the patient is expected to already know. [^15] The counter is not a neutral version of a conversation. It is the hardest version.
+Shaw, Doherty and colleagues gave that its own name in the clinical setting: a *triple empathy problem*, where the ordinary double empathy gap is widened further by the power imbalance of the consultation and by the specialist language and conventions the patient is expected to already know. [^15][^15a] The counter is not a neutral version of a conversation. It is the hardest version.
 
 Now add what happens after the interaction has gone badly enough times, because this is the step that is usually left as an assumption and does not need to be.
 
-Doherty and colleagues surveyed 507 autistic and 157 non-autistic adults about getting to a GP. [^16] Eighty per cent of the autistic respondents reported difficulty visiting one, against 37% of the non-autistic. Then look at which barriers they ranked highest. Difficulty making appointments by telephone, 62%. Not feeling understood, 56%. Difficulty communicating with the doctor, 53%. The waiting room environment, 51%.
+Doherty and colleagues surveyed 507 autistic and 157 non-autistic adults about getting to a GP. [^16][^16a] Eighty per cent of the autistic respondents reported difficulty visiting one, against 37% of the non-autistic. Then look at which barriers they ranked highest. Difficulty making appointments by telephone, 62%. Not feeling understood, 56%. Difficulty communicating with the doctor, 53%. The waiting room environment, 51%.
 
 And above all of them, at 72%: *deciding whether the symptoms warranted a visit at all.*
 
@@ -115,13 +115,13 @@ That is the highest-rated barrier in the study, and it happens before any contac
 
 The consequences the same study reports are not administrative. Autistic respondents reported untreated physical and mental health conditions, not attending specialist referrals or screening programmes, needing more extensive treatment or surgery because they presented late, and untreated conditions that were potentially life-threatening.
 
-There is no mystery about why the approach stops. van Asselt and colleagues, interviewing autistic adults about rejection sensitivity, recorded the experience as feeling constantly kicked down - an expectation of rejection built from a history of it, which then shapes what you are prepared to attempt. [^17] Büttner and colleagues examined whether repeated exclusion makes people hyposensitive or hypersensitive to further exclusion, and the answer is not that you get used to it. [^18] And the oldest description of the pattern is still the plainest: Abramson, Seligman and Teasdale's reformulation of learned helplessness, in which what is learned from repeated uncontrollable outcomes is not the specific failure but the general uselessness of trying. [^19]
+There is no mystery about why the approach stops. van Asselt and colleagues, interviewing autistic adults about rejection sensitivity, recorded the experience as feeling constantly kicked down - an expectation of rejection built from a history of it, which then shapes what you are prepared to attempt. [^17] Büttner and colleagues examined whether repeated exclusion makes people hyposensitive or hypersensitive to further exclusion, and the answer is not that you get used to it. [^18] And the oldest description of the pattern is still the plainest: Abramson, Seligman and Teasdale's reformulation of learned helplessness, in which what is learned from repeated uncontrollable outcomes is not the specific failure but the general uselessness of trying. [^19][^19a]
 
 None of that is unreasonable behaviour. It is accurate forecasting. A person who has been disbelieved by four doctors has good evidence about the fifth.
 
 And here is the trap that closes. When you stop approaching the counter, no record is made of a right denied. A record is made of a person who did not apply. Non-claim is filed as non-need, and the statistics that would show the problem instead show an absence of demand - which is then read, reasonably enough, as evidence that no service is required.
 
-Doherty's paper ends on the comparison that makes the point better than I can: adjustments for autism-specific needs are as necessary as ramps for wheelchair users. The difference is that nobody has to be persuaded a ramp was needed by counting the wheelchair users who did not come.
+Doherty's paper ends on the comparison that makes the point better than I can: adjustments for autism specific needs are as necessary as ramps for wheelchair users. The difference is that nobody has to be persuaded a ramp was needed by counting the wheelchair users who did not come.
 
 That is why I do not think "we are failing to protect the rights of autistic people" quite covers it. Nobody has to fail to protect anything. The rights sit on the shelf, formally universal, genuinely available, and reachable by a mechanism built for a mind that works differently to ours.
 
@@ -131,9 +131,9 @@ What follows is what that does across seven areas of adult life, and what happen
 
 Before any of the figures, a correction that has to come first, because without it everything after this reads as an argument that autistic people cannot manage.
 
-Here is what autism actually is, as defined by the people who define it. The DSM-5-TR requires persistent deficits in social communication and social interaction across multiple contexts - all three sub-criteria, no partial credit - together with restricted, repetitive patterns of behaviour, interests or activities, of which sensory hyper- or hypo-reactivity is one. Present from early development. Causing clinically significant impairment. [^20] The ICD-11 says substantially the same thing in its own words. [^21]
+Here is what autism actually is, as defined by the people who define it. The DSM-5-TR requires persistent deficits in social communication and social interaction across multiple contexts - all three sub-criteria, no partial credit - together with restricted, repetitive patterns of behaviour, interests or activities, of which sensory hyper- or hypo-reactivity is one. Present from early development. Causing clinically significant impairment. [^20][^20a] The ICD-11 says substantially the same thing in its own words. [^21][^21a]
 
-Read those criteria again and notice what is not in them. Nothing about employment. Nothing about income, housing, mood, self-harm or life expectancy. Not one clause about being unable to work.
+Read those criteria again and notice what is *not* in them. Nothing about employment. Nothing about income, housing, mood, self-harm or life expectancy. Not one clause about being unable to work.
 
 So every number here is measuring something the diagnosis does not describe. That is worth saying out loud, because the shorthand does the opposite. *Autistic people are unemployed at six times the general rate* is a true sentence that arrives in the reader's head as a fact about autistic people, when what it records is an outcome that happened to them.
 
@@ -143,7 +143,7 @@ What gets bundled together as "autism outcomes" is at least three different kind
 
 **The constitutional part** is the criteria themselves. Communication that runs on a different protocol, senses tuned to a different setting, a mind that works by depth rather than breadth. Present from the start. Not anybody's doing, not curable, and genuinely disabling in a world built to other specifications - I am not going to soften that, and the whole of Part 2 depends on it being real.
 
-**The co-occurring part** is the set of conditions that travel alongside at elevated rates, some of them sharing biological origins with autism rather than being caused by it. Lai and colleagues pooled 96 studies and put attention deficit hyperactivity disorder at 28%, anxiety disorders at 20%, sleep-wake disorders at 13%, and depressive disorders at 11% - all well above general population rates. [^22]
+**The co-occurring part** is the set of conditions that travel alongside at elevated rates, some of them sharing biological origins with autism rather than being caused by it. Lai and colleagues pooled 96 studies and put attention deficit hyperactivity disorder (ADHD) at 28%, anxiety disorders at 20%, sleep-wake disorders at 13%, and depressive disorders at 11% - all well above general population rates. [^22][^22a]
 
 **The acquired part** is what happens to a person who lives as the first thing, in a world arranged for neither. Anxiety built from being wrong-footed daily. Depression built from failing at things everybody else finds automatic. Burnout. Trauma. Botha and Frost's minority stress work is precisely about this route: harm arriving through social position rather than through neurology. [^23]
 
@@ -181,19 +181,19 @@ Article 23 gives everyone the right to work, to free choice of employment, and t
 
 Take Article 23 first, because the numbers are the strongest anywhere in this argument.
 
-The Australian Bureau of Statistics, in its 2022 disability survey, put the unemployment rate for working-age autistic people at 18.2%. For people with disability generally it was 7.5%. For people without disability, 3.1%. Labour force participation was 50.2%, against 84.9% for people without disability. [^25] So half of working-age autistic Australians are not in the labour market at all, and of the half who are, close to one in five cannot get work.
+The Australian Bureau of Statistics, in its 2022 disability survey, put the unemployment rate for working-age autistic people at 18.2%. For people with disability generally it was 7.5%. For people without disability, 3.1%. Labour force participation was 50.2%, against 84.9% for people without disability. [^25][^25a] So half of working-age autistic Australians are not in the labour market at all, and of the half who are, close to one in five cannot get work.
 
 Those two rates are usually quoted separately, and quoting them separately hides the answer to the obvious question. Participation tells you who is in the labour market. Unemployment tells you what share of *those people* cannot find work. Multiply them out and you get the number nobody states: **about 41% of working-age autistic Australians are actually employed.** [^g]
 
-Do the same arithmetic for people without disability - 84.9% participating, 3.1% of them unemployed - and you get about 82%.
+Do the same calculation for people without disability - 84.9% participating, 3.1% of them unemployed - and you get about 82%.
 
 Two in five of us are in work. Four in five of everyone else.
 
 Read that with Part 3 in hand. The half sitting outside the labour market entirely are not a clinical finding - they are a withdrawal, with a history behind it.
 
-I want to be clear that the 41% is my calculation, not a published Bureau figure. It is derived by combining two rates the Bureau does publish, and it carries whatever assumptions sit underneath them. [^g] But the arithmetic is not controversial, and the reason it is worth doing is that the two published numbers are individually survivable in a way their product is not. An 18.2% unemployment rate sounds like a bad labour market. A 50.2% participation rate sounds like a lifestyle statistic. Together they say that the majority of autistic adults of working age are not working, and that is a different sentence entirely.
+I want to be clear that the 41% is my calculation, not a published Bureau figure. It is derived by combining two rates the Bureau does publish, and it carries whatever assumptions sit underneath them. [^g] But the mathematics is not controversial, and the reason it is worth doing is that the two published numbers are individually survivable in a way their product is not. An 18.2% unemployment rate sounds like a bad labour market. A 50.2% participation rate sounds like a lifestyle statistic. Together they say that the majority of autistic adults of working age are not working, and that is a different sentence entirely.
 
-The United Kingdom produces the same shape. Its official statistics show autistic people with the lowest employment rate of any disability group, by a wide margin - a figure that has been reported around the low twenties and, on more recent definitions, in the mid thirties, against roughly half for disabled people overall and around eighty per cent for non-disabled people. [^26] [^h]
+The United Kingdom produces the same shape. Its official statistics show autistic people with the lowest employment rate of any disability group, by a wide margin - a figure that has been reported around the low twenties and, on more recent definitions, in the mid-thirties, against roughly half for disabled people overall and around eighty per cent for non-disabled people. [^26][^h]
 
 The peer-reviewed work agrees and adds the time dimension. Bury and colleagues followed 2,449 autistic adults across eight annual waves and found that the single largest employment trajectory was stable unemployment: 1,189 people, staying there. [^27] Baldwin, Costley and Warren surveyed 130 Australian autistic adults and found people with the capacity and the willingness to work, facing significant labour market disadvantage, working below their qualifications. [^28]
 
@@ -201,9 +201,9 @@ That last finding is the one that matters for the article as written. Article 23
 
 Now Article 24, which nobody thinks of as an autism issue.
 
-Rest is not the absence of work. It is what has to happen after work for the person to be usable tomorrow. Autistic burnout is the failure of that recovery, and it is now defined rather than merely described. Raymaker and colleagues characterised it as exhaustion of internal resources beyond measure, with loss of function and reduced tolerance to stimulus; Higgins and colleagues, working with autistic people through a Delphi process, produced a similar definition anchored in lived experience. [^29] [^30] The consistent feature is that it follows sustained masking and unaccommodated demand, and that ordinary rest does not fix it.
+Rest is not the absence of work. It is what has to happen after work for the person to be usable tomorrow. Autistic burnout is the failure of that recovery, and it is now defined rather than merely described. Raymaker and colleagues characterised it as exhaustion of internal resources beyond measure, with loss of function and reduced tolerance to stimulus; Higgins and colleagues, working with autistic people through a Delphi process, produced a similar definition anchored in lived experience. [^29][^30] The consistent feature is that it follows sustained masking and unaccommodated demand, and that ordinary rest does not fix it.
 
-Which produces something the Declaration did not anticipate. Reasonable limitation of working hours is set to a body that recovers at the standard rate. If eight hours of unaccommodated open-plan work costs you what twelve costs someone else, then a legally compliant week is already an overrun, and the limitation that is supposed to protect you has been set at the wrong number. There is no violation to point at. The protection simply does not fit.
+Which produces something the Declaration did not anticipate. Reasonable limitation of working hours is set to a body that recovers at the standard rate. If eight hours of unaccommodated open plan work costs you what twelve costs someone else, then a legally compliant week is already an overrun, and the limitation that is supposed to protect you has been set at the wrong number. There is no violation to point at. The protection simply does not fit.
 
 And this is where the counter reappears. The fix for both articles is an adjustment, and an adjustment has to be asked for - which requires disclosure, which requires the diagnosis from Part 1, and which then requires you to conduct the conversation with the person who controls your income. Pryke-Hobbes and colleagues found that autistic adults describe work as the setting where masking is least optional, precisely because you cannot choose your colleagues, cannot leave when it becomes too much, and have your income riding on the performance. [^31] Cage and Troxell-Whitman found the same: masking is heaviest where the stakes are highest. [^32]
 
@@ -217,7 +217,7 @@ Start with medical care, because Part 2 predicts exactly what happens and the ev
 
 Arnold and colleagues compared 263 autistic and 70 non-autistic Australian adults on a checklist of barriers to healthcare. The autistic group reported an average of 4.58 barriers each. The non-autistic group reported 0.76. [^6] The barriers themselves are the ones Part 2 predicts: fear and anxiety about the appointment, difficulty communicating with the provider, and difficulty navigating the system to get to them. None of that is a denial of care. It is a delivery mechanism - a short verbal consultation with a stranger, in a bright room, under time pressure - that is close to the worst possible design for the population using it.
 
-The consequence shows up in the diagnostic record before it shows up anywhere else. Fusar-Poli and colleagues catalogued the missed and mistaken diagnoses that autistic adults accumulate on the way to the right one; Kentrou and colleagues found perceived misdiagnosis of psychiatric conditions to be common in autistic adults. [^33] [^34] Years of treatment for the wrong thing is not a failure of access. It is access, working as designed, on a mind the design did not consider.
+The consequence shows up in the diagnostic record before it shows up anywhere else. Fusar-Poli and colleagues catalogued the missed and mistaken diagnoses that autistic adults accumulate on the way to the right one; Kentrou and colleagues found perceived misdiagnosis of psychiatric conditions to be common in autistic adults. [^33][^34] Years of treatment for the wrong thing is not a failure of access. It is access, working as designed, on a mind the design did not consider.
 
 Then housing, which is where Article 25 stops being abstract.
 
@@ -229,17 +229,17 @@ Put Part 4 next to it and the sequence is not hard to see. Half out of the labou
 
 Australia has an answer to all of that, and it is the National Disability Insurance Scheme - the largest disability support system this country has ever built, and worth looking at closely, because it delivers Article 25 and demonstrates the gate at the same time.
 
-Autism is the single most common primary disability in the NDIS. On the Agency's 2026 figures it accounts for around 35% of participants, some 214,880 people - the largest group in the scheme by a distance. And roughly 78% of them are aged eighteen or under. [^36] [^i]
+Autism is the single most common primary disability in the NDIS. On the Agency's 2026 figures it accounts for around 35% of participants, some 214,880 people - the largest group in the scheme by a distance. And roughly 78% of them are aged eighteen or under. [^36][^i]
 
 So the scheme that stands for Australia's commitment to Article 25 is, for autistic people, overwhelmingly a children's scheme. That is not a scandal in itself - early support is good and I am not arguing against it. But it means the adult autistic population, the one with the employment figures in Part 4 and the mortality figures in Part 11, is largely outside the main instrument built to help. To get in you need a diagnosis, which is Part 1, and then you need to demonstrate permanent and significant functional impairment, in an assessment, by explaining yourself to an assessor - which is Part 2, at a counter, with the whole thing riding on it.
 
-And it is not only that there are fewer adults in it. The supports themselves are shaped for the children. The autism offering Australians recognise - speech pathology, occupational therapy, early intervention - is developmental in design: it exists to alter the trajectory of a child who is still forming one, and it is delivered to the under-nines through a distinct early childhood pathway that has no adult counterpart. An adult can be funded for therapy, but only from inside the scheme, only where it is judged reasonable and necessary, and against a model that was not built with them in mind. For the late-diagnosed there is no trajectory left to intervene in, which is precisely the group's defining feature and precisely what the instrument has least to say about.
+And it is not only that there are fewer adults in it. The supports themselves are shaped for the children. The autism offering Australians recognise - speech pathology, occupational therapy, early intervention - is developmental in design: it exists to alter the trajectory of a child who is still forming one, and it is delivered to the under-nines through a distinct early childhood pathway that has no adult counterpart. An adult can be funded for therapy, but only from inside the scheme, only where it is judged reasonable and necessary, and against a model that was not built with them in mind. For the late diagnosed there is no trajectory left to intervene in, which is precisely the group's defining feature and precisely what the instrument has least to say about.
 
 Then there is how you get in, which is where it becomes specific to the people I am writing about.
 
 The Agency assesses access through two lists. List A holds conditions taken to meet the disability requirements of the Act automatically. List B holds permanent conditions where functional capacity varies and further assessment is generally required. [^j] Autism diagnosed at Level 2 or Level 3 sits on List A. Level 1 sits on List B, which means the applicant must demonstrate substantially reduced functional capacity in at least one prescribed domain before anything else happens.
 
-Now consider who gets diagnosed at Level 1 in their forties and fifties. By definition, the people whose support needs were never obvious enough to be noticed in childhood - which is to say the people who compensated, at the cost documented in the masking literature and in Part 4's burnout research. [^31] [^32]
+Now consider who gets diagnosed at Level 1 in their forties and fifties. By definition, the people whose support needs were never obvious enough to be noticed in childhood - which is to say the people who compensated, at the cost documented in the masking literature and in Part 4's burnout research. [^31][^32]
 
 So the evidence required is evidence of not coping, and the late-diagnosed adult's history is a record of coping. Thirty years of holding down employment, of raising children, of getting through, reads to an assessor as capacity. It was capacity, in the sense that the tasks got done. It was also the thing that produced the exhaustion, the misdiagnoses and the eventual collapse that sent the person for assessment in the first place - and none of that is legible in the form.
 
@@ -247,7 +247,7 @@ The better you masked, the weaker your claim. That is the whole of it in one adm
 
 And even for those who get in, Part 7 will show what tends to arrive is not what was asked for. [^37]
 
-And the instrument is being reshaped as I write this. The National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill, introduced in 2026, proceeds from the stated premise that the scheme "was set up to support people with permanent and significant disability, but has grown too much and now covers many Australians with less significant support needs". [^38] From 1 January 2028, eligibility will turn on a standardised assessment of functional capacity, and everyone already in the scheme - adults included - will be reassessed against the new criteria progressively over the following three years.
+And the instrument is being reshaped as I write this. The National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill, introduced in 2026, proceeds from the stated premise that the scheme "was set up to support people with permanent and significant disability, but has grown too much and now covers many Australians with less significant support needs". [^38][^38a] From 1 January 2028, eligibility will turn on a standardised assessment of functional capacity, and everyone already in the scheme - adults included - will be reassessed against the new criteria progressively over the following three years.
 
 Most of the public argument about that reform has concerned children, and most of it should. The largest single change removes children aged eight and under with developmental delay or autism and low to moderate support needs from the scheme altogether, moving them to a new foundational supports programme. That is not my subject and I am not going to borrow its numbers. [^k]
 
@@ -335,7 +335,7 @@ Article 5 says no one shall be subjected to torture or to cruel, inhuman or degr
 
 Baron-Cohen reached for history here. I do not need to. Australia publishes the current numbers quarterly.
 
-Under the rules governing the NDIS, a restrictive practice is any practice that restricts the rights or freedom of movement of a person with disability. There are five regulated kinds: seclusion, chemical restraint, mechanical restraint, physical restraint and environmental restraint. Chemical restraint means medication given for the primary purpose of influencing behaviour, as distinct from treating a diagnosed condition. Providers must use them only as a last resort, with authorisation, and must report every use. [^42]
+Under the rules governing the NDIS, a restrictive practice is any practice that restricts the rights or freedom of movement of a person with disability. There are five regulated kinds: seclusion, chemical restraint, mechanical restraint, physical restraint and environmental restraint. Chemical restraint means medication given for the primary purpose of influencing behaviour, as distinct from treating a diagnosed condition. Providers must use them only as a last resort, with authorisation, and must report every use. [^42][^42a]
 
 In the quarter from January to March 2025, 15,552 NDIS participants were subject to authorised regulated restrictive practices - 2.2% of everyone in the scheme at that time. The count has risen every quarter since reporting began in this form, from 14,577 in late 2023. [^42]
 
@@ -357,11 +357,11 @@ Put that beside Articles 10 and 11. A fair hearing assumes a person who can pres
 
 Which brings me to the thing Baron-Cohen asked for.
 
-In 2017 he closed his address with three calls. The first was for an investigation into the violation of human rights of autistic people. [^a]
+In 2017 he closed his address with three calls. The first was for an investigation into the violation of human rights of autistic people. [^0]
 
 Australia held one. The Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability ran for four and a half years, took evidence from thousands of people, and delivered a final report in September 2023: twelve volumes, 222 recommendations. [^47] It is, as far as I know, the largest inquiry of its kind conducted anywhere.
 
-In July 2024 the Commonwealth released its response. Of the 222 recommendations, 84 fell solely to the Commonwealth, 85 were joint with the states and territories, 50 were entirely for the states and territories, and 3 were shared with non-government organisations. The Commonwealth accepted or accepted in principle 130. A further 36 were left for later consideration, and the remainder noted. [^48]
+In July 2024 the Commonwealth released its response. Of the 222 recommendations, 84 fell solely to the Commonwealth, 85 were joint with the states and territories, 50 were entirely for the states and territories, and 3 were shared with non-government organisations. The Commonwealth accepted or accepted in principle 130. A further 36 were left for later consideration, and the remainder noted. [^48][^48a]
 
 I want to be fair about this. It is not nothing. The response carried real money - $227.6 million for a new specialist disability employment program, $39.7 million for disability advocacy, $6.9 million to review the Disability Discrimination Act, and $1.2 million to develop targets to reduce and eliminate restrictive practices. [^48]
 
@@ -387,7 +387,7 @@ So the interesting question is not whether the accommodation exists. It does. Th
 
 You apply. In advance. On stated grounds.
 
-Here are the grounds. To register as a general postal voter you must be unable to attend a polling place because you are: enrolled more than 20 km from one; a patient in a hospital or nursing home and unable to travel; unable to travel due to being infirm at home; caring for a seriously ill or infirm person; serving a prison sentence of less than three years; a silent elector; prevented by religious beliefs; unable to sign your name due to physical incapacity; an overseas elector; serving abroad with the defence force or the federal police; *an elector with disability and unable to travel to a polling place from the place you live*; or caring for a person with disability. [^49] [^n]
+Here are the grounds. To register as a general postal voter you must be unable to attend a polling place because you are: enrolled more than 20 km from one; a patient in a hospital or nursing home and unable to travel; unable to travel due to being infirm at home; caring for a seriously ill or infirm person; serving a prison sentence of less than three years; a silent elector; prevented by religious beliefs; unable to sign your name due to physical incapacity; an overseas elector; serving abroad with the defence force or the federal police; *an elector with disability and unable to travel to a polling place from the place you live*; or caring for a person with disability. [^49][^49a][^n]
 
 Read that list again with an autistic voter in mind, and notice the verb. *Travel.* Unable to travel. Infirm. Physical incapacity. Every disability-related ground on it is written in the vocabulary of getting there.
 
@@ -397,7 +397,7 @@ So the autistic voter has three options. Attend, and pay the cost. Do not attend
 
 This is also one of the few places in these pages where looking abroad produces something other than a matching set of failures.
 
-The United Kingdom abolished the grounds test in 2001. Any registered elector in Great Britain can have a postal vote for the asking - no reason, no category to fit into, no need to decide whether you count as disabled. [^50] Canada is the same: any elector may vote by mail without giving an excuse. [^51] The United States depends entirely on where you live. Around twenty-eight states let any voter request a mail ballot and another eight run all-mail elections, while roughly fourteen still require an excuse - and where those excuse lists survive they read almost exactly like Australia's, turning on being incapacitated or confined by illness or physical disability. [^52]
+The United Kingdom abolished the grounds test in 2001. Any registered elector in Great Britain can have a postal vote for the asking - no reason, no category to fit into, no need to decide whether you count as disabled. [^50] Canada is the same: any elector may vote by mail without giving an excuse. [^51] The United States depends entirely on where you live. Around twenty-eight states let any voter request a mail ballot and another eight run all-mail elections, while roughly fourteen still require an excuse - and where those excuse lists survive they read almost exactly like Australia's, turning on being incapacitated or confined by illness or physical disability. [^52][^52a]
 
 So the barrier is not inherent to postal voting, or to compulsory voting, or to disability. It is a drafting decision, and two comparable countries have already unmade it. Where the grounds test is gone, the autistic voter's problem shrinks to knowing the option exists and meeting the deadline. That is still the self-service problem from Part 2 - but it is a very much smaller version of it, and it costs nothing to remove.
 
@@ -407,13 +407,13 @@ What nobody can tell you is how often each of those things happens, because it h
 
 So the honest position is narrower than the one I began with, and it is still worth stating. Australia has built the accommodation, written its entry criteria in a language that does not describe us, and never asked the people concerned whether it works.
 
-Article 27 is in a similar state, and I am wary here for a different reason. Autistic adults do participate in culture, intensely; Grove and colleagues found special interests associated with higher subjective wellbeing, and Botha, Dibb and Frost described autistic community connectedness as a genuine culture with its own belonging and politics, not a support group. [^54] [^55] There is no deficit to report and I am not going to invent one.
+Article 27 is in a similar state, and I am wary here for a different reason. Autistic adults do participate in culture, intensely; Grove and colleagues found special interests associated with higher subjective wellbeing, and Botha, Dibb and Frost described autistic community connectedness as a genuine culture with its own belonging and politics, not a support group. [^54][^55] There is no deficit to report and I am not going to invent one.
 
 What is worth saying is narrower. Cultural participation in the public sense costs money and social access - a ticket, a companion, transport, an environment you can tolerate - and Parts 4 and 5 removed most of those. Article 27 is not being blocked. It is being priced out, downstream.
 
-Although at the moment it is also being priced out rather more directly. Under the reforms described in Part 5, from October 2026 NDIS budget allocations for social, civic and community participation supports are reduced by 50%, and capacity building daily activity allocations by 10%, with critical daily-living supports left untouched. [^38] The logic is clear enough - these are the supports least like personal care and most like discretionary spending. But the line the reform draws is a line between staying alive and having a life, and Article 27 is on the far side of it.
+Although at the moment it is also being priced out rather more directly. Under the reforms described in Part 5, from October 2026 NDIS budget allocations for social, civic and community participation supports are reduced by 50%, and capacity building daily activity allocations by 10%, with critical daily living supports left untouched. [^38] The logic is clear enough - these are the supports least like personal care and most like discretionary spending. But the line the reform draws is a line between staying alive and having a life, and Article 27 is on the far side of it.
 
-I have flagged both of these as thin deliberately. An argument of this kind is under pressure to claim a violation everywhere it looks, and the correct answer for two of these articles is *nobody has measured it*. That absence is a finding. Baron-Cohen's third call was that we should continuously ask autistic people what their lives are like. [^a] Nine years on, on the article that governs how a citizen participates in their own government, in a country that compels it, we have not asked.
+I have flagged both of these as thin deliberately. An argument of this kind is under pressure to claim a violation everywhere it looks, and the correct answer for two of these articles is *nobody has measured it*. That absence is a finding. Baron-Cohen's third call was that we should continuously ask autistic people what their lives are like. [^0] Nine years on, on the article that governs how a citizen participates in their own government, in a country that compels it, we have not asked.
 
 ## <small class="text-body-tertiary">Part 11: </small><br>Article 3
 
@@ -447,7 +447,7 @@ Article 3 reads like a protection against what others do to you. Nobody killed t
 
 Three answers.
 
-**The first is legal.** The right to life has never been read as purely negative. States are understood to carry positive obligations to protect life, not merely to refrain from taking it. And where disability is concerned, the Convention makes explicit what is elsewhere implied: Article 10 requires States Parties not only to reaffirm the inherent right to life but to *take all necessary measures to ensure its effective enjoyment by persons with disabilities on an equal basis with others*. [^61] Effective enjoyment is not a promise to leave you alone. It is a duty to do something, and it is owed to this group by name.
+**The first is legal.** The right to life has never been read as purely negative. States are understood to carry positive obligations to protect life, not merely to refrain from taking it. And where disability is concerned, the Convention makes explicit what is elsewhere implied: Article 10 requires States Parties not only to reaffirm the inherent right to life but to *take all necessary measures to ensure its effective enjoyment by persons with disabilities on an equal basis with others*. [^61][^61a] Effective enjoyment is not a promise to leave you alone. It is a duty to do something, and it is owed to this group by name.
 
 **The second is empirical.** If the elevated rate were a property of autism itself, the predictors would be internal. They are not. The constructs that come up are thwarted belonging and perceived burdensomeness - both descriptions of a person's position relative to other people. [^60] Camouflaging, which is a response to how others react. [^59] Minority stress, which Botha and Frost define as operating through social position rather than through anything intrinsic. [^23] Unmet support needs. Undiagnosed status. Every one of those is a variable somebody else controls, and not one of them is a symptom.
 
@@ -511,7 +511,7 @@ Now notice what the record shows at the end of it, because the answer is almost 
 
 If they never claim, nothing is refused, so nothing is written down. Every institution in the chain applied its own rules correctly to what was in front of it, and would say so, and would be right.
 
-And if they do claim - if they do the hard thing, and lodge the complaint, and sit in the hearing - then there is a meeting, and an officer, and a letter, and somebody does say no. But look at what is being refused. Not the right. The standing to assert it. The finding is that the attribute was not established, which is not a ruling that the discrimination did not happen; it is a ruling that the question will not be reached. [^2] [^3]
+And if they do claim - if they do the hard thing, and lodge the complaint, and sit in the hearing - then there is a meeting, and an officer, and a letter, and somebody does say no. But look at what is being refused. Not the right. The standing to assert it. The finding is that the attribute was not established, which is not a ruling that the discrimination did not happen; it is a ruling that the question will not be reached. [^2]
 
 Two exits, opposite in every respect, arriving at the same silence. One produces no record because nobody was asked. The other produces a record of the wrong question being answered. Ten articles go missing, and in neither case does any document anywhere say that a right was denied to an autistic adult.
 
@@ -531,11 +531,11 @@ That is exactly the failure mode to avoid. A claim that every article is violate
 
 **The second is that much of this is not about autism.**
 
-Take the cascade in Part 12 and ask which links are autism-specific. Unemployment leading to housing insecurity leading to social isolation is not an autism mechanism. It is what poverty does to anyone. Bureaucratic systems that demand humiliating disclosure are not aimed at us; that is how means-tested support works for every claimant. Restrictive practices affect disabled people across every diagnostic category, most of them not autistic.
+Take the cascade in Part 12 and ask which links are autism specific. Unemployment leading to housing insecurity leading to social isolation is not an autism mechanism. It is what poverty does to anyone. Bureaucratic systems that demand humiliating disclosure are not aimed at us; that is how means-tested support works for every claimant. Restrictive practices affect disabled people across every diagnostic category, most of them not autistic.
 
-An honest version separates three things - a different cut from the one in Part 3, across the same material. Some of this is *general* - it would happen to any poor person. Some is *disability-general* - it happens to disabled people as a class. And some is *autism-specific*.
+An honest version separates three things - a different cut from the one in Part 3, across the same material. Some of this is *general* - it would happen to any poor person. Some is *disability-general* - it happens to disabled people as a class. And some is *autism specific*.
 
-The autism-specific part is narrower than the length of all this implies, and it is Part 2. It is that the access mechanism for every one of these rights is a social interaction, and social interaction is the impairment by definition. A wheelchair user faces a building problem, and a building problem has a building solution that can be legislated, funded and inspected. Our problem is that the door is a conversation. That is the claim that is actually ours, and everything else here is what it does when it meets systems that were going to be hard anyway.
+The autism specific part is narrower than the length of all this implies, and it is Part 2. It is that the access mechanism for every one of these rights is a social interaction, and social interaction is the impairment by definition. A wheelchair user faces a building problem, and a building problem has a building solution that can be legislated, funded and inspected. Our problem is that the door is a conversation. That is the claim that is actually ours, and everything else here is what it does when it meets systems that were going to be hard anyway.
 
 **The third is legal, and it is the most serious.**
 
@@ -555,9 +555,9 @@ One more, which is mine rather than an objection I expect from others. Almost ev
 
 ## <small class="text-body-tertiary">In closing: </small><br>Everyone
 
-My diagnosis was bought. Around three thousand dollars, and eight months of waiting, in my late fifties, after a thirty-year career I had built without knowing what I was.
+My diagnosis was bought. A few thousand dollars, and eight months of waiting, in my early fifties, after a thirty-year career I had built without knowing what I was.
 
-I want to be exact about that, because the previous part accused everyone else's evidence of survivorship and it would be poor form to exempt myself. I am in these pages as one of the people who got through the gate, and I got through it the way the others did - not by qualifying for anything, not because a system decided I was owed an assessment, but because when the money was needed it turned out to be findable. That is luck. It is the same luck that put the participants into every study cited above, and it is invisible from the inside, which is exactly what makes it worth naming.
+I want to be exact about that, because the previous part accused everyone else's evidence of survivorship and it would be poor form to exempt myself. I am in these pages as one of the people who initially got through the gate, and I got through it the way the others did - not by qualifying for anything, not because a system decided I was owed an assessment, but because when the money was needed it turned out to be findable. That is luck. It is the same luck that put the participants into every study cited above, and it is invisible from the inside, which is exactly what makes it worth naming.
 
 Until that report existed, nothing written here applied to me in any way a system would recognise. The report is the reason I can write this at all. It is not a reason I earned.
 
@@ -611,13 +611,17 @@ Everyone who can prove it.
 
 ---
 
-[^a]: Baron-Cohen, S. (2017, April 3). *Autism and the universal pursuit of human rights* [Keynote address]. World Autism Awareness Day, United Nations, New York. <https://webtv.un.org/en/asset/k17/k173sityj1> - I have worked from the recording and a transcript of it. Quotations of his three closing calls are from that address. See also the University of Cambridge summary of the address at <https://www.cam.ac.uk/research/news/human-rights-of-people-with-autism-not-being-met-leading-expert-tells-united-nations>. This is a speech rather than a peer-reviewed source, and I have used it as the thing this argument responds to rather than as evidence for any factual claim.
+[^0]: UNTelevision Broadcast Services, & Baron-Cohen, S. (2017). *Autism and the universal pursuit of human rights. [Keynote address].* World Autism Awareness Day, United Nations, New York. <https://webtv.un.org/en/asset/k17/k173sityj1>
+
+[^a1]: I have worked from the recording and a transcript of it. Quotations of his three closing calls are from that address. See also the University of Cambridge summary of the address. [^a2] This is a speech rather than a peer-reviewed source, and I have used it as the thing this argument responds to rather than as evidence for any factual claim.
+
+[^a2]: University of Cambridge. (2017). *Human rights of people with autism not being met, leading expert tells United Nations.* <https://www.cam.ac.uk/research/news/human-rights-of-people-with-autism-not-being-met-leading-expert-tells-united-nations>
 
 [^b]: The figure of roughly $2,000 to $3,500 is drawn from the Sydney private market as I encountered it in 2024, and from published fee schedules of Australian private practices. It is not a surveyed national average and should not be read as one; costs vary widely by practitioner, by whether a full written report is included, and by what Medicare rebate, if any, applies. My own eight-month wait is a single data point about one person in one city. I have included both because the peer-reviewed Australian work cited alongside them establishes the pattern - cost and delay as principal barriers - without publishing current dollar figures, and a reader is entitled to know what the numbers actually look like on the ground.
 
 [^c]: NHS England notes a data quality issue in this release: one provider submitted incomplete data for March 2026, which reduced the England-level figure by around 2%. The corrected figure is expected to be higher, not lower, so the number quoted is conservative. These are official statistics in development rather than peer-reviewed research, and I have used them because they are the primary source for the measure.
 
-[^d]: The remark is from the University of Cambridge's media release accompanying publication of the coroner study, where Baron-Cohen is quoted as saying: "We published the preliminary data on elevated suicide rates back in 2014 as a wake-up call to governments, and yet nothing has been done." <https://www.cam.ac.uk/research/news/study-reveals-high-rate-of-possible-undiagnosed-autism-in-people-who-died-by-suicide> - a press statement rather than a peer-reviewed claim, and used here as his own assessment of what followed his 2014 findings, not as evidence about government activity. The same release quotes a figure of twenty years' reduced life expectancy; I have not used it, because it is considerably larger than the matched-cohort estimate at [^8] and I could not reconcile the two to a standard I would defend.
+[^d]: The remark is from the University of Cambridge's media release accompanying publication of the coroner study, where Baron-Cohen is quoted as saying: "We published the preliminary data on elevated suicide rates back in 2014 as a wake-up call to governments, and yet nothing has been done." <https://www.cam.ac.uk/research/news/study-reveals-high-rate-of-possible-undiagnosed-autism-in-people-who-died-by-suicide> - a press statement rather than a peer-reviewed claim, and used here as his own assessment of what followed his 2014 findings, not as evidence about government activity. The same release quotes a figure of twenty years' reduced life expectancy; I have not used it, because it is considerably larger than the matched cohort estimate from O’Nions [^8] and I could not reconcile the two to a standard I would defend.
 
 [^e]: A word about that acronym, because of all the words to collide with, it had to be this one.
 
@@ -645,6 +649,8 @@ Everyone who can prove it.
 
 [^k]: The children's programme is called Thriving Kids: $4 billion committed across five years, delivered by the states through health services, early childhood education and schools, with rollout beginning no later than 1 October 2026 and NDIS access changes commencing 1 January 2028. Children with high support needs remain eligible for the scheme, and children already enrolled continue under the previous criteria until they turn nine. [^63] Departmental documents released under freedom of information, reported in July 2026, projected around 241,000 participants leaving the scheme by mid-2031, roughly 60% of them with autism or developmental delay as primary disability and almost two-thirds aged eighteen or under. I have deliberately kept those figures out of the body. They are internal projections rather than published statistics, they model thresholds that had not been set when they were written, and - the reason that matters here - the large majority of the people they describe are children, which makes them a poor fit for an argument about adults. Quoting 144,600 to an adult-focused readership would be leaning on a number whose weight comes from a population it is not discussing.
 
+     State services commence rollout no later than 1 October 2026, at scale from 1 January 2028, with NDIS access changes commencing 1 January 2028 and requiring amendment of the *National Disability Insurance Scheme Act 2013* (Cth).
+
 [^l]: I am describing how the requirement operates rather than quoting a published rule. What the scheme asks for is evidence of a permanent impairment and its functional impact, provided by a treating professional, and in practice that is discharged by supplying the diagnostic report - a single document containing everything described above, none of it separable from the rest. Requirements vary by pathway and by assessor, and I would not claim a summary is never accepted anywhere. What I am confident of is the direction. The path of least resistance is to hand over the whole report, because assembling anything narrower means going back to a clinician, paying again and waiting again. So the privacy cost is not imposed by a rule. It is produced by the cost of avoiding it - which is a different thing, and much harder to complain about.
 
 [^m]: Quotations from participants are the pseudonymised extracts published in the paper, and I have kept the authors' capitalisation of "Autistic" inside quoted material while using lower case in my own prose, as elsewhere on this site. The study reports that it did not collect systematic data on when participants recognised or received their diagnoses, so my observation that several pursued assessment after becoming parents follows the authors' own characterisation of the narratives rather than a counted figure. The claim that no peer-reviewed study of autistic fathers' parenting existed before this one is the authors' statement of the position, supported by their citation of recent systematic reviews; I have not independently replicated that search.
@@ -653,11 +659,15 @@ Everyone who can prove it.
 
 [^o]: Northern Ireland retains a grounds test for postal voting, available where it would be unreasonable to expect the voter to attend a polling station because of employment, disability or education - so the same jurisdiction contains both approaches, for reasons specific to its electoral history rather than to disability policy. Nor is the United Kingdom a model overall: the *Elections Act 2022* introduced a photo identification requirement for voting in person in Great Britain, which is a new access question of its own. I have not attempted to evaluate its effects and take no position on them here; I raise it only so that "the UK removed a barrier" is not read as "the UK has no barriers".
 
-[^1]: United Nations General Assembly. (1948). *Universal Declaration of Human Rights* (General Assembly resolution 217 A). United Nations. <https://www.un.org/en/about-us/universal-declaration-of-human-rights> - the Declaration is a General Assembly resolution rather than a treaty, and is not itself binding in international law. Article references throughout are to the official English text.
+[^1]: United Nations General Assembly. (1948). *Universal Declaration of Human Rights* (General Assembly resolution 217 A). United Nations. <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
 
-[^2]: *Disability Discrimination Act 1992* (Cth), s 4(1). The definition of "disability" extends to a disability that presently exists, that previously existed but no longer exists, that may exist in the future, or that is imputed to a person. <https://www.legislation.gov.au/C2004A04426> - legislation rather than a peer-reviewed source, cited for what the section says.
+[^1a]: The Declaration is a General Assembly resolution rather than a treaty, and is not itself binding in international law. Article references throughout are to the official English text.
 
-[^3]: In Australian anti-discrimination proceedings the onus of proof rests on the complainant, who must establish both the protected attribute and that the treatment complained of occurred because of it. I am describing the general position rather than any single authority, and I have not conducted a survey of the case law. What I am not claiming is that a formal diagnosis is a legal requirement - it plainly is not, on the face of [^2]. The argument is about what it takes in practice to discharge an evidentiary burden of this kind, which is a different thing, and the gap between the two is the whole point of Part 1. A reader with contrary experience of how these matters run should treat my account as the layman's reading it is.
+[^2]: *Disability Discrimination Act 1992* (Cth), § 4(1) (1992). <https://www.legislation.gov.au/C2004A04426>
+
+[^2a]: The definition of "disability" extends to a disability that presently exists, that previously existed but no longer exists, that may exist in the future, or that is imputed to a person. Legislation rather than a peer-reviewed source, cited for what the section says.
+
+[^2b]: In Australian anti-discrimination proceedings the onus of proof rests on the complainant, who must establish both the protected attribute and that the treatment complained of occurred because of it. I am describing the general position rather than any single authority, and I have not conducted a survey of the case law. What I am not claiming is that a formal diagnosis is a legal requirement - it plainly is not, on the face of the Act [^2]. The argument is about what it takes in practice to discharge an evidentiary burden of this kind, which is a different thing, and the gap between the two is the whole point of Part 1. A reader with contrary experience of how these matters run should treat my account as the layman's reading it is.
 
 [^4]: Huang, Y., Arnold, S. R. C., Foley, K.-R., & Trollor, J. N. (2022). Choose your own adventure: Pathways to adulthood autism diagnosis in Australia. *Journal of Autism and Developmental Disorders*, *52*, 2984–2996. [DOI: 10.1007/s10803-021-05169-4](https://doi.org/10.1007/s10803-021-05169-4)
 
@@ -665,7 +675,9 @@ Everyone who can prove it.
 
 [^6]: Arnold, S. R. C., Bruce, G., Weise, J., Mills, C. J., Trollor, J. N., & Coxon, K. (2024). Barriers to healthcare for Australian autistic adults. *Autism*, *28*(2), 301–315. [DOI: 10.1177/13623613231168444](https://doi.org/10.1177/13623613231168444)
 
-[^7]: NHS England Digital. (2026). *Autism statistics, April 2025 to March 2026*. NHS England. <https://digital.nhs.uk/data-and-information/publications/statistical/autism-statistics/april-2025-to-march-2026> - official statistics in development. The thirteen-week standard referred to is the NICE recommendation for time from referral to first assessment appointment.
+[^7]: N. H. S. England Digital. (2026). *Autism statistics, April 2025 to March 2026*. NHS England. <https://digital.nhs.uk/data-and-information/publications/statistical/autism-statistics/april-2025-to-march-2026>
+
+[^7a]: Official statistics in development. The thirteen-week standard referred to is the NICE recommendation for time from referral to first assessment appointment.
 
 [^8]: O'Nions, E., Petersen, I., Buckman, J. E. J., Charlton, R., Cooper, C., Corbett, A., Happé, F., Manthorpe, J., Richards, M., Saunders, R., Zanker, C., Mandy, W., & Stott, J. (2024). Estimating life expectancy and years of life lost for autistic people in the UK: A matched cohort study. *The Lancet Regional Health – Europe*, *36*, 100776. [DOI: 10.1016/j.lanepe.2023.100776](https://doi.org/10.1016/j.lanepe.2023.100776)
 
@@ -681,29 +693,43 @@ Everyone who can prove it.
 
 [^14]: Crompton, C. J., Ropar, D., Evans-Williams, C. V., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. *Autism*, *24*(7), 1704–1712. [DOI: 10.1177/1362361320919286](https://doi.org/10.1177/1362361320919286)
 
-[^15]: Shaw, S. C. K., Carravallah, L., Johnson, M., O'Sullivan, J., Chown, N., Neilson, S., & Doherty, M. (2024). Barriers to healthcare and a 'triple empathy problem' may lead to adverse outcomes for autistic adults: A qualitative study. *Autism*, *28*(7), 1746–1757. [DOI: 10.1177/13623613231205629](https://doi.org/10.1177/13623613231205629) - the reported themes include early barriers, communication mismatch, doubt in oneself and from doctors, helplessness and fear, and healthcare avoidance.
+[^15]: Shaw, S. C. K., Carravallah, L., Johnson, M., O'Sullivan, J., Chown, N., Neilson, S., & Doherty, M. (2024). Barriers to healthcare and a 'triple empathy problem' may lead to adverse outcomes for autistic adults: A qualitative study. *Autism*, *28*(7), 1746–1757. [DOI: 10.1177/13623613231205629](https://doi.org/10.1177/13623613231205629)
 
-[^16]: Doherty, M., Neilson, S., O'Sullivan, J., Carravallah, L., Johnson, M., Cullen, W., & Shaw, S. C. K. (2022). Barriers to healthcare and self-reported adverse outcomes for autistic adults: A cross-sectional study. *BMJ Open*, *12*(2), e056904. [DOI: 10.1136/bmjopen-2021-056904](https://doi.org/10.1136/bmjopen-2021-056904) - an online survey distributed through social media, so the sample is self-selected and skewed towards people who are online, articulate and connected to autistic community spaces. The authors report no significant differences in barriers or outcomes between formally diagnosed and self-identifying respondents, which is itself relevant to Part 1.
+[^15a]: The reported themes include early barriers, communication mismatch, doubt in oneself and from doctors, helplessness and fear, and healthcare avoidance.
+
+[^16]: Doherty, M., Neilson, S., O'Sullivan, J., Carravallah, L., Johnson, M., Cullen, W., & Shaw, S. C. K. (2022). Barriers to healthcare and self-reported adverse outcomes for autistic adults: A cross-sectional study. *BMJ Open*, *12*(2), e056904. [DOI: 10.1136/bmjopen-2021-056904](https://doi.org/10.1136/bmjopen-2021-056904)
+
+[^16a]: An online survey distributed through social media, so the sample is self-selected and skewed towards people who are online, articulate and connected to autistic community spaces. The authors report no significant differences in barriers or outcomes between formally diagnosed and self-identifying respondents, which is itself relevant to Part 1.
 
 [^17]: van Asselt, A., Roke, Y., Begeer, S. M., & Scheeren, A. M. (2025). 'Feeling constantly kicked down': A qualitative phenomenological study exploring rejection sensitivity in autistic adults. *Autism*, *29*(11), 2703–2714. [DOI: 10.1177/13623613251376893](https://doi.org/10.1177/13623613251376893)
 
 [^18]: Büttner, C. M., Jauch, M., Marinucci, M., Williams, K. D., Greifeneder, R., Riva, P., & Rudert, S. C. (2024). It will (never) stop hurting: Do repeated or chronic experiences of exclusion lead to hyper- or hyposensitive psychological responses? *Group Processes & Intergroup Relations*, *27*(2), 256–277. [DOI: 10.1177/13684302221140002](https://doi.org/10.1177/13684302221140002)
 
-[^19]: Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology*, *87*(1), 49–74. [DOI: 10.1037/0021-843X.87.1.49](https://doi.org/10.1037/0021-843X.87.1.49) - a general model, not an autism-specific one. I am applying it here rather than reporting an autistic sample.
+[^19]: Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology*, *87*(1), 49–74. [DOI: 10.1037/0021-843X.87.1.49](https://doi.org/10.1037/0021-843X.87.1.49) 
 
-[^20]: American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [ISBN: 978-0890425763](https://openlibrary.org/isbn/9780890425763) - Criterion A requires all three sub-criteria of social communication and social interaction difficulty; Criterion B requires at least two of four restricted or repetitive patterns, of which sensory hyper- or hypo-reactivity is one.
+[^19a]: A general model, not an autism specific one. I am applying it here rather than reporting an autistic sample.
 
-[^21]: World Health Organization. (2019). *International classification of diseases for mortality and morbidity statistics* (11th revision), 6A02 Autism spectrum disorder. <https://icd.who.int/browse11> - an official classification rather than a peer-reviewed publication, cited for the definition it sets.
+[^20]: American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [ISBN: 978-0890425763](https://openlibrary.org/isbn/9780890425763)
 
-[^22]: Lai, M.-C., Kassee, C., Besney, R., Bonato, S., Hull, L., Mandy, W., Szatmari, P., & Ameis, S. H. (2019). Prevalence of co-occurring mental health diagnoses in the autism population: A systematic review and meta-analysis. *The Lancet Psychiatry*, *6*(10), 819–829. [DOI: 10.1016/S2215-0366(19)30289-5](https://doi.org/10.1016/S2215-0366%2819%2930289-5) - 96 studies meta-analysed. Of eleven categories of co-occurring condition examined, three had too few datapoints to pool and were synthesised descriptively: trauma and stressor-related disorders, substance-related and addictive disorders, and gender dysphoria. Estimates from clinical samples ran higher than from population and registry samples, and unexplained heterogeneity remained substantial throughout.
+[^20a]: Criterion A requires all three sub-criteria of social communication and social interaction difficulty; Criterion B requires at least two of four restricted or repetitive patterns, of which sensory hyper- or hypo-reactivity is one.
+
+[^21]: World Health Organization. (2019). *International classification of diseases for mortality and morbidity statistics* (11th revision), 6A02 Autism spectrum disorder. <https://icd.who.int/browse11>
+
+[^21a]: An official classification rather than a peer-reviewed publication, cited for the definition it sets.
+
+[^22]: Lai, M.-C., Kassee, C., Besney, R., Bonato, S., Hull, L., Mandy, W., Szatmari, P., & Ameis, S. H. (2019). Prevalence of co-occurring mental health diagnoses in the autism population: A systematic review and meta-analysis. *The Lancet Psychiatry*, *6*(10), 819–829. [DOI: 10.1016/S2215-0366(19)30289-5](https://doi.org/10.1016/S2215-0366%2819%2930289-5)
+
+[^22a]: 96 studies meta-analysed. Of eleven categories of co-occurring condition examined, three had too few datapoints to pool and were synthesised descriptively: trauma and stressor-related disorders, substance-related and addictive disorders, and gender dysphoria. Estimates from clinical samples ran higher than from population and registry samples, and unexplained heterogeneity remained substantial throughout.
 
 [^23]: Botha, M., & Frost, D. M. (2020). Extending the minority stress model to understand mental health problems experienced by the autistic population. *Society and Mental Health*, *10*(1), 20–34. [DOI: 10.1177/2156869318804297](https://doi.org/10.1177/2156869318804297)
 
 [^24]: Rumball, F., Happé, F., & Grey, N. (2020). Experience of trauma and PTSD symptoms in autistic adults: Risk of PTSD development following DSM-5 and non-DSM-5 traumatic life events. *Autism Research*, *13*(12), 2122–2132. [DOI: 10.1002/aur.2306](https://doi.org/10.1002/aur.2306)
 
-[^25]: Australian Bureau of Statistics. (2024). *Autism in Australia, 2022*. Australian Bureau of Statistics. <https://www.abs.gov.au/articles/autism-australia-2022> - drawn from the 2022 Survey of Disability, Ageing and Carers. Official national statistics rather than a peer-reviewed source; used here because it is the primary source for the figures, and paired with peer-reviewed employment research.
+[^25]: Australian Bureau of Statistics. (2024). *Autism in Australia, 2022*. Australian Bureau of Statistics. <https://www.abs.gov.au/articles/autism-australia-2022>
 
-[^26]: Office for National Statistics. (2021–2025). *Outcomes for disabled people in the UK* and associated labour market releases. Office for National Statistics. <https://www.ons.gov.uk> - see the note at [^h] regarding variation between releases.
+[^25a]: Drawn from the 2022 Survey of Disability, Ageing and Carers. Official national statistics rather than a peer-reviewed source; used here because it is the primary source for the figures, and paired with peer-reviewed employment research.
+
+[^26]: Office for National Statistics. (2021–2025). *Outcomes for disabled people in the UK* and associated labour market releases. Office for National Statistics. <https://www.ons.gov.uk>
 
 [^27]: Bury, S. M., Hedley, D., Uljarević, M., Li, X., Stokes, M. A., & Begeer, S. (2024). Employment profiles of autistic people: An 8-year longitudinal study. *Autism*, *28*(9), 2322–2333. [DOI: 10.1177/13623613231225798](https://doi.org/10.1177/13623613231225798)
 
@@ -723,11 +749,13 @@ Everyone who can prove it.
 
 [^35]: Churchard, A., Ryder, M., Greenhill, A., & Mandy, W. (2019). The prevalence of autistic traits in a homeless population. *Autism*, *23*(3), 665–676. [DOI: 10.1177/1362361318768484](https://doi.org/10.1177/1362361318768484)
 
-[^36]: National Disability Insurance Agency. (2026). *Participant dashboard: Autism*. NDIS Data and Research. <https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/autism> - see the note at [^i].
+[^36]: National Disability Insurance Agency. (2026). *Participant dashboard: Autism*. NDIS Data and Research. <https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/autism>
 
-[^37]: Huang, Y., Arnold, S. R. C., Foley, K.-R., & Trollor, J. N. (2024). A qualitative study of adults' and support persons' experiences of support after autism diagnosis. *Journal of Autism and Developmental Disorders*, *54*, 1157–1170. [DOI: 10.1007/s10803-022-05828-0](https://doi.org/10.1007/s10803-022-05828-0) - published online ahead of print in December 2022.
+[^37]: Huang, Y., Arnold, S. R. C., Foley, K.-R., & Trollor, J. N. (2024). A qualitative study of adults' and support persons' experiences of support after autism diagnosis. *Journal of Autism and Developmental Disorders*, *54*, 1157–1170. [DOI: 10.1007/s10803-022-05828-0](https://doi.org/10.1007/s10803-022-05828-0)
 
-[^38]: Australian Government Department of Health, Disability and Ageing. (2026). *About the changes to the NDIS: National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026*. <https://www.health.gov.au/our-work/ndis-legislation-changes> - quotations are from the Department's own published explanatory material. Official government policy documentation rather than peer-reviewed research.
+[^38]: Australian Government Department of Health, Disability and Ageing. (2026). *About the changes to the NDIS: National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026*. <https://www.health.gov.au/our-work/ndis-legislation-changes>
+
+[^38a]: Quotations are from the Department's own published explanatory material. Official government policy documentation rather than peer-reviewed research.
 
 [^39]: Pohl, A. L., Crockford, S. K., Blakemore, M., Allison, C., & Baron-Cohen, S. (2020). A comparative study of autistic and non-autistic women's experience of motherhood. *Molecular Autism*, *11*, 3. [DOI: 10.1186/s13229-019-0304-2](https://doi.org/10.1186/s13229-019-0304-2)
 
@@ -735,7 +763,9 @@ Everyone who can prove it.
 
 [^41]: Stokes, M., Newton, N., & Kaur, A. (2007). Stalking, and social and romantic functioning among adolescents and adults with autism spectrum disorder. *Journal of Autism and Developmental Disorders*, *37*(10), 1969–1986. [DOI: 10.1007/s10803-006-0344-2](https://doi.org/10.1007/s10803-006-0344-2)
 
-[^42]: NDIS Quality and Safeguards Commission. (2025). *Quarterly performance report, Q3 2024-25*. Australian Government. <https://www.ndiscommission.gov.au> - figures from Appendix D, national totals. Authorised and unauthorised regulated restrictive practices are counted separately; a participant associated with more than one practice type is counted once per type. The five regulated practice types, the last-resort principle and the authorisation and reporting obligations are set out in the *National Disability Insurance Scheme (Restrictive Practices and Behaviour Support) Rules 2018* (Cth). Official regulatory reporting rather than peer-reviewed research.
+[^42]: NDIS Quality and Safeguards Commission. (2025). *Quarterly performance report, Q3 2024-25*. Australian Government. <https://www.ndiscommission.gov.au>
+
+[^42a]: Figures from Appendix D, national totals. Authorised and unauthorised regulated restrictive practices are counted separately; a participant associated with more than one practice type is counted once per type. The five regulated practice types, the last-resort principle and the authorisation and reporting obligations are set out in the *National Disability Insurance Scheme (Restrictive Practices and Behaviour Support) Rules 2018* (Cth). Official regulatory reporting rather than peer-reviewed research.
 
 [^43]: Blackmore, C. E., Woodhouse, E. L., Gillan, N., Wilson, E., Ashwood, K. L., Stoencheva, V., Nolan, A., McAlonan, G. M., Robertson, D. M., Whitwell, S., Deeley, Q., Craig, M. C., Zinkstok, J., Wichers, R., Spain, D., Roberts, G., Murphy, D. G. M., & Murphy, C. M. (2022). Adults with autism spectrum disorder and the criminal justice system: An investigation of prevalence of contact with the criminal justice system, risk factors and sex differences in a specialist assessment service. *Autism*, *26*(8), 2098–2107. [DOI: 10.1177/13623613221081343](https://doi.org/10.1177/13623613221081343)
 
@@ -745,17 +775,23 @@ Everyone who can prove it.
 
 [^46]: Pearson, A., Rees, J., & Forster, S. (2022). "This was just how this friendship worked": Experiences of interpersonal victimization among autistic adults. *Autism in Adulthood*, *4*(2), 141–150. [DOI: 10.1089/aut.2021.0035](https://doi.org/10.1089/aut.2021.0035)
 
-[^47]: Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. (2023). *Final report*. Commonwealth of Australia. <https://disability.royalcommission.gov.au/publications/final-report> - twelve volumes, 222 recommendations, tabled 29 September 2023.
+[^47]: Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. (2023). *Final report*. Commonwealth of Australia. <https://disability.royalcommission.gov.au/publications/final-report>
 
-[^48]: Australian Government. (2024). *Australian Government response to the Disability Royal Commission*. Commonwealth of Australia. <https://www.health.gov.au/resources/publications/australian-government-response-to-the-disability-royal-commission> - released 31 July 2024. The Commonwealth has primary or shared responsibility for 172 of the 222 recommendations, of which it accepted or accepted in principle 130, noted 6, and left 36 for further consideration. The funding figures quoted are from the response and the accompanying announcement. Official government material rather than peer-reviewed research, and a statement of intention at a point in time rather than a record of what was subsequently delivered.
+[^48]: Australian Government. (2024). *Australian Government response to the Disability Royal Commission*. Commonwealth of Australia. <https://www.health.gov.au/resources/publications/australian-government-response-to-the-disability-royal-commission>
 
-[^49]: Australian Electoral Commission. (2026). *General postal voters*. <https://www.aec.gov.au/Enrolling_to_vote/Special_Category/general-postal-voters.htm> - the eligibility grounds are quoted from the AEC's published list, abbreviated only in wording, not in substance. Official government material rather than peer-reviewed research.
+[^48a]: Released 31 July 2024. The Commonwealth has primary or shared responsibility for 172 of the 222 recommendations, of which it accepted or accepted in principle 130, noted 6, and left 36 for further consideration. The funding figures quoted are from the response and the accompanying announcement. Official government material rather than peer-reviewed research, and a statement of intention at a point in time rather than a record of what was subsequently delivered.
+
+[^49]: Australian Electoral Commission. (2026). *General postal voters*. <https://www.aec.gov.au/Enrolling_to_vote/Special_Category/general-postal-voters.htm>
+
+[^49a]: The eligibility grounds are quoted from the AEC's published list, abbreviated only in wording, not in substance. Official government material rather than peer-reviewed research.
 
 [^50]: Postal voting on demand was introduced in Great Britain by the *Representation of the People Act 2000* and has applied since 2001; any registered elector may apply without giving a reason. See UK Government, *Voting by post*, <https://www.gov.uk/voting-in-the-uk/postal-voting>, and the Electoral Commission's guidance at <https://www.electoralcommission.org.uk>.
 
 [^51]: Elections Canada. *Apply to vote by mail*. <https://www.elections.ca/voting-by-mail> - the special ballot process is open to any elector; no excuse or qualifying ground is required.
 
-[^52]: National Conference of State Legislatures. *Table 1: States with no-excuse absentee voting*. <https://www.ncsl.org/elections-and-campaigns/table-1-states-with-no-excuse-absentee-voting> - state counts change with legislation and litigation, and the figures given are approximate and current at the time of writing rather than fixed. NCSL is a legislative research body rather than a peer-reviewed source; I have used it because it maintains the standard tabulation of these state-by-state rules.
+[^52]: National Conference of State Legislatures. *Table 1: States with no-excuse absentee voting*. <https://www.ncsl.org/elections-and-campaigns/table-1-states-with-no-excuse-absentee-voting>
+
+[^52a]: State counts change with legislation and litigation, and the figures given are approximate and current at the time of writing rather than fixed. NCSL is a legislative research body rather than a peer-reviewed source; I have used it because it maintains the standard tabulation of these state-by-state rules.
 
 [^53]: Tassone, A. U., Breitenfeldt, K. E., DeLucia, E. A., Albright, J., & McDonnell, C. G. (2025). A pilot study of political experiences and barriers to voting among autistic adults participating in online survey research in the United States. *Autism in Adulthood*. Advance online publication. [DOI: 10.1089/aut.2023.0119](https://doi.org/10.1089/aut.2023.0119)
 
@@ -773,8 +809,12 @@ Everyone who can prove it.
 
 [^60]: Pelton, M. K., Crawford, H., Robertson, A. E., Rodgers, J., Baron-Cohen, S., & Cassidy, S. (2020). Understanding suicide risk in autistic adults: Comparing the Interpersonal Theory of Suicide in autistic and non-autistic samples. *Journal of Autism and Developmental Disorders*, *50*(10), 3620–3637. [DOI: 10.1007/s10803-020-04393-8](https://doi.org/10.1007/s10803-020-04393-8)
 
-[^61]: United Nations General Assembly. (2006). *Convention on the Rights of Persons with Disabilities* (General Assembly resolution 61/106). United Nations. <https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html> - Australia ratified the Convention on 17 July 2008 and acceded to its Optional Protocol on 21 August 2009. Article 10 reads in full: "States Parties reaffirm that every human being has the inherent right to life and shall take all necessary measures to ensure its effective enjoyment by persons with disabilities on an equal basis with others." On positive obligations more generally I am describing the settled direction of international human rights jurisprudence rather than any single authority, and I have not conducted a survey of the case law; readers who want the leading line of authority should start with the European Court of Human Rights' operational-duty cases, which are persuasive rather than binding in Australia.
+[^61]: United Nations General Assembly. (2006). *Convention on the Rights of Persons with Disabilities* (General Assembly resolution 61/106). United Nations. <https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html>
 
-[^62]: Ratification status is recorded in the United Nations Treaty Collection and the OHCHR treaty body database. <https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/Treaty.aspx?Treaty=CRPD> - Australia ratified on 17 July 2008, the United Kingdom on 8 June 2009 and Canada on 11 March 2010. The United States signed on 30 July 2009; the Senate resolution of ratification failed on 4 December 2012 by 61 votes to 38, short of the two-thirds majority required. Signature without ratification obliges a state not to defeat the object and purpose of a treaty, but does not make it binding domestically.
+[^61a]: Australia ratified the Convention on 17 July 2008 and acceded to its Optional Protocol on 21 August 2009. Article 10 reads in full: "States Parties reaffirm that every human being has the inherent right to life and shall take all necessary measures to ensure its effective enjoyment by persons with disabilities on an equal basis with others." On positive obligations more generally I am describing the settled direction of international human rights jurisprudence rather than any single authority, and I have not conducted a survey of the case law; readers who want the leading line of authority should start with the European Court of Human Rights' operational-duty cases, which are persuasive rather than binding in Australia.
 
-[^63]: Australian Government Department of Health, Disability and Ageing. (2026). *Thriving Kids*. <https://www.health.gov.au/our-work/thriving-kids> - governments jointly committed $4 billion over five years; state services commence rollout no later than 1 October 2026, at scale from 1 January 2028, with NDIS access changes commencing 1 January 2028 and requiring amendment of the *National Disability Insurance Scheme Act 2013* (Cth).
+[^62]: Ratification status is recorded in the United Nations Treaty Collection and the OHCHR treaty body database. <https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/Treaty.aspx?Treaty=CRPD>
+
+    Australia ratified on 17 July 2008, the United Kingdom on 8 June 2009 and Canada on 11 March 2010. The United States signed on 30 July 2009; the Senate resolution of ratification failed on 4 December 2012 by 61 votes to 38, short of the two-thirds majority required. Signature without ratification obliges a state not to defeat the object and purpose of a treaty, but does not make it binding domestically.
+
+[^63]: Australian Government Department of Health, Disability and Ageing. (2026). *Thriving Kids*. <https://www.health.gov.au/our-work/thriving-kids>
