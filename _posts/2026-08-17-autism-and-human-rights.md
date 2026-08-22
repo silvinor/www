@@ -289,7 +289,7 @@ Huang and colleagues interviewed nineteen Australian autistic adults and four of
 
 So the full transaction reads: hand over your history, your family's testimony and your account of yourself as a deficient person, and receive, in the main, something other than what you asked for.
 
-## <small class="text-body-tertiary">Part 8: </small><br>Family, and the fear of being watched
+## <small class="text-body-tertiary">Part 8: </small><br>Family, and being misunderstood
 
 Article 16 says men and women of full age have the right to marry and found a family, and that the family is entitled to protection by society and the State. [^1]
 
