@@ -12,7 +12,7 @@ excerpt: >-
   Autistic loneliness is usually explained as a preference, and it is rarely about the empty room. It is about the full one - being present and still outside. It is also a loop: you are excluded before you have done anything, you withdraw because withdrawing is the only way to survive it, the withdrawal is read as disinterest, the deprivation builds, and when somebody finally arrives you hold on so hard that they leave. Each turn makes the next one more likely. What follows traces the loop round, and ends with a warning about where this kind of argument can go wrong.
 ---
 
-# The Loneliness Snowball: How Autistic Isolation Feeds Itself
+# The Loneliness Snowball <br><small>How Autistic Isolation Feeds Itself</small>
 
 {% include post-meta.html post=page %}
 
@@ -50,7 +50,7 @@ The reason any of this matters is that belonging is not a preference. Baumeister
 
 And the deficit is not a lack of wanting. Quadt and colleagues asked 209 people about sensory differences, loneliness and mental health, then recorded autistic adults talking to each other about loneliness directly. Sensory differences were associated with higher loneliness and worse mental health in both groups, more strongly in the autistic one. The first-hand accounts, the authors note, refute the stereotype that autistic adults are not socially motivated. [^6] The title of the paper is a participant's own words: *I'm trying to reach out, I'm trying to find my people.*
 
-Jaswal and Akhtar made the general version of that argument. A great deal of influential autism theory, they wrote, rests on the assumption that certain autistic behaviours - low eye contact, infrequent pointing, <abbr title="Repetitive, patterned movements, sounds, or behaviors that tend to look similar each time they occur.">stereotypies</abbr>, <abbr title="When someone repeats words, phrases, or sounds they've heard, either immediately or later.">echolalia</abbr> - indicate a lack of social interest. That assumption is contradicted by autistic people's own testimony, and there are alternative explanations for every one of those behaviours. [^7]
+Jaswal and Akhtar made the general version of that argument. A great deal of influential autism theory, they wrote, rests on the assumption that certain autistic behaviours - low eye contact, infrequent pointing, <abbr title="Repetitive, patterned movements, sounds, or behaviours that tend to look similar each time they occur.">stereotypies</abbr>, <abbr title="When someone repeats words, phrases, or sounds they've heard, either immediately or later.">echolalia</abbr> - indicate a lack of social interest. That assumption is contradicted by autistic people's own testimony, and there are alternative explanations for every one of those behaviours. [^7]
 
 So the starting position is this. The want is present. The connection is not. The gap between them is the thing being measured, and it is three to four times the size it is for everyone else.
 
@@ -272,7 +272,7 @@ Stokes, Newton and Kaur compared parental reports for 25 autistic and 38 non-aut
 
 Three cautions, and I mean all of them.
 
-The first is the sample: 25 people, by parent report rather than self-report, in 2007. That date matters more than it looks. The study predates the DSM-5 by six years, so its participants were diagnosed under DSM-IV, when autistic disorder, Asperger's disorder and PDD-NOS were still three separate categories rather than one spectrum. [^52] The group it describes is therefore not the group the word *autistic* picks out today, and parent report is not the same instrument as asking the person.
+The first is the sample: 25 people, by parent report rather than self-report, in 2007. That date matters more than it looks. The study predates the DSM-5 by six years, so its participants were diagnosed under DSM-IV, when autistic disorder, Asperger's disorder and PDD-NOS were still three separate categories rather than one spectrum. [^52][^e] The group it describes is therefore not the group the word *autistic* picks out today, and parent report is not the same instrument as asking the person.
 
 The second is the inference. Nothing in it says autistic people are dangerous. The great majority of what this section describes never goes anywhere near a criminal threshold; it ends in an unanswered message and a friendship that quietly stops.
 
@@ -404,7 +404,7 @@ Autism is a disability. Not a metaphor, not a style, not a way of being quirky -
 
 Now look at what the disability is *of*.
 
-The DSM-5 defines autism by persistent deficits in social communication and social interaction across multiple contexts, and requires all three of its sub-criteria - no partial credit. [^52] The ICD-11 puts it as persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication. [^69]
+The DSM-5 defines autism by persistent deficits in social communication and social interaction across multiple contexts, and requires all three of its sub-criteria - no partial credit. [^52] The ICD-11 puts it as persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication. [^69][^f]
 
 *Initiate and sustain.* That is not the description of a symptom. It is a description of what a relationship is made of, written by committees who were not thinking about loneliness at all.
 
@@ -532,7 +532,9 @@ It is the cheapest sentence in the language. It ends the conversation, it costs 
 
 [^51]: Murphy, V., Laboy, N. M., Peretti, K., & Abbott, S. E. (2024). Stalking and autism. *Irish Journal of Psychological Medicine*, *41*(4), 510–511. [DOI: 10.1017/ipm.2024.30](https://doi.org/10.1017/ipm.2024.30)
 
-[^52]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. [ISBN: 978-0890425558](https://openlibrary.org/isbn/9780890425558) - the fifth edition consolidated autistic disorder, Asperger's disorder and pervasive developmental disorder not otherwise specified into the single diagnosis of autism spectrum disorder. I have cited the 2013 edition rather than the 2022 text revision deliberately, because it is also doing the work of dating the DSM-IV/DSM-5 transition against the 2007 sample discussed in Part 7; the criteria quoted are unchanged between the two.
+[^52]: American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing. [ISBN: 978-0890425558](https://openlibrary.org/isbn/9780890425558)
+
+[^e]: The fifth edition consolidated autistic disorder, Asperger's disorder and pervasive developmental disorder not otherwise specified into the single diagnosis of autism spectrum disorder. I have cited the 2013 edition rather than the 2022 text revision deliberately, because it is also doing the work of dating the DSM-IV/DSM-5 transition against the 2007 sample discussed in Part 7; the criteria quoted are unchanged between the two.
 
 [^53]: Sedgewick, F., Hill, V., & Pellicano, E. (2019). 'It's different for girls': Gender differences in the friendships and conflict of autistic and neurotypical adolescents. *Autism*, *23*(5), 1119–1132. [DOI: 10.1177/1362361318794930](https://doi.org/10.1177/1362361318794930)
 
@@ -559,15 +561,14 @@ It is the cheapest sentence in the language. It ends the conversation, it costs 
 
 [^64]: Su, D. J., Schiltz, H. K., & Lord, C. (2025). How autistic adults cope with loneliness: What helps and what doesn't? *Autism in Adulthood*. Advance online publication. [DOI: 10.1089/aut.2024.0341](https://doi.org/10.1089/aut.2024.0341)
 
-
 [^65]: Josyfon, E., Spain, D., Blackmore, C., Murphy, D., & Oakley, B. (2023). Alexithymia in adult autism clinic service-users: Relationships with sensory processing differences and mental health. *Healthcare*, *11*(24), 3114. [DOI: 10.3390/healthcare11243114](https://doi.org/10.3390/healthcare11243114)
 
 [^66]: Paynter, J., Sommer, K., & Cook, A. (2025). How can we make therapy better for autistic adults? Autistic adults' ratings of helpfulness of adaptations to therapy. *Autism*, *29*(6), 1540–1553. [DOI: 10.1177/13623613251313569](https://doi.org/10.1177/13623613251313569)
-
 
 [^67]: Cooper, K., Loades, M. E., & Russell, A. (2018). Adapting psychological therapies for autism. *Research in Autism Spectrum Disorders*, *45*, 43–50. [DOI: 10.1016/j.rasd.2017.11.002](https://doi.org/10.1016/j.rasd.2017.11.002)
 
 [^68]: Moore, L., Larkin, F., & Foley, S. (2024). Mental health professionals' experiences of adapting mental health interventions for autistic adults: A systematic review and thematic synthesis. *Journal of Autism and Developmental Disorders*, *54*(7), 2484–2501. [DOI: 10.1007/s10803-023-06006-6](https://doi.org/10.1007/s10803-023-06006-6)
 
+[^69]: World Health Organization. (2019). *International classification of diseases for mortality and morbidity statistics* (11th revision), 6A02 Autism spectrum disorder. <https://icd.who.int/browse11>
 
-[^69]: World Health Organization. (2019). *International classification of diseases for mortality and morbidity statistics* (11th revision), 6A02 Autism spectrum disorder. <https://icd.who.int/browse11> - like the Bureau of Statistics source above, this is an official classification rather than a peer-reviewed publication, and is cited because it is the primary text.
+[^f]: Like the Bureau of Statistics source above, this is an official classification rather than a peer-reviewed publication, and is cited because it is the primary text.
