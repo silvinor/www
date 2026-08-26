@@ -18,6 +18,9 @@ menu:
   - title: Books
     fa: fas fa-book
     items:
+      - title: "Yes I'm Autistic"
+        url: https://c1k.it/yia
+        fa: fas fa-book-open
       - title: Loving Variant Minds
         url: https://c1k.it/lvm
         fa: fas fa-book-open
