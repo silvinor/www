@@ -25,7 +25,7 @@ This argument does the same job for adults, and it arrives somewhere else.
 
 The rights are not being denied to us. They are being made available on terms we cannot meet. And they do not fail one at a time.
 
-## <small class="text-body-tertiary">Part 1: </small><br>The paper that comes first
+## <i class="fas text-body-tertiary">1</i> The paper that comes first
 
 Article 6 says everyone has the right to recognition everywhere as a person before the law. Article 7 says everyone is equal before the law and entitled to equal protection against discrimination. Article 8 says everyone has the right to an effective remedy when their rights are violated. [^1]
 
@@ -81,7 +81,7 @@ Which is the argument of this part at its hardest. The gate is not an administra
 
 Everything after this part assumes the gate has been passed. Most autistic adults alive today have not passed it. Some of the ones who did not are in that study.
 
-## <small class="text-body-tertiary">Part 2: </small><br>Nobody hands you a right
+## <i class="fas text-body-tertiary">2</i> Nobody hands you a right
 
 Here is the second engine, and it is the one I think matters most.
 
@@ -127,7 +127,7 @@ That is why I do not think "we are failing to protect the rights of autistic peo
 
 What follows is what that does across seven areas of adult life, and what happens when the failures start feeding each other.
 
-## <small class="text-body-tertiary">Part 3: </small><br>What the numbers here are not
+## <i class="fas text-body-tertiary">3</i> What the numbers here are not
 
 Before any of the figures, a correction that has to come first, because without it everything after this reads as an argument that autistic people cannot manage.
 
@@ -175,7 +175,7 @@ And this is the version that survives the argument in Part 11 rather than underm
 
 One honest limit before moving on. I cannot cleanly separate the three layers and neither can anybody else. They interact, they compound, and the research designs that would tell us how much belongs where have largely not been run on adults. What I am claiming is the direction, not the proportions. [^f]
 
-## <small class="text-body-tertiary">Part 4: </small><br>Work, and the rest you are supposed to get from it
+## <i class="fas text-body-tertiary">4</i> Work, and the rest you are supposed to get from it
 
 Article 23 gives everyone the right to work, to free choice of employment, and to protection against unemployment. Article 24 gives everyone the right to rest and leisure, including reasonable limitation of working hours. [^1]
 
@@ -209,7 +209,7 @@ And this is where the counter reappears. The fix for both articles is an adjustm
 
 So the mechanism that would deliver the right can only be triggered by the behaviour the disability most impairs, in the room where failure is most expensive.
 
-## <small class="text-body-tertiary">Part 5: </small><br>Health, housing, and the standard of living
+## <i class="fas text-body-tertiary">5</i> Health, housing, and the standard of living
 
 Article 25 gives everyone the right to a standard of living adequate for health and well-being - food, clothing, housing and medical care, and the right to security in the event of unemployment, sickness or disability. [^1]
 
@@ -225,7 +225,7 @@ Churchard, Ryder, Greenhill and Mandy assessed 106 people experiencing homelessn
 
 Put Part 4 next to it and the sequence is not hard to see. Half out of the labour market, one in five of the rest unemployed, and nothing much in between that position and this one.
 
-## <small class="text-body-tertiary">Part 6: </small><br>The instrument built to deliver it
+## <i class="fas text-body-tertiary">6</i> The instrument built to deliver it
 
 Australia has an answer to all of that, and it is the National Disability Insurance Scheme - the largest disability support system this country has ever built, and worth looking at closely, because it delivers Article 25 and demonstrates the gate at the same time.
 
@@ -253,7 +253,7 @@ Most of the public argument about that reform has concerned children, and most o
 
 What does belong here is the sentence underneath it. Adults already in the scheme will have to establish, again, on a new standard, to an assessor, that their functional capacity is reduced enough to qualify. That is Part 7's transaction repeated on a timer. The gate in Part 1 was one you passed once. This rebuilds it as a gate you stand in front of periodically, for as long as you continue to need what is on the other side.
 
-## <small class="text-body-tertiary">Part 7: </small><br>What you hand over to be helped
+## <i class="fas text-body-tertiary">7</i> What you hand over to be helped
 
 Article 12 says no one shall be subjected to arbitrary interference with his privacy, family, home or correspondence. Article 22 gives everyone the right to social security. [^1]
 
@@ -289,7 +289,7 @@ Huang and colleagues interviewed nineteen Australian autistic adults and four of
 
 So the full transaction reads: hand over your history, your family's testimony and your account of yourself as a deficient person, and receive, in the main, something other than what you asked for.
 
-## <small class="text-body-tertiary">Part 8: </small><br>Family, and being misunderstood
+## <i class="fas text-body-tertiary">8</i> Family, and being misunderstood
 
 Article 16 says men and women of full age have the right to marry and found a family, and that the family is entitled to protection by society and the State. [^1]
 
@@ -329,7 +329,7 @@ One caution, which the authors give themselves: nineteen Australian fathers, pre
 
 There is a version of this at the start of adult life too. Article 16 covers marriage and founding a family, and the route to both runs through a set of unwritten social rules that autistic adults report having learned from nowhere. Stokes and colleagues found autistic participants describing romantic knowledge acquired from no channel at all - not parents, not siblings, not peers, not observation, not media, not sex education. [^41] Every route by which the rest of the population absorbs the rules had failed to deliver, and the rules were never written down, because for everyone else they did not need to be.
 
-## <small class="text-body-tertiary">Part 9: </small><br>Restraint, arrest, and a Royal Commission
+## <i class="fas text-body-tertiary">9</i> Restraint, arrest, and a Royal Commission
 
 Article 5 says no one shall be subjected to torture or to cruel, inhuman or degrading treatment. Articles 9, 10 and 11 cover arbitrary detention, fair trial, and the presumption of innocence. [^1]
 
@@ -373,7 +373,7 @@ So the investigation Baron-Cohen called for happened, in my country, at enormous
 
 His second call was for increased surveillance of the needs of autistic people, so that each year we could see the violations reduce. Australia does that too, quarterly. The restrictive practice count has gone up in almost every quarter it has been measured. Surveillance was never the missing ingredient.
 
-## <small class="text-body-tertiary">Part 10: </small><br>The articles nobody has counted
+## <i class="fas text-body-tertiary">10</i> The articles nobody has counted
 
 Article 21 gives everyone the right to take part in the government of their country, and to periodic and genuine elections. Article 27 gives everyone the right freely to participate in the cultural life of the community. [^1]
 
@@ -415,7 +415,7 @@ Although at the moment it is also being priced out rather more directly. Under t
 
 I have flagged both of these as thin deliberately. An argument of this kind is under pressure to claim a violation everywhere it looks, and the correct answer for two of these articles is *nobody has measured it*. That absence is a finding. Baron-Cohen's third call was that we should continuously ask autistic people what their lives are like. [^0] Nine years on, on the article that governs how a citizen participates in their own government, in a country that compels it, we have not asked.
 
-## <small class="text-body-tertiary">Part 11: </small><br>Article 3
+## <i class="fas text-body-tertiary">11</i> Article 3
 
 Article 3 is nine words. *Everyone has the right to life, liberty and security of person.* [^1]
 
@@ -467,7 +467,7 @@ None of the above says these deaths were rational, or inevitable, or that the re
 
 Argue with the rest of it if you like. Autistic adults are still dying about six years younger than everybody else. [^8]
 
-## <small class="text-body-tertiary">Part 12: </small><br>They do not fail one at a time
+## <i class="fas text-body-tertiary">12</i> They do not fail one at a time
 
 Everything so far has been presented as separate articles, because that is how the Declaration is written and how Baron-Cohen's address was organised. It is the wrong shape.
 
@@ -519,7 +519,7 @@ That is what I mean when I say there is nobody you could name. Not that everyone
 
 That is also why the compounding runs the other way, and it is the part that should give governments pause. Every article in the chain has a policy owner, and each can truthfully say the problem originated somewhere else. Health says it is an employment issue. Employment says it is a health issue. Housing says it is an income issue. Nobody is lying, and nothing moves.
 
-## <small class="text-body-tertiary">Part 13: </small><br>But…
+## <i class="fas text-body-tertiary">13</i> But…
 
 Everything above is arguable. Three parts of it are weaker than the rest, and if the argument gets taken apart, it will be taken apart there.
 
@@ -553,7 +553,7 @@ The Declaration's problem is that it has no teeth. The Convention's problem is t
 
 One more, which is mine rather than an objection I expect from others. Almost every study cited here recruited diagnosed autistic adults - people who got through the gate described in Part 1. Whatever the true figures are for autistic adults as a population, the ones I have quoted are drawn from the group best placed to have claimed something, and are therefore likely to be the optimistic version.
 
-## <small class="text-body-tertiary">In closing: </small><br>Everyone
+## <small class="text-body-tertiary">In closing:</small> Everyone
 
 My diagnosis was bought. A few thousand dollars, and eight months of waiting, in my early fifties, after a thirty-year career I had built without knowing what I was.
 

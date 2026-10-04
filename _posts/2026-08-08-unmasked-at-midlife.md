@@ -23,7 +23,7 @@ This is for anyone who suspects they might be autistic, anyone who has just foun
 
 Let me start with the myth I most want to kill.
 
-## <small class="text-body-tertiary">Part 1: </small><br>No, there aren't suddenly more of us
+## <i class="fas text-body-tertiary">1</i> No, there aren't suddenly more of us
 
 The number of autistic adults has not exploded. We were always here. We were simply missed. There are three main reasons, and they worked together.
 
@@ -53,7 +53,7 @@ Researchers call this diagnostic substitution: the same person, the same traits,
 
 And further back, before even these labels, sat something crueller. In the mid-twentieth century, a popular theory blamed autism on cold, distant mothering - the so-called "refrigerator mother." It was wrong, it has been thoroughly discredited, and it did enormous harm to a generation of parents. [^a] I mention it because the history matters. The story of late diagnosis is not only about missing - and in some cases, bad - science. It is also about the myths that filled the gap while the science caught up.
 
-## <small class="text-body-tertiary">Part 2: </small><br>What finally makes us look
+## <i class="fas text-body-tertiary">2</i> What finally makes us look
 
 If we were always here, why the sudden wave of adults seeking answers now? Three doors, mostly. Each one helps. Each one can also mislead.
 
@@ -79,7 +79,7 @@ A child is referred for assessment. The parent sits through the questionnaires a
 
 This is not a coincidence. Autism is highly heritable - twin and family studies place the genetic contribution among the highest of any developmental condition [^701][^814]. Autism and ADHD also share a good deal of that genetic ground, which is part of why these traits run in families [^593]. So when a child is diagnosed, the odds that a parent shares those traits are far from small. The child's assessment becomes an unexpected mirror. The question begins as *could this explain my child?* and slowly turns into *could this explain me?*
 
-## <small class="text-body-tertiary">Part 3: </small><br>What the assessment actually involves
+## <i class="fas text-body-tertiary">3</i> What the assessment actually involves
 
 Before I get to the emotional heart of this, it helps to understand what an adult assessment is, because it is often misunderstood [^345].
 
@@ -91,7 +91,7 @@ One more thing is worth saying plainly. By the time an adult reaches a formal as
 
 Hold on to that fact - *they already knew* - because it makes the next part harder to understand, and more important.
 
-## <small class="text-body-tertiary">Part 4: </small><br>The discovery, and the grief
+## <i class="fas text-body-tertiary">4</i> The discovery, and the grief
 
 I often send people to a video by the YouTuber known as Courtney, Literally. [^b] In [her video](https://youtu.be/RSZ-SnKSyl4?t=1120) about the assessment process she shares the moment she hears a psychologist confirm that she is autistic. In it, at that moment, she breaks down into deep, uncontrollable sobbing.
 
@@ -111,7 +111,7 @@ Researchers who study this describe a grief that follows the familiar shape of l
 
 This is not a small or passing reaction. It is, for most people, the single most significant early outcome of a late diagnosis. And it deserves to be treated as grief, not as ingratitude or drama.
 
-## <small class="text-body-tertiary">Part 5: </small><br>The shockwave: what happens after
+## <i class="fas text-body-tertiary">5</i> The shockwave: what happens after
 
 The diagnosis explains everything. And for a while, it can make everything harder. I call this the shockwave, because it does not land in the single moment of diagnosis. It ripples outward, through work, through love, and through friendship, over the months that follow.
 
@@ -137,7 +137,7 @@ Once you can name the mask, wearing it becomes almost unbearable. There is a vis
 
 This is a real loss and it should be mourned. But it is also a clearing. There is good evidence that autistic people often connect more easily and more comfortably with one another, and that these relationships can feel more genuine and less effortful [^169][^170]. What survives the unmasking, or what grows afterwards, tends to rest on something truer - albeit a lot smaller.
 
-## <small class="text-body-tertiary">Part 6: </small><br>Learning late means building a new life
+## <i class="fas text-body-tertiary">6</i> Learning late means building a new life
 
 Here is the reframe I most want people to leave with.
 
@@ -149,7 +149,7 @@ The adult has no such luck. We arrive at the diagnosis with a self that has alre
 
 I do not say this to discourage anyone. I say it because pretending it is easy is a disservice. A late diagnosis is not a tidy full stop. It is the first line of a new life, and that life has to be, in part, re-programmed from the inside. It can absolutely be done. But it should be done with support.
 
-## <small class="text-body-tertiary">Part 7: </small><br>If this is you, get the right support
+## <i class="fas text-body-tertiary">7</i> If this is you, get the right support
 
 If any of this describes you, please hear the most practical thing I can offer: psychological support is not a luxury here. It is critical. The period after a late diagnosis carries a real and well-documented weight. Late-identified autistic adults face elevated rates of anxiety, depression, and suicidality, and much of that harm flows not from being autistic but from years of being unseen, unsupported, and made to feel wrong [^103][^85][^340]. Masking itself, especially when it is heavy and unrelenting, is linked to poorer mental health [^134][^133].
 

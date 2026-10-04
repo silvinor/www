@@ -23,7 +23,7 @@ So I concede the point in full, and then ask the question that actually matters:
 
 Three differences are usually attributed. It costs more to run. It buys less belonging. And it fails more often than it works. What those three produce between them - a separate mask for every room, a diagnostic record full of wrong answers, and an employment record to match - takes up the middle of what follows. Then there is a fourth thing, which is not a difference in the masking but in what a person concludes from it, and it is the one that does the lasting damage.
 
-## <small class="text-body-tertiary">Part 1: </small><br>Yes, everyone masks
+## <i class="fas text-body-tertiary">1</i> Yes, everyone masks
 
 Erving Goffman set this out in 1959. He described social life as theatre: a front stage where we manage the impression others form of us, and a backstage where we do not. [^1] It is one of the most cited ideas in sociology, and it was never about a minority. It was about everyone.
 
@@ -59,7 +59,7 @@ Ai, Cunningham and Lai put the conceptual case plainly: autistic camouflaging si
 
 So the honest starting position is this. Masking is not an autistic invention, autistic people are not the only ones doing it, and the difference is not a wall. It is a gradient. But the gradient is steep, and it is steep in specific places.
 
-## <small class="text-body-tertiary">Part 2: </small><br>The first difference: what it costs to run
+## <i class="fas text-body-tertiary">2</i> The first difference: what it costs to run
 
 The clearest way to understand this comes from a literature that has nothing to do with autism.
 
@@ -93,7 +93,7 @@ Now the part where I have to complicate my own argument, because the evidence do
 
 So the clean version of the claim - they do it unconsciously and cheaply, we do it consciously and it destroys us - does not survive contact with the data. The version that does survive is narrower and better. Habit can start the mask without any decision being made; it still costs to run once started, because the execution is explicit compensation rather than absorbed behaviour. Cook and colleagues' systematic review found exhaustion reported as a consequence of camouflaging with striking consistency across the literature. [^21] A habit you cannot stop and cannot afford is worse than a choice, not better.
 
-## <small class="text-body-tertiary">Part 3: </small><br>The second difference: it does not buy belonging
+## <i class="fas text-body-tertiary">3</i> The second difference: it does not buy belonging
 
 The entire point of masking is to belong. That is the transaction: I will perform your conventions, and in exchange I get to be inside the group.
 
@@ -143,7 +143,7 @@ I want to keep one caution attached here, and it is sharper than it looks. A neu
 
 And there is a further complication that cuts against the simple deficit reading. Milton's double empathy argument holds that the breakdown between autistic and non-autistic people is mutual - two groups failing to read each other, not one group failing to read the other. [^32] Crompton and colleagues gave that empirical support by showing that information transfer between autistic people is as effective as between non-autistic people, and degrades only in mixed pairs. [^33] The isolation is not a straightforward property of the autistic person. It is a property of the pairing.
 
-## <small class="text-body-tertiary">Part 4: </small><br>The third difference: it often does not work
+## <i class="fas text-body-tertiary">4</i> The third difference: it often does not work
 
 Here is the part that gets least attention and deserves the most. And to do this we need to go back to the normative settlement - because it supplies the mechanism.
 
@@ -173,7 +173,7 @@ And the effort does not stop when the encounter does. The Pryke-Hobbes participa
 
 Meanwhile, the thing that does measurably improve how autistic adults are received is the opposite of the mask. Sasson and Morrison found that first impressions of autistic adults improved when the diagnosis was disclosed, and improved further when the observer knew something about autism. [^38] What works is being known. What we spend our lives doing is the reverse.
 
-## <small class="text-body-tertiary">Part 5: </small><br>A different mask for every room
+## <i class="fas text-body-tertiary">5</i> A different mask for every room
 
 Masking is not one performance. It is several, and they are not interchangeable.
 
@@ -195,7 +195,7 @@ And the people who see more than one version draw the obvious conclusion. The Pr
 
 Lai and colleagues' work on quantifying camouflaging is a useful reminder here that this is measurable, individually variable, and present in both autistic men and women. [^40] It is not a character trait. It is a workload.
 
-## <small class="text-body-tertiary">Part 6: </small><br>What the rooms cost: the diagnostic record
+## <i class="fas text-body-tertiary">6</i> What the rooms cost: the diagnostic record
 
 A person who presents differently in every context, whose presentation is effortful and unstable, and who collapses when the audience leaves, looks like something specific from the outside. It usually gets a name long before it gets the right one.
 
@@ -219,7 +219,7 @@ One gap I should name rather than paper over. Popular accounts often add dissoci
 
 The consequence for the person is not only clinical. A decade of being told what is wrong with you, by people with training and authority, where each answer is confidently delivered and none of them work, does something to how much you trust your own account of your own life. By the time the right answer arrives, the habit of not being believed is well established - including by yourself.
 
-## <small class="text-body-tertiary">Part 7: </small><br>The other thing that breaks: work
+## <i class="fas text-body-tertiary">7</i> The other thing that breaks: work
 
 The second measurable outcome is employment, and it is the one where the arithmetic of surface acting becomes visible.
 
@@ -239,7 +239,7 @@ Surface acting predicts exhaustion, and exhaustion predicts leaving. The organis
 
 I could not find a peer-reviewed figure for average job tenure in autistic adults, which is the statistic this section most obviously wants. [^d] The figures circulating online do not trace to a study I can check, so I have not used them.
 
-## <small class="text-body-tertiary">Part 8: </small><br>The verdict you reach without a diagnosis
+## <i class="fas text-body-tertiary">8</i> The verdict you reach without a diagnosis
 
 Everything above describes a mechanism. This part is about what a person concludes from living inside it for forty years without being told it exists.
 
@@ -307,7 +307,7 @@ Exhaustion resolves with rest. Employment can be rebuilt. A diagnosis can be obt
 
 That is why the "everyone masks" conversation is worth having properly rather than winning. The people saying it are not describing this. They have never had to explain a lifetime of unexplained failure with no data except themselves.
 
-## <small class="text-body-tertiary">Part 9: </small><br>So what is the difference?
+## <i class="fas text-body-tertiary">9</i> So what is the difference?
 
 Everyone masks. That is true, and conceding it costs nothing, because the concession is where the argument starts.
 

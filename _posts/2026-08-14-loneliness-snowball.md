@@ -24,7 +24,7 @@ What follows is about what that explanation misses. Autistic loneliness is not a
 
 I have called it a snowball because that is what it does. It is small at the top of the hill and it is not small at the bottom.
 
-## <small class="text-body-tertiary">Part 1: </small><br>What is actually being measured
+## <i class="fas text-body-tertiary">1</i> What is actually being measured
 
 First, the thing itself, because *loneliness* gets used for several different states and the confusion does real damage.
 
@@ -58,7 +58,7 @@ I should say plainly that the loop I am about to describe is not my discovery. S
 
 Now, how does the gap get made?
 
-## <small class="text-body-tertiary">Part 2: </small><br>The first push: you are outside before you have done anything
+## <i class="fas text-body-tertiary">2</i> The first push: you are outside before you have done anything
 
 The snowball does not start with a decision. It starts with a judgement made about you, by other people, faster than either of you can think.
 
@@ -90,7 +90,7 @@ So: judged in seconds, mismatched in company, victimised at close to half, unemp
 
 That is the first push. Nothing in it required the autistic person to do anything at all.
 
-## <small class="text-body-tertiary">Part 3: </small><br>The retreat that keeps you alive
+## <i class="fas text-body-tertiary">3</i> The retreat that keeps you alive
 
 Here is the part that gets misread most often, including by autistic people themselves.
 
@@ -118,7 +118,7 @@ So the retreat has three motives stacked on top of each other: recovery, concent
 
 That is the problem. Nobody watching can tell them apart. Frequently, neither can I.
 
-## <small class="text-body-tertiary">Part 4: </small><br>The paradox, stated plainly
+## <i class="fas text-body-tertiary">4</i> The paradox, stated plainly
 
 Which brings us to the sentence that is hardest to say out loud without sounding as though you are contradicting yourself.
 
@@ -166,7 +166,7 @@ That is another turn downhill, and this time nobody did anything wrong at all. O
 
 That is where it stops being anybody's fault. What follows is what happens as it keeps going.
 
-## <small class="text-body-tertiary">Part 5: </small><br>The wider circle, and how it thins
+## <i class="fas text-body-tertiary">5</i> The wider circle, and how it thins
 
 Part 4 was about the person already in the room with you. This part is about everybody else - the wider circle, the ones whose entire relationship with you consists of asking whether you are coming.
 
@@ -192,7 +192,7 @@ Reinhard and colleagues reviewed experimental ostracism work across psychiatric 
 
 This is the point at which the snowball has picked up its first real weight. The person is now not only excluded; they are primed to expect exclusion, and acting on the expectation.
 
-## <small class="text-body-tertiary">Part 6: </small><br>The deprivation
+## <i class="fas text-body-tertiary">6</i> The deprivation
 
 There is a Facebook post that has been going around, and it is what made me want to write this. [^a]
 
@@ -244,7 +244,7 @@ Which is the worst thing the snowball does, because it is the point at which it 
 
 So: excluded, withdrawn, deprived, and now holding a need that cannot be met alone and has started to look like a personal defect. That is four turns, and the person has still done nothing wrong.
 
-## <small class="text-body-tertiary">Part 7: </small><br>All or nothing, and why it ends the thing it wanted
+## <i class="fas text-body-tertiary">7</i> All or nothing, and why it ends the thing it wanted
 
 Now the turn that does the most damage, and the one I have the least clean evidence for. [^b]
 
@@ -314,7 +314,7 @@ The relationship ends. And it ends in a way that confirms every prediction the l
 
 That is the snowball back where it started, heavier. You are now lonelier than you were, more certain that closeness ends badly, more primed to detect the ending early, and another friend short.
 
-## <small class="text-body-tertiary">Part 8: </small><br>A warning about this argument
+## <i class="fas text-body-tertiary">8</i> A warning about this argument
 
 I have to stop here and say something about the shape of what I have just written, because it has a dangerous twin.
 
@@ -342,7 +342,7 @@ I should say plainly why this section is here at all. An argument that explains 
 
 What I have written is a description of a mechanism. It is not a grievance, and it is not an invoice.
 
-## <small class="text-body-tertiary">Part 9: </small><br>What the loop costs, and where it can be broken
+## <i class="fas text-body-tertiary">9</i> What the loop costs, and where it can be broken
 
 The costs are not abstract, and I am not going to soften them.
 
@@ -388,7 +388,7 @@ That is not a reason to avoid therapy. It is a reason to shop. The specific fail
 
 What I will not do is end this by telling anyone to put themselves out there more. The evidence does not support that instruction. Autistic adults are not failing to want connection [^7], and trying harder at the presentation does not improve how it lands. [^32] The people telling us to be more social are describing a mechanism that works for them and has been measured not working for us.
 
-## <small class="text-body-tertiary">In closing: </small><br>A disability, filed as a preference
+## <small class="text-body-tertiary">In closing:</small> A disability, filed as a preference
 
 Being alone is fine. I am good at it, and I intend to keep doing it. What is not fine is that the choosing gradually stopped being a choice - that the calendar emptied for reasons that were mostly other people's, and then the emptiness got explained back to me as my personality.
 
