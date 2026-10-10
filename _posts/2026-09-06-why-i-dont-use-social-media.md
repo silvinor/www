@@ -16,9 +16,11 @@ excerpt: >-
 
 {% include post-meta.html post=page %}
 
-People ask why I don't use social media. Privacy is good part of the answer, but that's not all.
+People ask why I don't use social media. Privacy is a good part of the answer, but that's not all.
 
-There is the time it takes, and the superficial and meaningless comparison with other people - but the thing I keep coming back to is friendship. Friendship is not a metric - neither in count, or in strength - and some arbitrary company has no right to who, what, or how I interact with my true relationships, nor should they collect information about who I talk to or what we share.
+There is the time it takes; and the superficial and meaningless comparison with other people; ... but the thing I keep coming back to, is this concept of friendship. Friendship is not a metric - neither in count, or in strength - and some arbitrary company has no right to who, what, or how, I interact with my true relationships; nor should they collect information about who I talk to or what we share. "Social platforms" are, ironically, less about socialising than they are about society's addiction to convenience - and by doing so, destroy the the very essence of what builds societies.
+
+Not that social media has necessarily made us less social. Rather, it has made socialising less demanding, stripping away precisely those obligations, compromises, and shared experiences through which societies develop cohesion. So-called "social platforms" may have optimised the mechanisms of social interaction while neglecting the conditions necessary for society itself. The consequences are difficult to ignore: increasingly superficial relationships, cyberbullying, social isolation, and, in some tragic cases, self-harm and loss of life.
 
 I have listed eight reasons below as to why I stay away. Some have good research behind them. Others are about what I want from my own life. They don't all carry the same weight - and on some others may disagree - but they're strong enough for me to have a visceral distaste for social media.
 
