@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Not Worth It: Procedural Fairness and Autistic Withdrawal from Competition"
-permalink: /proposals/competition-and-fairness.html
+permalink: /ideas/competition-and-fairness.html
 author: Silvino Rodrigues
-category: Proposals
+category: Ideas
 tags: Autism
 excerpt: >-
   In the laboratory, competition suits autistic people rather well. Put an autistic child in a competitive game and their performance improves. Embed a false-belief task inside a contest with a prize and the proportion passing rises from thirteen per cent to seventy-four. Sit autistic adults down to a purely strategic numbers game against other players and, on the best-known test of it, they hold their own. Outside the laboratory, autistic adults are thinly represented in the arenas where adult life is openly competitive - the ranked, the rivalrous, the winner-takes-most. Where anyone has bothered to count, the gap is large.

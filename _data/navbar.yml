@@ -7,10 +7,10 @@ menu:
     url: /essays/
     fa: fas fa-newspaper
     active: essays
-  - title: Proposals
-    url: /proposals/
+  - title: Ideas
+    url: /ideas/
     fa: fas fa-lightbulb
-    active: proposals
+    active: ideas
   # - title: Theses
   #   url: /thesis/
   #   fa: fas fa-graduation-cap

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Second Person in the Room: Late Diagnosis and Relationship Outcomes"
-permalink: /proposals/late-diagnosis-relationships.html
+permalink: /ideas/late-diagnosis-relationships.html
 author: Silvino Rodrigues
-category: Proposals
+category: Ideas
 tags: 
   - Autism
   - ADHD
