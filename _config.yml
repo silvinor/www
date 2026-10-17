@@ -58,6 +58,9 @@ plugins:
   # - jekyll-email-protect
   - jekyll-seo-tag
 
+feed:
+  posts_limit: 50
+
 ## --- jekyll-category-pages config ---
 # category_path: .
 # category_layout: my-category.html
