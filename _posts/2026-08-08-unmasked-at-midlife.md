@@ -15,6 +15,8 @@ excerpt: >-
 
 {% include post-meta.html post=page %}
 
+{% include part-of-yia.html chapter=1 %}
+
 I led teams. I made hiring decisions. I built a thirty-year corporate career. And for almost all of it, I did not know that my own brain was autistic.
 
 I am not unusual. Across the world, adults are sitting in the consulting room for the first time in their forties, fifties, and sixties, and hearing a word that reframes their entire life. Many people assume this means autism is spreading. It is not. What has changed is not the number of autistic people. It is our ability to see them.

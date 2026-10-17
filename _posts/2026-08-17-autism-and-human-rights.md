@@ -15,6 +15,8 @@ excerpt: >-
 
 {% include post-meta.html post=page %}
 
+{% include part-of-yia.html chapter=4 %}
+
 In 1948 the United Nations adopted the Universal Declaration of Human Rights. Thirty articles, written a few years after the world had finished demonstrating what happens without them. [^1][^1a]
 
 Read them and something about the drafting stands out. *Everyone* has the right to work. *Everyone* has the right to a standard of living adequate for health and well-being. *Everyone* has the right to recognition everywhere as a person before the law. There is no clause about producing evidence. Not one article is conditional on a document.

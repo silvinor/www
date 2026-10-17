@@ -16,6 +16,8 @@ force_excerpt: true
 
 {% include post-meta.html post=page %}
 
+{% include part-of-yia.html chapter=5 %}
+
 You called me stupid.
 
 Maybe not you. Somebody did - a teacher, a manager, a boy in a playground - and eventually me, about myself, in my own voice, which is the version that stuck. And I believed it. Not in a wounded way. I believed it the way anyone believes a conclusion the evidence supports, and for fifty years the evidence only ever pointed one direction.

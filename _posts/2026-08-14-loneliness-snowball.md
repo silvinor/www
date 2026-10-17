@@ -16,6 +16,8 @@ excerpt: >-
 
 {% include post-meta.html post=page %}
 
+{% include part-of-yia.html chapter=3 %}
+
 There is a sentence autistic people hear a lot: *but you like being on your own.*
 
 It is not a stupid thing to say. It is often true. I do like being on my own; I need it, and I get less done and feel worse without it. The problem is what the sentence is being used for. It is used to close the question - to explain the empty calendar as a preference, and to move on.

@@ -34,10 +34,12 @@ theme:
     disable_seo: 0     # 0 (default) SEO is ON, 1 = SEO is OFF / not generated
 css:
   # Find latest from https://cdnjs.com/
-  # Generate SRI Hash from https://www.srihash.org/
+  # Generate SRI Hash from https://srihash.org/
   bootstrap:
-    url: "https://cdn.jsdelivr.net/gh/silvinor/bootlace@HEAD/dist/css/bootlace.css"
-    hash: "sha256-3USUNudo0kS7Vez3+AQOmFT8sf7/H0iImNLha+QH9TU="
+    url: "https://cdn.jsdelivr.net/gh/silvinor/bootlace@HEAD/dist/css/bootlace.min.css"
+    hash: "sha256-oGfm/KgBQ9H82ym489UYJg83Wi3Pt5gCUAxJZYxt5OQ="
+    _url: "https://cdn.jsdelivr.net/gh/silvinor/bootlace@HEAD/dist/css/bootlace.css"
+    _hash: "sha256-3USUNudo0kS7Vez3+AQOmFT8sf7/H0iImNLha+QH9TU="
   fontawesome:
     url: "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css"
     hash: "sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c="

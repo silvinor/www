@@ -15,6 +15,8 @@ excerpt: >-
 
 {% include post-meta.html post=page %}
 
+{% include part-of-yia.html chapter=2 %}
+
 Say the word "masking" in a room of non-autistic people and someone will eventually say: *but everyone does that.*
 
 They are right. That is the difficult part. The claim is not wrong, it is not usually said in bad faith, and dismissing it does the autistic case no favours. Impression management is one of the most thoroughly documented behaviours in social psychology, it is universal, and any argument that starts by denying it is going to lose.

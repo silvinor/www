@@ -8,6 +8,7 @@ tags:
   - Autism
   - ADHD
   - AI
+  - Autobiographic
 excerpt: >-
   Autism is defined largely by differences in how we communicate. Add ADHD, dyslexia and words that won't come when I need them, and there's a big gap between what I know and what I can get onto a page. AI helps me translate across it. I know a lot of people are angry about AI, and some of that anger is fair. This is how I use it, how these essays get written, and why I think it can work as a disability accommodation.
 ---
@@ -40,7 +41,7 @@ For me that has meant years of good intentions I couldn't hold on to. I'd make a
 
 I don't remember more now. I just don't have to hold as much. I can ask in the middle of a task and get an answer, without the diary entry I never would have made, or interrupting someone and then feeling bad about interrupting them. And it doesn't get sick of me asking, or treat the asking as a character flaw.
 
-## <i class="fas text-body-tertiary">3</i> Spelling, and the word that won't come
+## <i class="fas text-body-tertiary">3</i> Spelling, and the words that won't come
 
 Then there's getting anything onto the page at all.
 

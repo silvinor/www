@@ -1,0 +1,10 @@
+{%- comment -%}
+  Notes that an essay also appears as a chapter in the book "Yes, I'm Autistic".
+  Usage: {% include part-of-yia.html chapter=5 %}
+    chapter : the essay's chapter number in the book (optional)
+{%- endcomment -%}
+{%- assign yia_where = "a chapter in" -%}
+{%- if include.chapter -%}
+  {%- assign yia_where = "chapter " | append: include.chapter | append: " of" -%}
+{%- endif -%}
+<blockquote class="side-plug small border border-secondary rounded rounded-3 shadow shadow-sm bg-body-tertiary text-muted">This essay is {{ yia_where }} my book <a href="https://c1k.it/yia">Yes, I'm Autistic</a>. It's free to read here; but... if you'd like it in paperback, buying the book helps support the writing.</blockquote>

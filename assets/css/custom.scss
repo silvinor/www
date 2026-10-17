@@ -243,3 +243,13 @@ blockquote {
   //   &:after { content: ''; }
   // }
 }
+
+// Book plug at the top of an essay (_includes/part-of-yia.html).
+// Size, border, colour and background come from Bootstrap classes on the
+// element: .small .border .border-secondary .bg-body-tertiary
+// Only the dotted style has no Bootstrap class, so set it through the
+// variable that .border reads.
+.side-plug {
+  --#{$prefix}border-style: dashed;
+  opacity: .667;
+}
