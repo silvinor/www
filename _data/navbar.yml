@@ -18,6 +18,9 @@ menu:
   - title: Books
     fa: fas fa-book
     items:
+      - title: Employing Variant Minds
+        url: http://c1k.it/evm
+        fa: fas fa-book-open
       - title: "Yes I'm Autistic"
         url: https://c1k.it/yia
         fa: fas fa-book-open
