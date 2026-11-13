@@ -11,10 +11,10 @@ menu:
     url: /ideas/
     fa: fas fa-lightbulb
     active: ideas
-  # - title: Theses
-  #   url: /thesis/
-  #   fa: fas fa-graduation-cap
-  #   active: thesis
+  - title: Theses
+    url: /thesis/
+    fa: fas fa-graduation-cap
+    active: thesis
   - title: Books
     fa: fas fa-book
     items:

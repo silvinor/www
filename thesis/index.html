@@ -7,12 +7,16 @@ active: thesis
 #   status_class is a Bootstrap text-bg-* colour, e.g. text-bg-warning / text-bg-success
 theses:
   - title: "The Effect of Visual Oddity on Perceived Comfort in Everyday Scenes"
-    subtitle: "Psychology Honours Thesis"
-    url: /thesis/1/
+    subtitle: "Psychology Honours Thesis, UNSW"
+    url: /thesis/visual-oddity-perceived-comfort
     description: >-
-      Currently being edited - please revisit at a later date for updates.
-    status: In progress
-    status_class: text-bg-warning
+      People find odd things in everyday scenes uncomfortable because they do
+      not expect them. Busy scenes also feel less comfortable, but not because
+      they seem unusual. This suggests that discomfort comes from learned
+      expectations, not from the odd thing itself. This may also mean that
+      learning about the odd thing before experiencing it can reduce discomfort.
+    status: "Pre-release"
+    status_class: "text-bg-warning"
 ---
 
 <div class="row justify-content-center">
@@ -20,7 +24,7 @@ theses:
 
     <h1><i class="fa-solid fa-graduation-cap me-1 text-body-tertiary iridescent" aria-hidden="true"></i> Theses</h1>
 
-    <p>Some of the academic writings behind the ideas on this site - shared in case it's useful to learn from, or to improve on. This is novice work, not veteran work; treat the methodology sections with the gentle suspicion they've earned.</p>
+    <p>Some of the academic writings behind the ideas on this site - shared in case it's useful to learn from, or to improve on.</p>
 
     {%- for item in page.theses -%}
     <article class="position-relative py-4{% unless forloop.last %} border-bottom{% endunless %}">

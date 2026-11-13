@@ -33,18 +33,20 @@ theme:
     tool_tips: 1       # 0 (default) = off, 1 = on
     disable_seo: 0     # 0 (default) SEO is ON, 1 = SEO is OFF / not generated
 css:
-  # Find latest from https://cdnjs.com/
-  # Generate SRI Hash from https://srihash.org/
   bootstrap:
-    url: "https://cdn.jsdelivr.net/gh/silvinor/bootlace@HEAD/dist/css/bootlace.css"
-    hash: "sha256-3USUNudo0kS7Vez3+AQOmFT8sf7/H0iImNLha+QH9TU="
+    # Bootlace, a Bootstrap in-place-replace
+    url: "https://cdn.jsdelivr.net/gh/silvinor/bootlace@5.3.9/dist/css/bootlace.min.css"
+    hash: "sha256-1taxrAixKslxeg3l6rizqeGPV/TqVJtYWpyRukODMFo="
   fontawesome:
-    url: "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css"
-    hash: "sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c="
+    # FontAwesome 7
+    url: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css"
+    hash: "sha256-4Lad8m4ZWW1Lgb9+sMVLYEfnIh7BjV1NQMEe79Pviks="
 js:
   popper:
+    # Popper JS v2
     url: "https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-    hash: "sha256-whL0tQWoY1Ku1iskqPFvmZ+CHsvmRWx/PIoEvIeWh4I="
+    hash: "sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
   bootstrap:
-    url: "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js"
-    hash: "sha256-ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc="
+    # Bootstrap v5.3.8
+    url: https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/js/bootstrap.min.js
+    hash: "sha256-rs98T2QguTYrysS3I/ILYXg1ufLcWwex6VpjAA4s62w="
