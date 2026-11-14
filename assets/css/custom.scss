@@ -199,12 +199,6 @@ blockquote {
   // background-color: shade-color($body-bg, 2.5%);
   position: relative;
 
-  @include color-scheme(dark) {
-    // background-color: tint-color($body-bg-dark, 2.5%);
-    // border-left: 4px solid $secondary-border-subtle-dark;
-    // border-right: 4px solid $secondary-border-subtle-dark;
-  }
-
   p {
     margin-bottom: 0;
     background-color: transparent;
@@ -252,4 +246,18 @@ blockquote {
 .side-plug {
   --#{$prefix}border-style: dashed;
   opacity: .667;
+}
+
+img {
+  max-width: 100% !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  img:not([src*=".svg"]) {
+    filter: brightness(.8) contrast(1.2);
+    transition: all .5s ease-in-out;
+    &:hover {
+      filter: none;
+    }
+  }
 }
