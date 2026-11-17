@@ -4,17 +4,13 @@
 
 @charset "utf-8";
 
-/* Borrow some of Bootstrap 5's modules */
-// Make sure your _config.yml has:
-// sass:
-//   load_paths:
-//     - node_modules/bootstrap/scss/
-// @import "functions";
-// @import "mixins/border-radius";
-// @import "mixins/breakpoints";
-// @import "mixins/color-mode";
-// @import "mixins/color-scheme";
-// @import "variables";
+// ----- Borrow some of Bootstrap 5's modules -----
+@import "functions";
+@import "mixins/border-radius";
+@import "mixins/breakpoints";
+@import "mixins/color-mode";
+@import "mixins/color-scheme";
+@import "variables";
 
 
 // /* ------------ */
@@ -24,43 +20,43 @@
 // None
 
 
-// /* ------------------------------- */
-// /* Jumbotron was removed from BS-5 */
-// /* ------------------------------- */
+/* ------------------------------- */
+/* Jumbotron was removed from BS-5 */
+/* ------------------------------- */
 
-// $jumbotron-padding:    2rem !default;
-// $jumbotron-color:      null !default;
-// $jumbotron-color-dark: null !default;
-// $jumbotron-bg:         $gray-200 !default;
-// $jumbotron-bg-dark:    $gray-800 !default;
+$jumbotron-padding:    2rem !default;
+$jumbotron-color:      null !default;
+$jumbotron-color-dark: null !default;
+$jumbotron-bg:         $gray-200 !default;
+$jumbotron-bg-dark:    $gray-800 !default;
 
-// .jumbotron {
-//   padding: $jumbotron-padding ($jumbotron-padding * .5);
-//   margin-bottom: $jumbotron-padding;
-//   color: $jumbotron-color;
-//   background-color: $jumbotron-bg;
-//   @include border-radius($border-radius-lg);
+.jumbotron {
+  padding: $jumbotron-padding ($jumbotron-padding * .5);
+  margin-bottom: $jumbotron-padding;
+  color: $jumbotron-color;
+  background-color: $jumbotron-bg;
+  @include border-radius($border-radius-lg);
 
-//   @include media-breakpoint-up(sm) {
-//     padding: ($jumbotron-padding * 2) $jumbotron-padding;
-//   }
-// }
+  @include media-breakpoint-up(sm) {
+    padding: ($jumbotron-padding * 2) $jumbotron-padding;
+  }
+}
 
-// .jumbotron-fluid {
-//   padding-right: 0;
-//   padding-left: 0;
-//   @include border-radius(0);
-// }
+.jumbotron-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  @include border-radius(0);
+}
 
-// @include color-mode(dark) { // [data-bs-theme=dark]
-//   .jumbotron {
-//     color: $jumbotron-color-dark;
-//     background-color: $jumbotron-bg-dark;
-//   }
-// }
-// @include color-scheme(dark) { //
-//   .jumbotron {
-//     color: $jumbotron-color-dark;
-//     background-color: $jumbotron-bg-dark;
-//   }
-// }
+@include color-mode(dark) { // [data-bs-theme=dark]
+  .jumbotron {
+    color: $jumbotron-color-dark;
+    background-color: $jumbotron-bg-dark;
+  }
+}
+@include color-scheme(dark) { //
+  .jumbotron {
+    color: $jumbotron-color-dark;
+    background-color: $jumbotron-bg-dark;
+  }
+}

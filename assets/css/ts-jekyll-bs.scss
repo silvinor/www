@@ -1,24 +1,22 @@
 ---
+# Front Matter comment to ensure Jekyll properly reads file.
 ---
 
 @charset "utf-8";
+
+{%- assign externalLinks = meta.theme.features.external_links | default: 0 -%}
 
 /*!
  *  ts-jekyll-bs template CSS, © 2024 Silvino Rodrigues (@silvinor)
  *  See: https://github.com/Tecsmith/ts-jekyll-bs
  */
 
-/* Borrow some of Bootstrap 5's modules */
-// Make sure your _config.yml has:
-// sass:
-//   load_paths:
-//     - node_modules/bootstrap/scss/
+// ----- Borrow some of Bootstrap 5's modules -----
 @import "functions";
 @import "mixins/breakpoints";
 @import "mixins/color-scheme";
 @import "variables";
 
-/*
 
 // ----------------
 // === Branding ===
@@ -212,8 +210,6 @@ html {
 //   }
 // }
 
-*/
-
 // --------------------------------
 // --- Floating "To Top" button ---
 // --------------------------------
@@ -225,7 +221,7 @@ html {
     opacity: 1;
   }
 }
-@media (prefers-color-scheme: dark) {
+@include color-scheme(dark) {
   .btn-floating {
     outline: 5px solid rgba(255,255,255,0.4);
     outline-offset: 3px;
@@ -251,14 +247,13 @@ html {
   }
 }
 
-@media (min-width: 768px) {
+@include media-breakpoint-up(md) {
   #btn-to-top.btn-floating {
     bottom: 30px;
     right: 40px;
   }
 }
 
-/*
 
 // ----------------
 // - Middot spans -
@@ -278,6 +273,7 @@ html {
 }
 
 // --- External Links ---
+{%- if externalLinks >= 2 %}
 
 @media screen {
   a.external {
@@ -312,6 +308,8 @@ html {
   }
 }
 
+{%- endif %}
+
 // - OS-Detection stuff (BS Helpers) -
 
 .os-macos .d-macos-none,
@@ -322,5 +320,3 @@ html {
 .os-unknown .d-unknown-none {
   display: none !important;
 }
-
-*/

@@ -6,19 +6,61 @@ style: >-
   .e404.first { font-weight: 700 }
   .e404.middle { font-weight: 800 }
   .e404.last { font-weight: 900 }
+script: >-
+  (function () {
+    var redirectListUrl = '/movedmap.json';
+    var currentPath = normalizePath(window.location.href);
+    if (!currentPath) return;
+    fetch(redirectListUrl, { cache: 'no-store' })
+      .then(function (response) {
+        if (!response.ok) return null;
+        return response.json();
+      })
+      .then(function (mappings) {
+        if (!mappings) return;
+        var entries = Array.isArray(mappings) ? mappings : [mappings];
+        var match = entries.find(function (entry) {
+          if (!entry || !entry.from || !entry.to) return false;
+          var fromList = Array.isArray(entry.from) ? entry.from : [entry.from];
+          return fromList.some(function (from) {
+            return normalizePath(from) === currentPath;
+          });
+        });
+        if (match) {
+          var targets = Array.isArray(match.to) ? match.to : [match.to];
+          if (targets[0]) window.location.replace(targets[0]);
+        }
+      })
+      .catch(function () {});
+    function normalizePath(url) {
+      try {
+        var parsed = new URL(url, window.location.origin);
+        var trimmed = parsed.pathname.replace(/\/+$/, '');
+        return trimmed === '' ? '/' : trimmed;
+      } catch (e) {
+        return null;
+      }
+    }
+  })();
 ---
 
-<div class="my-5 mx-5 text-center">
-  <h1 class="text-uppercase font-weight-normal font-sans-serif" style="font-size:2em">
-    <i class="fas fa-hand-paper"></i>
-    Page not found
-  </h1>
-  <h2 class="text-danger display-1 text-center my-5 font-sans-serif">
-    <i class="fas fa-unlink"></i>
-    <span class="e404 first">4</span><span class="e404 middle">0</span><span class="e404 last">4</span>
-  </h2>
-  <p class="text-info text-center">
-    The requested page could not be found.
-    <i class="fas fa-sad-tear"></i>
-  </p>
-</div>
+{%- capture custom404 -%}{% include custom-404.html %}{%- endcapture -%}
+{%- assign custom404 = custom404 | strip -%}
+{%- if custom404 != "" -%}
+  {{ custom404 }}
+{%- else -%}
+  <div class="my-5 mx-5 text-center">
+    <h1 class="text-uppercase font-weight-normal" style="font-size:2em">
+      <i class="fas fa-hand-paper"></i>
+      Page not found
+    </h1>
+    <h2 class="text-danger display-1 text-center my-5">
+      <i class="fas fa-unlink"></i>
+      <span class="e404 first">4</span><span class="e404 middle">0</span><span class="e404 last">4</span>
+    </h2>
+    <p class="text-info">
+      The requested page could not be found.
+      <i class="fas fa-sad-tear"></i>
+    </p>
+  </div>
+{%- endif -%}

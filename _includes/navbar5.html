@@ -12,6 +12,7 @@
 
     {%- assign navbarContainer = meta.theme.navbar.container | default: '' | strip -%}
     {%- assign navbarClass = page.navbar.class | default: meta.theme.navbar.class | default: '' -%}
+    {%- assign hideOnHome = meta.theme.navbar.hide_on_home | default: false -%}
     {%- assign navbarItemsClass = page.navbar.items.class | default: meta.theme.navbar.items.class | default: 'me-auto' -%}
 
     {%- case navbarContainer -%}
@@ -27,8 +28,8 @@
     {%- assign navLogo = meta.theme.navbar.logo | default: "" -%}
     {%- assign navBrand = meta.theme.navbar.brand | default: "" -%}
 
-    {%- comment -%} No brand on the home page — the hero already carries the identity {%- endcomment -%}
-    {%- if page.active == 'home' -%}
+    {%- comment -%} Optional: no brand on the home page, for sites where the hero carries the identity {%- endcomment -%}
+    {%- if hideOnHome and page.active == 'home' -%}
       {%- assign brandLink = "" -%}
       {%- assign navLogo = "" -%}
       {%- assign navBrand = "" -%}
@@ -58,8 +59,8 @@
       <ul class="navbar-nav mb-2 mb-lg-0 {{ navbarItemsClass }}">
 
         {%- for item in navBar.menu -%}
-          {%- comment -%} Don't show the Home item when already on the home page {%- endcomment -%}
-          {%- unless item.active == 'home' and page.active == 'home' -%}
+          {%- comment -%} Optional: hide the Home item when already on the home page {%- endcomment -%}
+          {%- unless hideOnHome and item.active == 'home' and page.active == 'home' -%}
           {%- if item.items[0] == null -%}
             {%- comment -%}<!--
               ****************************

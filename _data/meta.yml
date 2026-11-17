@@ -28,7 +28,7 @@ theme:
   color: "#375a7f"
   features:
     detect_os: 1       # 0 (default) = no, 1 = yes
-    external_links: 3  # 0 (default) = off, 1 = make target _blank, 2 = add icon, 3 = both
+    external_links: 2  # 0 (default) = off, 1 = make target _blank, 2 = add icon, 3 = both
     to_top_btn: 1      # 0 (default) = off, 1 = on
     tool_tips: 1       # 0 (default) = off, 1 = on
     disable_seo: 0     # 0 (default) SEO is ON, 1 = SEO is OFF / not generated

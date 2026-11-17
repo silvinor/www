@@ -27,12 +27,13 @@ liquid:
 
 sass:
   load_paths:
-    - _sass
+    - node_modules/bootstrap/scss/ # npm builds: Bootstrap from npm
+    - _sass/bootstrap5/ # no npm (GitHub Pages): Bootstrap 5.3.9 partials copied into the theme
   sass_dir: assets/css
   # *** PROD: Nice and tight ***
-  sourcemap: never
-  style: compressed
   quiet_deps: true
+  style: compressed  # _config-dev.yml overrides with expanded
+  sourcemap: never  # _config-dev.yml overrides with always
 
 exclude:
   - 'Gemfile'
@@ -44,7 +45,7 @@ exclude:
 include:
   ## --- from theme ---
   - '404.html'
-  - 'site.webmanifest'
+  - 'assets/favicon/site.webmanifest'
   - 'sitemap.xsl'
 
 plugins:
