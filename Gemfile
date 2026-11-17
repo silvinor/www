@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec
 
 ## GitHub Pages builds a site with its own frozen gem set: the `github-pages`
 ## gem, which carries Jekyll 3.10 and only the plugins GitHub allows.
@@ -10,6 +9,10 @@ gemspec
 ## `package.json` set it, so `npm run dev` and `npm run prod` need no change.
 
 if ENV["JEKYLL_SELF_BUILD"]
+  ## The theme's own gemspec. GitHub Pages builds the site, not the gem, and
+  ## its frozen gem set has no entry for a gem built from this repository.
+  gemspec
+
   gem "liquid", "~> 4.0"
   gem "jekyll", "~> 4.4.1"
   gem "ostruct", "~> 0.6"
