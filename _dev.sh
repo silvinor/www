@@ -1,10 +1,11 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S bash
 
 export JEKYLL_ENV="development"
+export JEKYLL_SELF_BUILD=1
 
-echo ""
+echo " "
 echo "Running..."
-figlet " Jekyll"
-echo ""
+figlet " Jekyll - Dev"
+echo " "
 
 bundler exec jekyll serve --config "_config.yml,_config-dev.yml" --trace
