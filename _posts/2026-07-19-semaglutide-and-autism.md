@@ -3,6 +3,7 @@ layout: post
 title: "The Hunger Signal: GLP-1 Drugs and Autistic Interoception"
 permalink: /ideas/semaglutide.html
 author: Silvino Rodrigues
+image: /assets/img/ideas/2026/semaglutide.jpg
 category: Ideas
 tags: Autism
 excerpt: >-

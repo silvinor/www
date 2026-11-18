@@ -3,6 +3,7 @@ layout: post
 title: "Everyone Masks: What Makes the Autistic Version Different"
 permalink: /essays/everyone-masks.html
 author: Silvino Rodrigues
+image: /assets/img/essays/2026/everyone-masks.jpg
 category: Essays
 tags:
   - Autism

@@ -3,6 +3,7 @@ layout: post
 title: "Why I Don't Use Social Media"
 permalink: /essays/no-social-media.html
 author: Silvino Rodrigues
+image: /assets/img/essays/2026/no-social-media.jpg
 category: Essays
 tags:
   - Social Media

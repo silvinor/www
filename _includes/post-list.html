@@ -41,10 +41,24 @@
       {{- post.title -}}
     </a>
   </h3>
-  <p class="text-body-secondary mb-2">{{ preview }}</p>
-  <span class="small fw-medium">
-    Continue reading <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
-  </span>
+  <div class="row g-3 align-items-start">
+    {%- if post.image -%}
+    <div class="col-12 col-lg-4 order-lg-2">
+      <img
+        src="{{ post.image | relative_url }}"
+        alt="{{ post.image_alt | default: post.title }}"
+        width="1200"
+        height="630"
+        class="img-fluid rounded-3 border shadow-sm">
+    </div>
+    {%- endif -%}
+    <div class="{% if post.image %}col-12 col-lg-8 order-lg-1{% else %}col-12{% endif %}">
+      <p class="text-body-secondary mb-2">{{ preview }}</p>
+      <span class="small fw-medium">
+        Continue reading <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+      </span>
+    </div>
+  </div>
 </article>
 {%- endfor -%}
 

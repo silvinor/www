@@ -3,6 +3,7 @@ layout: post
 title: "Under-Researched: Extinction Learning and RSD in ADHD"
 permalink: /essays/rsd-and-extinction-learning.html
 author: Silvino Rodrigues
+image: /assets/img/ideas/2026/rsd-and-extinction-learning.jpg
 category: Ideas
 tags:
   - ADHD

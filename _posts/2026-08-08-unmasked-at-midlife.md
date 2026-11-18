@@ -3,6 +3,7 @@ layout: post
 title: "Unmasked at Midlife: Making Sense of a Late Autism Diagnosis"
 permalink: /essays/unmasked-at-midlife.html
 author: Silvino Rodrigues
+image: /assets/img/essays/2026/unmasked-at-midlife.jpg
 category: Essays
 tags:
   - Autism

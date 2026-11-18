@@ -3,6 +3,7 @@ layout: post
 title: "Overshadowed: Does ADHD Explain Late-Diagnosed Autism?"
 permalink: /ideas/adhd-contributor-of-late-diagnosis-asd.html
 author: Silvino Rodrigues
+image: /assets/img/ideas/2026/adhd-contributor-of-late-diagnosis-asd.jpg
 category: Ideas
 tags:
   - Autism

@@ -3,6 +3,7 @@ layout: post
 title: "The Loneliness Snowball: How Autistic Isolation Feeds Itself"
 permalink: /essays/loneliness-snowball.html
 author: Silvino Rodrigues
+image: /assets/img/essays/2026/loneliness-snowball.jpg
 category: Essays
 tags:
   - Autism

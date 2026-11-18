@@ -3,6 +3,7 @@ layout: post
 title: "Rights You Have to Ask For: Autistic Adults and the Universal Declaration of Human Rights"
 permalink: /essays/autism-and-human-rights.html
 author: Silvino Rodrigues
+image: /assets/img/essays/2026/autism-and-human-rights.jpg
 category: Essays
 tags:
   - Autism

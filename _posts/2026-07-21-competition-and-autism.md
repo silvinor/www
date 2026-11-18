@@ -3,6 +3,7 @@ layout: post
 title: "Not Worth It: Procedural Fairness and Autistic Withdrawal from Competition"
 permalink: /ideas/competition-and-fairness.html
 author: Silvino Rodrigues
+image: /assets/img/ideas/2026/competition-and-fairness.jpg
 category: Ideas
 tags: Autism
 excerpt: >-

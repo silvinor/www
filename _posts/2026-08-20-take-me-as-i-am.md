@@ -3,6 +3,7 @@ layout: post
 title: "Take Me As I Am"
 permalink: /essays/take-me-as-i-am.html
 author: Silvino Rodrigues
+image: /assets/img/essays/2026/take-me-as-i-am.jpg
 category: Essays
 tags:
   - Autism
