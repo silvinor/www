@@ -5,16 +5,10 @@ active: home
 author: false
 ---
 
-<div class="row justify-content-center">
-  <div class="col-lg-9 col-xl-8">
-
-    {%- if site.posts.size > 0 -%}
-    <div class="d-flex align-items-baseline justify-content-between mb-2">
-      <h2 class="h6 text-uppercase text-body-secondary mb-0 iridescent" style="letter-spacing: .08em;">Latest writing</h2>
-    </div>
-    {%- endif -%}
-
-    {%- include post-list.html posts=site.posts -%}
-
-  </div>
+{%- if site.posts.size > 0 -%}
+<div class="d-flex align-items-baseline justify-content-between mb-2">
+  <h2 class="h6 text-uppercase text-body-secondary mb-0 iridescent" style="letter-spacing: .08em;">Latest writing</h2>
 </div>
+{%- endif -%}
+
+{%- include post-list.html posts=site.posts -%}

@@ -19,34 +19,28 @@ theses:
     status_class: "text-bg-warning"
 ---
 
-<div class="row justify-content-center">
-  <div class="col-lg-9 col-xl-8">
+  <h1><i class="fa-solid fa-graduation-cap me-1 text-body-tertiary iridescent" aria-hidden="true"></i> Theses</h1>
 
-    <h1><i class="fa-solid fa-graduation-cap me-1 text-body-tertiary iridescent" aria-hidden="true"></i> Theses</h1>
+  <p>Some of the academic writings behind the ideas on this site - shared in case it's useful to learn from, or to improve on.</p>
 
-    <p>Some of the academic writings behind the ideas on this site - shared in case it's useful to learn from, or to improve on.</p>
-
-    {%- for item in page.theses -%}
-    <article class="position-relative py-4{% unless forloop.last %} border-bottom{% endunless %}">
-      {%- if item.status -%}
-      <div class="d-flex flex-wrap align-items-center column-gap-2 small text-body-secondary mb-2">
-        <span class="badge {{ item.status_class | default: 'text-bg-secondary' }} bg-opacity-75 fw-normal">{{ item.status }}</span>
-      </div>
-      {%- endif -%}
-      <h3 class="h4 mb-1">
-        <a href="{{ item.url | relative_url }}"
-           class="link-body-emphasis link-underline-opacity-0 link-underline-opacity-75-hover stretched-link">
-          {{- item.title -}}
-        </a>
-      </h3>
-      {%- if item.subtitle -%}
-      <div class="small text-uppercase text-body-secondary mb-2" style="letter-spacing: .05em;">{{ item.subtitle }}</div>
-      {%- endif -%}
-      {%- if item.description -%}
-      <p class="text-body-secondary mb-0">{{ item.description }}</p>
-      {%- endif -%}
-    </article>
-    {%- endfor -%}
-
-  </div>
-</div>
+  {%- for item in page.theses -%}
+  <article class="position-relative py-4{% unless forloop.last %} border-bottom{% endunless %}">
+    {%- if item.status -%}
+    <div class="d-flex flex-wrap align-items-center column-gap-2 small text-body-secondary mb-2">
+      <span class="badge {{ item.status_class | default: 'text-bg-secondary' }} bg-opacity-75 fw-normal">{{ item.status }}</span>
+    </div>
+    {%- endif -%}
+    <h3 class="h4 mb-1">
+      <a href="{{ item.url | relative_url }}"
+          class="link-body-emphasis link-underline-opacity-0 link-underline-opacity-75-hover stretched-link">
+        {{- item.title -}}
+      </a>
+    </h3>
+    {%- if item.subtitle -%}
+    <div class="small text-uppercase text-body-secondary mb-2" style="letter-spacing: .05em;">{{ item.subtitle }}</div>
+    {%- endif -%}
+    {%- if item.description -%}
+    <p class="text-body-secondary mb-0">{{ item.description }}</p>
+    {%- endif -%}
+  </article>
+  {%- endfor -%}

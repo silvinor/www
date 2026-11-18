@@ -34,6 +34,19 @@ body {
   }
 }
 
+// Match the former col-lg-9 col-xl-8 content width without per-page wrappers.
+@include media-breakpoint-up(lg) {
+  .container { max-width: 720px; }
+}
+
+@include media-breakpoint-up(xl) {
+  .container { max-width: 960px; }
+}
+
+@include media-breakpoint-up(xxl) {
+  .container { max-width: 1080px; }
+}
+
 // On desktop, lift the navbar brand out of the flex flow so the centered
 // menu (.navbar-nav with mx-auto) aligns to the true page center-line
 // instead of the space left over beside the brand. Anchors to the nav

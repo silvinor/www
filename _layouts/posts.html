@@ -14,12 +14,6 @@ layout: default
   {%- assign list_posts = site.posts -%}
 {%- endif -%}
 
-<div class="row justify-content-center">
-  <div class="col-lg-9 col-xl-8">
+{{ content }}
 
-    {{ content }}
-
-    {%- include post-list.html posts=list_posts -%}
-
-  </div>
-</div>
+{%- include post-list.html posts=list_posts -%}
