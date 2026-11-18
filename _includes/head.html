@@ -7,7 +7,7 @@
 {%- assign fav180 = false -%}
 {%- assign fav32 = false -%}
 {%- assign fav16 = false -%}
-{%- assign favMnf = false -%}
+{%- assign favMnf = '/assets/favicon/site.webmanifest' | add_query_str: '_d', debugTag | absolute_url -%}
 {%- for static_file in site.static_files -%}
   {%- if static_file.path contains 'favicon.ico' -%}
     {%- assign favIco = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
@@ -26,9 +26,6 @@
   {%- endif -%}
   {%- if static_file.path contains 'favicon-16x16.png' -%}
     {%- assign fav16 = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
-  {%- endif -%}
-  {%- if static_file.path contains 'site.webmanifest' -%}
-    {%- assign favMnf = static_file.path | add_query_str: '_d', debugTag | absolute_url -%}
   {%- endif -%}
 {%- endfor -%}
 
