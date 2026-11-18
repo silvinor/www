@@ -3,7 +3,7 @@ layout: page
 title: Theses
 active: thesis
 # Semi-static link list — add an entry per thesis.
-# Fields: title (required), url (required), subtitle, description, status, status_class
+# Fields: title (required), url (required), subtitle, description, status, status_class, image, image_alt
 #   status_class is a Bootstrap text-bg-* colour, e.g. text-bg-warning / text-bg-success
 theses:
   - title: "The Effect of Visual Oddity on Perceived Comfort in Everyday Scenes"
@@ -17,6 +17,8 @@ theses:
       learning about the odd thing before experiencing it can reduce discomfort.
     status: "Pre-release"
     status_class: "text-bg-warning"
+    image: /thesis/visual-oddity-perceived-comfort/assets/img/unexpected-pelican.min.jpg
+    # image_alt: "The Effect of Visual Oddity on Perceived Comfort in Everyday Scenes"
 ---
 
   <h1><i class="fa-solid fa-graduation-cap me-1 text-body-tertiary iridescent" aria-hidden="true"></i> Theses</h1>
@@ -39,8 +41,22 @@ theses:
     {%- if item.subtitle -%}
     <div class="small text-uppercase text-body-secondary mb-2" style="letter-spacing: .05em;">{{ item.subtitle }}</div>
     {%- endif -%}
+  <div class="row g-3 align-items-start">
+    {%- if item.image -%}
+    <div class="col-12 col-lg-4 order-lg-2">
+      <img
+        src="{{ item.image | relative_url }}"
+        alt="{{ item.image_alt | default: item.title }}"
+        width="1200"
+        height="630"
+        class="img-fluid rounded-3 border shadow-sm">
+    </div>
+    {%- endif -%}
+    <div class="{% if item.image %}col-12 col-lg-8 order-lg-1{% else %}col-12{% endif %}">
     {%- if item.description -%}
     <p class="text-body-secondary mb-0">{{ item.description }}</p>
     {%- endif -%}
+    </div>
+  </div>
   </article>
   {%- endfor -%}
