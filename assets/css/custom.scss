@@ -107,6 +107,11 @@ img.logo {
     text-indent: 1em;
   }
 
+  p[align="center"] {
+    text-align: center;
+    text-indent: 0;
+  }
+
   p, li {
     line-height: 1.75;
   }
