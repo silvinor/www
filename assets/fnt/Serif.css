@@ -1,28 +1,49 @@
 /*
+ * Serif Font :)
  */
 
 @font-face {
-  font-family: "Anthropic Serif";
+  font-family: "Serif";
   src:
-    url("AnthropicSerif.woff2") format("woff2"),
-    url("AnthropicSerif.ttf") format(truetype);
+    url("Serif.woff2") format("woff2"),
+    url("Serif.ttf") format(truetype);
   font-weight: 300 800;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Anthropic Serif";
+  font-family: "Serif";
   src:
-    url("AnthropicSerif-Italic.woff2") format("woff2"),
-    url("AnthropicSerif-Italic.ttf") format(truetype);
+    url("Serif-Italic.woff2") format("woff2"),
+    url("Serif-Italic.ttf") format(truetype);
   font-weight: 300 800;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Anthropic Serif Fallback Georgia";
+  font-family: "Serif";
+  src:
+    url("Serif-Bold.woff2") format("woff2"),
+    url("Serif-Bold.ttf") format(truetype);
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Serif";
+  src:
+    url("Serif-BoldItalic.woff2") format("woff2"),
+    url("Serif-BoldItalic.ttf") format(truetype);
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Serif Fallback Georgia";
   src: local(Georgia);
   size-adjust: 104.79%;
   ascent-override: 94.71%;
@@ -34,7 +55,7 @@
 }
 
 @font-face {
-  font-family: Anthropic "Serif Fallback Times";
+  font-family: "Serif Fallback Times";
   src:
     local(Times New Roman), local(TimesNewRomanPSMT), local(Liberation Serif),
     local(LiberationSerif);
@@ -48,7 +69,7 @@
 }
 
 @font-face {
-  font-family: "Anthropic Serif Fallback DejaVu";
+  font-family: "Serif Fallback DejaVu";
   src: local(DejaVu Serif), local(DejaVuSerif);
   size-adjust: 90.15%;
   ascent-override: 110.1%;
@@ -60,7 +81,7 @@
 }
 
 @font-face {
-  font-family: "Anthropic Serif Fallback Noto";
+  font-family: "Serif Fallback Noto";
   src: local(Noto Serif), local(NotoSerif), local(NotoSerif-Regular);
   size-adjust: 97.12%;
   ascent-override: 102.19%;
