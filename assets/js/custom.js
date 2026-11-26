@@ -16,4 +16,18 @@ document.addEventListener('DOMContentLoaded', () => {
     element.innerHTML = s;
   });
 
+  // --- GitHub-style link icon on headings (ids come from kramdown) ---
+  document.querySelectorAll('.content :is(h1, h2, h3, h4, h5, h6)[id]').forEach((h) => {
+    const a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.className = 'heading-anchor';
+    a.setAttribute('aria-label', 'Link to this section');
+    a.innerHTML = '<i class="fa-solid fa-link"></i>';
+    h.prepend(a);
+    // Small screens hide the icon (see custom.scss), so the heading itself is the link.
+    h.addEventListener('click', (e) => {
+      if (getComputedStyle(a).display === 'none' && !e.target.closest('a')) location.hash = h.id;
+    });
+  });
+
 });

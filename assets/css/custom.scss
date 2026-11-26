@@ -292,3 +292,23 @@ div.toc li {
 p.tsandfs {
   text-indent: 0;
 }
+
+// Heading link icon, added by custom.js; sits left of the heading and shows on hover like GitHub.
+.content :is(h1, h2, h3, h4, h5, h6)[id] { position: relative; }
+.heading-anchor {
+  position: absolute;
+  right: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  padding-right: .4em;
+  font-size: .6em;
+  color: var(--#{$prefix}tertiary-color);
+  opacity: 0;
+  transition: opacity .15s;
+}
+:is(h1, h2, h3, h4, h5, h6):hover .heading-anchor,
+.heading-anchor:focus { opacity: 1; }
+@include media-breakpoint-down(md) {
+  .heading-anchor { display: none; }
+  .content :is(h1, h2, h3, h4, h5, h6)[id] { cursor: pointer; }
+}
