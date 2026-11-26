@@ -41,12 +41,14 @@ exclude:
   - '.sass-cache/'
   - '.jekyll-cache/'
   - 'gemfiles/'
+  - '__search.json'
 
 include:
   ## --- from theme ---
   - '404.html'
   - 'assets/favicon/site.webmanifest'
   - 'sitemap.xsl'
+  - 'search.json'
 
 plugins:
   ## ... More ...

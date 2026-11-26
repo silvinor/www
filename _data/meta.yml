@@ -50,3 +50,7 @@ js:
     # Bootstrap v5.3.8
     url: https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/js/bootstrap.min.js
     hash: "sha256-rs98T2QguTYrysS3I/ILYXg1ufLcWwex6VpjAA4s62w="
+  # fuse:
+  #   # Fuse.js v7.5.0, ES module only. Loaded by pages with `search: true`.
+  #   url: "https://cdn.jsdelivr.net/npm/fuse.js@7.5.0/dist/fuse.min.mjs"
+  #   hash: "sha256-WrUk0SSSuyM1aOlgAEbhqqliPTbr5olYkUT33Jsdpvc="

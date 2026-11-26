@@ -12,6 +12,13 @@
 {% comment %} <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet"> {% endcomment %}
 
 {%- include meta.liquid -%}
+{%- if page.search %}
+<!-- Fuse.js: a module script on the page imports it with `import Fuse from "fuse.js"` -->
+<script type="importmap">
+{ "imports": { "fuse.js": "{{ meta.js.fuse.url }}" },
+  "integrity": { "{{ meta.js.fuse.url }}": "{{ meta.js.fuse.hash }}" } }
+</script>
+{%- endif %}
 {%- assign disableSeo = meta.theme.features.disable_seo | downcase | strip | default: false -%}
 {%- case disableSeo -%}
   {%- when true, "true", 1, "1", "yes", "on" -%}
